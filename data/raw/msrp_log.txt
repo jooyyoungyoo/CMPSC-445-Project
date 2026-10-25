@@ -1,0 +1,259 @@
+﻿Found 6 trims already saved, will skip those years
+2008 Toyota Camry -> 4 trims
+2009 Toyota Camry -> 4 trims
+2010 Toyota Camry -> 4 trims
+2011 Toyota Camry -> 4 trims
+2012 Toyota Camry -> 4 trims
+2013 Toyota Camry -> 6 trims
+2014 Toyota Camry -> 7 trims
+2016 Toyota Camry -> 7 trims
+2017 Toyota Camry -> 9 trims
+2018 Toyota Camry -> 10 trims
+2019 Toyota Camry -> 10 trims
+2020 Toyota Camry -> 17 trims
+2021 Toyota Camry -> 17 trims
+2022 Toyota Camry -> 18 trims
+2023 Toyota Camry -> 18 trims
+2024 Toyota Camry -> 18 trims
+2025 Toyota Camry -> 8 trims
+2026 Toyota Camry -> 10 trims
+2008 Toyota Corolla -> 3 trims
+2009 Toyota Corolla -> 5 trims
+2010 Toyota Corolla -> 5 trims
+2011 Toyota Corolla -> 3 trims
+2012 Toyota Corolla -> 3 trims
+2013 Toyota Corolla -> 3 trims
+2014 Toyota Corolla -> 4 trims
+2015 Toyota Corolla -> 4 trims
+2016 Toyota Corolla -> 5 trims
+2017 Toyota Corolla -> 7 trims
+2018 Toyota Corolla -> 6 trims
+2019 Toyota Corolla -> 6 trims
+2020 Toyota Corolla -> 10 trims
+2021 Toyota Corolla -> 13 trims
+2022 Toyota Corolla -> 14 trims
+2023 Toyota Corolla -> 19 trims
+2024 Toyota Corolla -> 12 trims
+2025 Toyota Corolla -> 9 trims
+2026 Toyota Corolla -> 8 trims
+2008 Toyota RAV4 -> 6 trims
+2009 Toyota RAV4 -> 6 trims
+2010 Toyota RAV4 -> 6 trims
+2011 Toyota RAV4 -> 6 trims
+2012 Toyota RAV4 -> 6 trims
+2013 Toyota RAV4 -> 6 trims
+2014 Toyota RAV4 -> 6 trims
+2015 Toyota RAV4 -> 6 trims
+    status 403 - waiting 30 seconds and trying again
+2016 Toyota RAV4 -> 8 trims
+    status 403 - waiting 30 seconds and trying again
+2017 Toyota RAV4 -> 10 trims
+2018 Toyota RAV4 -> 17 trims
+2019 Toyota RAV4 -> 13 trims
+2020 Toyota RAV4 -> 14 trims
+2021 Toyota RAV4 -> 15 trims
+2022 Toyota RAV4 -> 16 trims
+2023 Toyota RAV4 -> 17 trims
+2024 Toyota RAV4 -> 17 trims
+2025 Toyota RAV4 -> 15 trims
+2026 Toyota RAV4 -> 9 trims
+2008 Honda Civic -> 4 trims
+2009 Honda Civic -> 4 trims
+2010 Honda Civic -> 4 trims
+2011 Honda Civic -> 4 trims
+2012 Honda Civic -> 4 trims
+    status 403 - waiting 30 seconds and trying again
+    status 403 - waiting 30 seconds and trying again
+    status 403 - waiting 30 seconds and trying again
+2013 Honda Civic -> no MSRP found
+    status 403 - waiting 30 seconds and trying again
+    status 403 - waiting 30 seconds and trying again
+    status 403 - waiting 30 seconds and trying again
+2014 Honda Civic -> no MSRP found
+2015 Honda Civic -> 4 trims
+2016 Honda Civic -> 10 trims
+2017 Honda Civic -> 11 trims
+2018 Honda Civic -> 10 trims
+2019 Honda Civic -> 5 trims
+2020 Honda Civic -> 5 trims
+    status 403 - waiting 30 seconds and trying again
+2021 Honda Civic -> 5 trims
+2022 Honda Civic -> 4 trims
+2023 Honda Civic -> 4 trims
+2024 Honda Civic -> 4 trims
+2025 Honda Civic -> 2 trims
+2026 Honda Civic -> 2 trims
+2008 Honda Accord -> 2 trims
+2009 Honda Accord -> 2 trims
+2010 Honda Accord -> 2 trims
+    status 403 - waiting 30 seconds and trying again
+2011 Honda Accord -> 3 trims
+2012 Honda Accord -> 3 trims
+2013 Honda Accord -> 6 trims
+2014 Honda Accord -> 6 trims
+2015 Honda Accord -> 6 trims
+2016 Honda Accord -> 11 trims
+2017 Honda Accord -> 12 trims
+2018 Honda Accord -> 10 trims
+    status 403 - waiting 30 seconds and trying again
+2019 Honda Accord -> 7 trims
+2020 Honda Accord -> 7 trims
+2021 Honda Accord -> 6 trims
+2022 Honda Accord -> 6 trims
+2023 Honda Accord -> 2 trims
+    status 403 - waiting 30 seconds and trying again
+2024 Honda Accord -> 2 trims
+2025 Honda Accord -> 2 trims
+2026 Honda Accord -> 2 trims
+2008 Honda CR-V -> 6 trims
+2009 Honda CR-V -> 6 trims
+    status 403 - waiting 30 seconds and trying again
+2010 Honda CR-V -> 6 trims
+2011 Honda CR-V -> 8 trims
+2012 Honda CR-V -> 6 trims
+    status 403 - waiting 30 seconds and trying again
+2013 Honda CR-V -> 6 trims
+2014 Honda CR-V -> 6 trims
+2015 Honda CR-V -> 8 trims
+2016 Honda CR-V -> 10 trims
+2017 Honda CR-V -> 10 trims
+    status 403 - waiting 30 seconds and trying again
+2018 Honda CR-V -> 10 trims
+2019 Honda CR-V -> 8 trims
+    status 403 - waiting 30 seconds and trying again
+2020 Honda CR-V -> 8 trims
+2021 Honda CR-V -> 10 trims
+2022 Honda CR-V -> 9 trims
+2023 Honda CR-V -> 6 trims
+2024 Honda CR-V -> 6 trims
+2025 Honda CR-V -> 6 trims
+2026 Honda CR-V -> 6 trims
+2008 Ford F-150 -> 32 trims
+2009 Ford F-150 -> 26 trims
+2010 Ford F-150 -> 31 trims
+    status 403 - waiting 30 seconds and trying again
+    status 403 - waiting 30 seconds and trying again
+2011 Ford F-150 -> 34 trims
+2012 Ford F-150 -> 32 trims
+2013 Ford F-150 -> 32 trims
+    status 403 - waiting 30 seconds and trying again
+2014 Ford F-150 -> 36 trims
+2015 Ford F-150 -> 20 trims
+    status 403 - waiting 30 seconds and trying again
+2016 Ford F-150 -> 22 trims
+2017 Ford F-150 -> 24 trims
+2018 Ford F-150 -> 24 trims
+2019 Ford F-150 -> 24 trims
+2020 Ford F-150 -> 24 trims
+2021 Ford F-150 -> 26 trims
+2022 Ford F-150 -> 26 trims
+2023 Ford F-150 -> 22 trims
+2024 Ford F-150 -> 20 trims
+2025 Ford F-150 -> 31 trims
+2026 Ford F-150 -> 31 trims
+    status 403 - waiting 30 seconds and trying again
+2008 Ford Escape -> 8 trims
+2009 Ford Escape -> 10 trims
+2010 Ford Escape -> 10 trims
+2011 Ford Escape -> 10 trims
+    status 403 - waiting 30 seconds and trying again
+2012 Ford Escape -> 10 trims
+2013 Ford Escape -> 7 trims
+2014 Ford Escape -> 5 trims
+2015 Ford Escape -> 5 trims
+2016 Ford Escape -> 5 trims
+2017 Ford Escape -> 5 trims
+2018 Ford Escape -> 7 trims
+2019 Ford Escape -> 7 trims
+2020 Ford Escape -> 15 trims
+2021 Ford Escape -> 17 trims
+2022 Ford Escape -> 17 trims
+2023 Ford Escape -> 17 trims
+2024 Ford Escape -> 15 trims
+2025 Ford Escape -> 9 trims
+2026 Ford Escape -> 8 trims
+2008 Ford Explorer -> 6 trims
+2009 Ford Explorer -> 6 trims
+2010 Ford Explorer -> 6 trims
+2011 Ford Explorer -> 6 trims
+2012 Ford Explorer -> 9 trims
+    status 403 - waiting 30 seconds and trying again
+2013 Ford Explorer -> 10 trims
+2014 Ford Explorer -> 10 trims
+2015 Ford Explorer -> 10 trims
+2016 Ford Explorer -> 14 trims
+2017 Ford Explorer -> 14 trims
+2018 Ford Explorer -> 14 trims
+2019 Ford Explorer -> 14 trims
+2020 Ford Explorer -> 11 trims
+    status 403 - waiting 30 seconds and trying again
+2021 Ford Explorer -> 16 trims
+2022 Ford Explorer -> 20 trims
+2023 Ford Explorer -> 20 trims
+2024 Ford Explorer -> 16 trims
+2025 Ford Explorer -> 8 trims
+    status 403 - waiting 30 seconds and trying again
+2026 Ford Explorer -> 9 trims
+2008 Chevrolet Silverado 1500 -> 14 trims
+2009 Chevrolet Silverado 1500 -> 21 trims
+2010 Chevrolet Silverado 1500 -> 21 trims
+2011 Chevrolet Silverado 1500 -> 21 trims
+2012 Chevrolet Silverado 1500 -> 21 trims
+2013 Chevrolet Silverado 1500 -> 21 trims
+2014 Chevrolet Silverado 1500 -> 18 trims
+2015 Chevrolet Silverado 1500 -> 24 trims
+2016 Chevrolet Silverado 1500 -> 33 trims
+2017 Chevrolet Silverado 1500 -> 32 trims
+    status 403 - waiting 30 seconds and trying again
+2018 Chevrolet Silverado 1500 -> 35 trims
+2019 Chevrolet Silverado 1500 -> 28 trims
+2020 Chevrolet Silverado 1500 -> 27 trims
+2021 Chevrolet Silverado 1500 -> 26 trims
+2022 Chevrolet Silverado 1500 -> 26 trims
+2023 Chevrolet Silverado 1500 -> 26 trims
+2024 Chevrolet Silverado 1500 -> 27 trims
+2025 Chevrolet Silverado 1500 -> 10 trims
+2026 Chevrolet Silverado 1500 -> 10 trims
+2008 Chevrolet Equinox -> 10 trims
+2009 Chevrolet Equinox -> 10 trims
+2010 Chevrolet Equinox -> 8 trims
+2011 Chevrolet Equinox -> 8 trims
+2012 Chevrolet Equinox -> 8 trims
+2013 Chevrolet Equinox -> 8 trims
+2014 Chevrolet Equinox -> 8 trims
+2015 Chevrolet Equinox -> 9 trims
+2016 Chevrolet Equinox -> 7 trims
+2017 Chevrolet Equinox -> 9 trims
+2018 Chevrolet Equinox -> 15 trims
+2019 Chevrolet Equinox -> 17 trims
+2020 Chevrolet Equinox -> 17 trims
+2021 Chevrolet Equinox -> 11 trims
+2022 Chevrolet Equinox -> 12 trims
+2023 Chevrolet Equinox -> 12 trims
+2024 Chevrolet Equinox -> 12 trims
+2025 Chevrolet Equinox -> 6 trims
+2026 Chevrolet Equinox -> 6 trims
+2008 Chevrolet Malibu -> 5 trims
+2009 Chevrolet Malibu -> 5 trims
+2010 Chevrolet Malibu -> 5 trims
+2011 Chevrolet Malibu -> 5 trims
+2012 Chevrolet Malibu -> 5 trims
+2013 Chevrolet Malibu -> 9 trims
+2014 Chevrolet Malibu -> 8 trims
+2015 Chevrolet Malibu -> 7 trims
+2016 Chevrolet Malibu -> 8 trims
+2017 Chevrolet Malibu -> 6 trims
+2018 Chevrolet Malibu -> 6 trims
+2019 Chevrolet Malibu -> 7 trims
+2020 Chevrolet Malibu -> 6 trims
+2021 Chevrolet Malibu -> 6 trims
+2022 Chevrolet Malibu -> 5 trims
+2023 Chevrolet Malibu -> 5 trims
+2024 Chevrolet Malibu -> 5 trims
+2025 Chevrolet Malibu -> 5 trims
+2026 Chevrolet Malibu -> no MSRP found
+Done! Saved 2508 trim prices to C:\Users\jooyo\OneDrive\Documents\CMPSC 445\data\raw\msrp_raw.csv
+Model years with no MSRP: 3
+    2013 Honda Civic
+    2014 Honda Civic
+    2026 Chevrolet Malibu

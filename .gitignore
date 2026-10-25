@@ -1,0 +1,5 @@
+venv/
+src_backup/
+__pycache__/
+*.pyc
+.vscode/

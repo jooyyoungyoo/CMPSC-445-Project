@@ -1,0 +1,92 @@
+======================================================================
+1. LINEAR REGRESSION COEFFICIENTS (real units)
+======================================================================
+Change in value retention, holding all other features the same:
+  +1 year of age: -0.0226
+  +10,000 miles: -0.0188
+  +1,000 miles/year: -0.001
+  +$1,000 of MSRP: -0.0037
+  desc_one_owner (yes vs no): 0.0058
+  desc_clean_title (yes vs no): -0.0084
+  desc_accident_free (yes vs no): 0.0177
+  desc_needs_work (yes vs no): 0.0069
+  desc_maintained (yes vs no): 0.0284
+  desc_premium_count (+1 feature): 0.0217
+  branded_title (yes vs no): -0.103
+  seller_type_owner (yes vs no): -0.0355
+  source_craigslist (yes vs no): -0.0254
+
+======================================================================
+2. GROUPED PERMUTATION IMPORTANCE (Gradient Boosting, test set)
+======================================================================
+Test R^2 before shuffling: 0.819
+How much R^2 drops when each feature group is shuffled:
+     feature_group  columns  r2_drop_mean  r2_drop_std
+           mileage        1        0.6278       0.0447
+       vehicle_age        1        0.2334       0.0170
+             model       11        0.1045       0.0118
+              make        3        0.0498       0.0069
+              msrp        1        0.0216       0.0048
+         body_type        5        0.0174       0.0035
+       seller_type        1        0.0169       0.0035
+  state_target_enc        1        0.0140       0.0046
+desc_premium_count        1        0.0137       0.0127
+            source        1        0.0109       0.0019
+         cylinders        1        0.0074       0.0032
+     branded_title        1        0.0062       0.0022
+         condition        6        0.0043       0.0025
+         fuel_type        3        0.0037       0.0038
+        drivetrain        3        0.0022       0.0019
+    miles_per_year        1        0.0013       0.0029
+      transmission        2        0.0009       0.0012
+   state_frequency        1        0.0008       0.0008
+desc_accident_free        1        0.0006       0.0002
+   desc_maintained        1        0.0004       0.0005
+  desc_clean_title        1        0.0004       0.0004
+    desc_one_owner        1        0.0001       0.0004
+   desc_needs_work        1       -0.0001       0.0002
+    exterior_color        7       -0.0029       0.0010
+
+======================================================================
+3. DEPRECIATION CURVES (Gradient Boosting, everything else held the same)
+======================================================================
+Predicted value retention by vehicle age:
+  age 0: 0.647
+  age 1: 0.627   (-0.02 from the year before)
+  age 2: 0.597   (-0.03 from the year before)
+  age 3: 0.585   (-0.012 from the year before)
+  age 4: 0.583   (-0.003 from the year before)
+  age 5: 0.579   (-0.004 from the year before)
+  age 6: 0.566   (-0.013 from the year before)
+  age 7: 0.525   (-0.041 from the year before)
+  age 8: 0.501   (-0.024 from the year before)
+  age 9: 0.484   (-0.017 from the year before)
+  age 10: 0.46   (-0.024 from the year before)
+  age 11: 0.451   (-0.009 from the year before)
+  age 12: 0.419   (-0.032 from the year before)
+  age 13: 0.416   (-0.003 from the year before)
+  age 14: 0.409   (-0.006 from the year before)
+  age 15: 0.399   (-0.01 from the year before)
+
+Predicted value retention by mileage:
+  0 miles: 0.754
+  50000 miles: 0.607
+  100000 miles: 0.51
+  150000 miles: 0.397
+  200000 miles: 0.31
+  250000 miles: 0.3
+
+======================================================================
+4. MEDIAN VALUE RETENTION BY AGE AND MAKE (real data)
+======================================================================
+age bucket   Toyota   Honda   Chevrolet   Ford
+  0-1:   0.86   0.91   0.79   0.76
+  2-3:   0.83   0.8   0.57   0.64
+  4-5:   0.73   0.77   0.54   0.54
+  6-7:   0.64   0.67   0.46   0.44
+  8-9:   0.55   0.57   0.41   0.37
+  10-11:   0.57   0.5   0.24   0.28
+  12-13:   0.4   0.41   0.19   0.23
+  14-15:   0.44   0.36   0.26   0.18
+  16-17:   0.3   0.26   0.23   0.18
+  18-19:   0.32   0.25   0.2   0.23

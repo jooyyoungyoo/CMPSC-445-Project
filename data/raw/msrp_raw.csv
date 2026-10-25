@@ -1,0 +1,2515 @@
+make,model,year,trim_name,base_msrp,source
+Toyota,Camry,2015,Sedan 4D LE I4,22970,jdpower
+Toyota,Camry,2015,Sedan 4D SE I4,23840,jdpower
+Toyota,Camry,2015,Sedan 4D XLE I4,26150,jdpower
+Toyota,Camry,2015,Sedan 4D XSE I4,26150,jdpower
+Toyota,Camry,2015,Sedan 4D XLE V6,31370,jdpower
+Toyota,Camry,2015,Sedan 4D XSE V6,31370,jdpower
+Toyota,Camry,2008,Sedan 4D LE,20025,jdpower
+Toyota,Camry,2008,Sedan 4D CE,18570,jdpower
+Toyota,Camry,2008,Sedan 4D SE,21240,jdpower
+Toyota,Camry,2008,Sedan 4D XLE,25000,jdpower
+Toyota,Camry,2009,Sedan 4D,20195,jdpower
+Toyota,Camry,2009,Sedan 4D LE,21650,jdpower
+Toyota,Camry,2009,Sedan 4D SE,22815,jdpower
+Toyota,Camry,2009,Sedan 4D XLE,25575,jdpower
+Toyota,Camry,2010,Sedan 4D,20445,jdpower
+Toyota,Camry,2010,Sedan 4D LE,21900,jdpower
+Toyota,Camry,2010,Sedan 4D SE,23165,jdpower
+Toyota,Camry,2010,Sedan 4D XLE,25925,jdpower
+Toyota,Camry,2011,Sedan 4D,21245,jdpower
+Toyota,Camry,2011,Sedan 4D LE,22700,jdpower
+Toyota,Camry,2011,Sedan 4D SE,23965,jdpower
+Toyota,Camry,2011,Sedan 4D XLE,26725,jdpower
+Toyota,Camry,2012,Sedan 4D L,22055,jdpower
+Toyota,Camry,2012,Sedan 4D LE,22600,jdpower
+Toyota,Camry,2012,Sedan 4D SE,23220,jdpower
+Toyota,Camry,2012,Sedan 4D XLE,24775,jdpower
+Toyota,Camry,2013,Sedan 4D L I4,22235,jdpower
+Toyota,Camry,2013,Sedan 4D LE I4,22680,jdpower
+Toyota,Camry,2013,Sedan 4D SE I4,23400,jdpower
+Toyota,Camry,2013,Sedan 4D XLE I4,24855,jdpower
+Toyota,Camry,2013,Sedan 4D SE V6,27260,jdpower
+Toyota,Camry,2013,Sedan 4D XLE V6,30465,jdpower
+Toyota,Camry,2014,Sedan 4D L I4,22425,jdpower
+Toyota,Camry,2014,Sedan 4D LE I4,22870,jdpower
+Toyota,Camry,2014,Sedan 4D SE I4,23740,jdpower
+Toyota,Camry,2014,Sedan 4D SE Sport I4,24865,jdpower
+Toyota,Camry,2014,Sedan 4D XLE I4,25810,jdpower
+Toyota,Camry,2014,Sedan 4D SE V6,27850,jdpower
+Toyota,Camry,2014,Sedan 4D XLE V6,30705,jdpower
+Toyota,Camry,2016,Sedan 4D LE I4,23070,jdpower
+Toyota,Camry,2016,Sedan 4D SE I4,23840,jdpower
+Toyota,Camry,2016,Sedan 4D Special Edition I4,25715,jdpower
+Toyota,Camry,2016,Sedan 4D XLE I4,26310,jdpower
+Toyota,Camry,2016,Sedan 4D XSE I4,26310,jdpower
+Toyota,Camry,2016,Sedan 4D XLE V6,31370,jdpower
+Toyota,Camry,2016,Sedan 4D XSE V6,31370,jdpower
+Toyota,Camry,2017,Sedan 4D LE I4,23070,jdpower
+Toyota,Camry,2017,Sedan 4D SE I4,23840,jdpower
+Toyota,Camry,2017,Sedan 4D XSE I4,26310,jdpower
+Toyota,Camry,2017,Sedan 4D LE I4 Hybrid,26790,jdpower
+Toyota,Camry,2017,Sedan 4D XLE I4,26310,jdpower
+Toyota,Camry,2017,Sedan 4D SE I4 Hybrid,27995,jdpower
+Toyota,Camry,2017,Sedan 4D XLE I4 Hybrid,30140,jdpower
+Toyota,Camry,2017,Sedan 4D XLE V6,31370,jdpower
+Toyota,Camry,2017,Sedan 4D XSE V6,31370,jdpower
+Toyota,Camry,2018,Sedan 4D L I4,23645,jdpower
+Toyota,Camry,2018,Sedan 4D LE I4,24150,jdpower
+Toyota,Camry,2018,Sedan 4D SE I4,25350,jdpower
+Toyota,Camry,2018,Sedan 4D LE I4 Hybrid,27950,jdpower
+Toyota,Camry,2018,Sedan 4D XLE I4,28600,jdpower
+Toyota,Camry,2018,Sedan 4D SE I4 Hybrid,29650,jdpower
+Toyota,Camry,2018,Sedan 4D XSE I4,29150,jdpower
+Toyota,Camry,2018,Sedan 4D XLE I4 Hybrid,32400,jdpower
+Toyota,Camry,2018,Sedan 4D XLE V6,34550,jdpower
+Toyota,Camry,2018,Sedan 4D XSE V6,35100,jdpower
+Toyota,Camry,2019,Sedan 4D L I4,24095,jdpower
+Toyota,Camry,2019,Sedan 4D LE I4,24600,jdpower
+Toyota,Camry,2019,Sedan 4D SE I4,25800,jdpower
+Toyota,Camry,2019,Sedan 4D XLE I4,29175,jdpower
+Toyota,Camry,2019,Sedan 4D LE I4 Hybrid,28400,jdpower
+Toyota,Camry,2019,Sedan 4D XSE I4,29725,jdpower
+Toyota,Camry,2019,Sedan 4D SE I4 Hybrid,30100,jdpower
+Toyota,Camry,2019,Sedan 4D XLE V6,34300,jdpower
+Toyota,Camry,2019,Sedan 4D XLE I4 Hybrid,32975,jdpower
+Toyota,Camry,2019,Sedan 4D XSE V6,34850,jdpower
+Toyota,Camry,2020,Sedan 4D L I4,24425,jdpower
+Toyota,Camry,2020,Sedan 4D LE I4,24970,jdpower
+Toyota,Camry,2020,Sedan 4D SE I4,26170,jdpower
+Toyota,Camry,2020,Sedan 4D LE AWD,26370,jdpower
+Toyota,Camry,2020,Sedan 4D Nightshade,26870,jdpower
+Toyota,Camry,2020,Sedan 4D SE AWD,27570,jdpower
+Toyota,Camry,2020,Sedan 4D LE I4 Hybrid,28430,jdpower
+Toyota,Camry,2020,Sedan 4D Nightshade AWD,28270,jdpower
+Toyota,Camry,2020,Sedan 4D XLE I4,29455,jdpower
+Toyota,Camry,2020,Sedan 4D XLE AWD,30855,jdpower
+Toyota,Camry,2020,Sedan 4D SE I4 Hybrid,30130,jdpower
+Toyota,Camry,2020,Sedan 4D XSE I4,30005,jdpower
+Toyota,Camry,2020,Sedan 4D XLE V6,34580,jdpower
+Toyota,Camry,2020,Sedan 4D XSE AWD,31405,jdpower
+Toyota,Camry,2020,Sedan 4D XLE I4 Hybrid,32730,jdpower
+Toyota,Camry,2020,Sedan 4D TRD,31170,jdpower
+Toyota,Camry,2020,Sedan 4D XSE V6,35130,jdpower
+Toyota,Camry,2021,Sedan 4D LE I4,25045,jdpower
+Toyota,Camry,2021,Sedan 4D LE AWD,26445,jdpower
+Toyota,Camry,2021,Sedan 4D SE I4,26560,jdpower
+Toyota,Camry,2021,Sedan 4D Nightshade,27260,jdpower
+Toyota,Camry,2021,Sedan 4D SE AWD,27960,jdpower
+Toyota,Camry,2021,Sedan 4D Nightshade AWD,28660,jdpower
+Toyota,Camry,2021,Sedan 4D XLE I4,29945,jdpower
+Toyota,Camry,2021,Sedan 4D LE I4 Hybrid,27270,jdpower
+Toyota,Camry,2021,Sedan 4D SE I4 Hybrid,28785,jdpower
+Toyota,Camry,2021,Sedan 4D XSE I4,30495,jdpower
+Toyota,Camry,2021,Sedan 4D XLE AWD,31345,jdpower
+Toyota,Camry,2021,Sedan 4D XLE I4 Hybrid,32170,jdpower
+Toyota,Camry,2021,Sedan 4D XLE V6,35070,jdpower
+Toyota,Camry,2021,Sedan 4D XSE AWD,31895,jdpower
+Toyota,Camry,2021,Sedan 4D XSE Hybrid,32720,jdpower
+Toyota,Camry,2021,Sedan 4D XSE V6,35620,jdpower
+Toyota,Camry,2021,Sedan 4D TRD,32260,jdpower
+Toyota,Camry,2022,Sedan 4D LE I4,25845,jdpower
+Toyota,Camry,2022,Sedan 4D LE AWD,27245,jdpower
+Toyota,Camry,2022,Sedan 4D SE I4,27385,jdpower
+Toyota,Camry,2022,Sedan 4D Nightshade,28085,jdpower
+Toyota,Camry,2022,Sedan 4D LE I4 Hybrid,27980,jdpower
+Toyota,Camry,2022,Sedan 4D SE AWD,28785,jdpower
+Toyota,Camry,2022,Sedan 4D Nightshade AWD,29485,jdpower
+Toyota,Camry,2022,Sedan 4D SE I4 Hybrid,29515,jdpower
+Toyota,Camry,2022,Sedan 4D Nightshade Hybrid,30215,jdpower
+Toyota,Camry,2022,Sedan 4D XLE I4,30595,jdpower
+Toyota,Camry,2022,Sedan 4D XSE I4,31145,jdpower
+Toyota,Camry,2022,Sedan 4D XLE AWD,31995,jdpower
+Toyota,Camry,2022,Sedan 4D XSE AWD,32545,jdpower
+Toyota,Camry,2022,Sedan 4D XLE I4 Hybrid,32870,jdpower
+Toyota,Camry,2022,Sedan 4D XSE Hybrid,33420,jdpower
+Toyota,Camry,2022,Sedan 4D XLE V6,35720,jdpower
+Toyota,Camry,2022,Sedan 4D TRD,32910,jdpower
+Toyota,Camry,2022,Sedan 4D XSE V6,36270,jdpower
+Toyota,Camry,2023,Sedan 4D LE I4,26320,jdpower
+Toyota,Camry,2023,Sedan 4D LE AWD,27720,jdpower
+Toyota,Camry,2023,Sedan 4D SE I4,27860,jdpower
+Toyota,Camry,2023,Sedan 4D LE I4 Hybrid,28655,jdpower
+Toyota,Camry,2023,Sedan 4D Nightshade,28860,jdpower
+Toyota,Camry,2023,Sedan 4D SE AWD,29260,jdpower
+Toyota,Camry,2023,Sedan 4D Nightshade AWD,30260,jdpower
+Toyota,Camry,2023,Sedan 4D SE I4 Hybrid,30190,jdpower
+Toyota,Camry,2023,Sedan 4D XLE I4,31070,jdpower
+Toyota,Camry,2023,Sedan 4D XSE I4,31620,jdpower
+Toyota,Camry,2023,Sedan 4D XLE AWD,32470,jdpower
+Toyota,Camry,2023,Sedan 4D Nightshade Hybrid,31190,jdpower
+Toyota,Camry,2023,Sedan 4D XSE AWD,33020,jdpower
+Toyota,Camry,2023,Sedan 4D XLE I4 Hybrid,33545,jdpower
+Toyota,Camry,2023,Sedan 4D XSE Hybrid,34095,jdpower
+Toyota,Camry,2023,Sedan 4D XLE V6,36195,jdpower
+Toyota,Camry,2023,Sedan 4D TRD,33385,jdpower
+Toyota,Camry,2023,Sedan 4D XSE V6,36745,jdpower
+Toyota,Camry,2024,Sedan 4D LE I4,26420,jdpower
+Toyota,Camry,2024,Sedan 4D LE I4 Hybrid,28855,jdpower
+Toyota,Camry,2024,Sedan 4D LE AWD,27820,jdpower
+Toyota,Camry,2024,Sedan 4D XLE I4,31170,jdpower
+Toyota,Camry,2024,Sedan 4D SE I4,27960,jdpower
+Toyota,Camry,2024,Sedan 4D Nightshade,28960,jdpower
+Toyota,Camry,2024,Sedan 4D SE AWD,29360,jdpower
+Toyota,Camry,2024,Sedan 4D SE I4 Hybrid,30390,jdpower
+Toyota,Camry,2024,Sedan 4D XSE I4,31720,jdpower
+Toyota,Camry,2024,Sedan 4D Nightshade AWD,30360,jdpower
+Toyota,Camry,2024,Sedan 4D Nightshade Hybrid,31390,jdpower
+Toyota,Camry,2024,Sedan 4D XLE I4 Hybrid,33745,jdpower
+Toyota,Camry,2024,Sedan 4D XLE AWD,32570,jdpower
+Toyota,Camry,2024,Sedan 4D XLE V6,36295,jdpower
+Toyota,Camry,2024,Sedan 4D XSE Hybrid,34295,jdpower
+Toyota,Camry,2024,Sedan 4D XSE AWD,33120,jdpower
+Toyota,Camry,2024,Sedan 4D XSE V6,36845,jdpower
+Toyota,Camry,2024,Sedan 4D TRD,33485,jdpower
+Toyota,Camry,2025,LE ,28700,jdpower
+Toyota,Camry,2025,LE AWD ,30225,jdpower
+Toyota,Camry,2025,SE ,31000,jdpower
+Toyota,Camry,2025,SE AWD ,32525,jdpower
+Toyota,Camry,2025,XLE ,33700,jdpower
+Toyota,Camry,2025,XSE ,34900,jdpower
+Toyota,Camry,2025,XLE AWD ,35225,jdpower
+Toyota,Camry,2025,XSE AWD ,36425,jdpower
+Toyota,Camry,2026,LE ,29600,jdpower
+Toyota,Camry,2026,SE ,32100,jdpower
+Toyota,Camry,2026,LE AWD ,31125,jdpower
+Toyota,Camry,2026,Nightshade ,33100,jdpower
+Toyota,Camry,2026,SE AWD ,33625,jdpower
+Toyota,Camry,2026,XLE ,34800,jdpower
+Toyota,Camry,2026,XSE ,36000,jdpower
+Toyota,Camry,2026,Nightshade AWD ,34625,jdpower
+Toyota,Camry,2026,XLE AWD ,36325,jdpower
+Toyota,Camry,2026,XSE AWD ,37525,jdpower
+Toyota,Corolla,2008,Sedan 4D CE,14405,jdpower
+Toyota,Corolla,2008,Sedan 4D S,15450,jdpower
+Toyota,Corolla,2008,Sedan 4D LE,15615,jdpower
+Toyota,Corolla,2009,Sedan 4D,16150,jdpower
+Toyota,Corolla,2009,Sedan 4D LE,16750,jdpower
+Toyota,Corolla,2009,Sedan 4D S,17250,jdpower
+Toyota,Corolla,2009,Sedan 4D XLE,17650,jdpower
+Toyota,Corolla,2009,Sedan 4D XRS,20050,jdpower
+Toyota,Corolla,2010,Sedan 4D,16250,jdpower
+Toyota,Corolla,2010,Sedan 4D LE,16850,jdpower
+Toyota,Corolla,2010,Sedan 4D S,17350,jdpower
+Toyota,Corolla,2010,Sedan 4D XLE,17750,jdpower
+Toyota,Corolla,2010,Sedan 4D XRS,20150,jdpower
+Toyota,Corolla,2011,Sedan 4D,16700,jdpower
+Toyota,Corolla,2011,Sedan 4D LE,17600,jdpower
+Toyota,Corolla,2011,Sedan 4D S,18600,jdpower
+Toyota,Corolla,2012,Sedan 4D L,16960,jdpower
+Toyota,Corolla,2012,Sedan 4D LE,17910,jdpower
+Toyota,Corolla,2012,Sedan 4D S,18820,jdpower
+Toyota,Corolla,2013,Sedan 4D L I4,17060,jdpower
+Toyota,Corolla,2013,Sedan 4D LE I4,18180,jdpower
+Toyota,Corolla,2013,Sedan 4D S I4,19060,jdpower
+Toyota,Corolla,2014,Sedan 4D L I4,17400,jdpower
+Toyota,Corolla,2014,Sedan 4D LE I4,18300,jdpower
+Toyota,Corolla,2014,Sedan 4D S I4,19000,jdpower
+Toyota,Corolla,2014,Sedan 4D LE Eco I4,18700,jdpower
+Toyota,Corolla,2015,Sedan 4D L I4,17550,jdpower
+Toyota,Corolla,2015,Sedan 4D LE I4,18565,jdpower
+Toyota,Corolla,2015,Sedan 4D S I4,19195,jdpower
+Toyota,Corolla,2015,Sedan 4D LE Eco I4,18965,jdpower
+Toyota,Corolla,2016,Sedan 4D L I4,17900,jdpower
+Toyota,Corolla,2016,Sedan 4D LE I4,18735,jdpower
+Toyota,Corolla,2016,Sedan 4D LE Eco I4,19135,jdpower
+Toyota,Corolla,2016,Sedan 4D S I4,19365,jdpower
+Toyota,Corolla,2016,Sedan 4D Special Edition I4,20635,jdpower
+Toyota,Corolla,2017,Sedan 4D L I4,18500,jdpower
+Toyota,Corolla,2017,Sedan 4D LE I4,18935,jdpower
+Toyota,Corolla,2017,Sedan 4D LE Eco I4,19335,jdpower
+Toyota,Corolla,2017,Sedan 4D SE I4,20445,jdpower
+Toyota,Corolla,2017,Sedan 4D Anniversary I4,21900,jdpower
+Toyota,Corolla,2017,Sedan 4D XLE I4,21825,jdpower
+Toyota,Corolla,2017,Sedan 4D XSE I4,22680,jdpower
+Toyota,Corolla,2018,Sedan 4D L I4,18600,jdpower
+Toyota,Corolla,2018,Sedan 4D LE I4,19035,jdpower
+Toyota,Corolla,2018,Sedan 4D LE Eco I4,19435,jdpower
+Toyota,Corolla,2018,Sedan 4D SE I4,20545,jdpower
+Toyota,Corolla,2018,Sedan 4D XLE I4,22035,jdpower
+Toyota,Corolla,2018,Sedan 4D XSE I4,22780,jdpower
+Toyota,Corolla,2019,Sedan 4D L I4,18700,jdpower
+Toyota,Corolla,2019,Sedan 4D LE I4,19135,jdpower
+Toyota,Corolla,2019,Sedan 4D LE Eco I4,19535,jdpower
+Toyota,Corolla,2019,Sedan 4D SE I4,20645,jdpower
+Toyota,Corolla,2019,Sedan 4D XLE I4,22135,jdpower
+Toyota,Corolla,2019,Sedan 4D XSE I4,22880,jdpower
+Toyota,Corolla,2020,Sedan 4D L I4,19600,jdpower
+Toyota,Corolla,2020,Sedan 4D LE I4,20050,jdpower
+Toyota,Corolla,2020,Sedan 4D LE Premium,20050,jdpower
+Toyota,Corolla,2020,Sedan 4D SE Manual,22750,jdpower
+Toyota,Corolla,2020,Sedan 4D Nightshade,22750,jdpower
+Toyota,Corolla,2020,Sedan 4D SE Premium,22050,jdpower
+Toyota,Corolla,2020,Sedan 4D SE I4,22050,jdpower
+Toyota,Corolla,2020,Sedan 4D LE Hybrid,23100,jdpower
+Toyota,Corolla,2020,Sedan 4D XLE I4,24050,jdpower
+Toyota,Corolla,2020,Sedan 4D XSE I4,25550,jdpower
+Toyota,Corolla,2021,Sedan 4D L I4,20025,jdpower
+Toyota,Corolla,2021,Sedan 4D LE Premium,20475,jdpower
+Toyota,Corolla,2021,Sedan 4D LE I4,20475,jdpower
+Toyota,Corolla,2021,Sedan 4D SE Manual,23175,jdpower
+Toyota,Corolla,2021,Sedan 4D Nightshade,23175,jdpower
+Toyota,Corolla,2021,Sedan 4D LE Hybrid,23600,jdpower
+Toyota,Corolla,2021,Sedan 4D SE I4,22475,jdpower
+Toyota,Corolla,2021,Sedan 4D SE Premium,22475,jdpower
+Toyota,Corolla,2021,Sedan 4D XLE I4,24425,jdpower
+Toyota,Corolla,2021,Sedan 4D SE Apex Edition Auto,25170,jdpower
+Toyota,Corolla,2021,Sedan 4D SE Apex Edition Manual,25560,jdpower
+Toyota,Corolla,2021,Sedan 4D XSE I4,25925,jdpower
+Toyota,Corolla,2021,Sedan 4D XSE Apex Edition,28310,jdpower
+Toyota,Corolla,2022,Sedan 4D L I4,20425,jdpower
+Toyota,Corolla,2022,Sedan 4D LE I4,20875,jdpower
+Toyota,Corolla,2022,Sedan 4D LE Convenience,20875,jdpower
+Toyota,Corolla,2022,Sedan 4D LE Premium,20875,jdpower
+Toyota,Corolla,2022,Sedan 4D Nightshade,23575,jdpower
+Toyota,Corolla,2022,Sedan 4D SE Manual,23575,jdpower
+Toyota,Corolla,2022,Sedan 4D XLE I4,24825,jdpower
+Toyota,Corolla,2022,Sedan 4D SE Premium,22875,jdpower
+Toyota,Corolla,2022,Sedan 4D SE I4,22875,jdpower
+Toyota,Corolla,2022,Sedan 4D LE Hybrid,24050,jdpower
+Toyota,Corolla,2022,Sedan 4D SE Apex Edition Manual,25960,jdpower
+Toyota,Corolla,2022,Sedan 4D XSE I4,26325,jdpower
+Toyota,Corolla,2022,Sedan 4D SE Apex Edition Auto,25570,jdpower
+Toyota,Corolla,2022,Sedan 4D XSE Apex Edition,28710,jdpower
+Toyota,Corolla,2023,Sedan 4D LE I4,22038,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Premium,22038,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Convenience,22038,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Premium Hybrid,23050,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Hybrid,23050,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Convenience Hybrid,23050,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Premium,24140,jdpower
+Toyota,Corolla,2023,Sedan 4D SE I4,24140,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Premium AWD Hybrid,24450,jdpower
+Toyota,Corolla,2023,Sedan 4D LE Convenience AWD Hybrid,24450,jdpower
+Toyota,Corolla,2023,Sedan 4D LE AWD Hybrid,24450,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Infrared Hybrid,26025,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Premium Hybrid,25490,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Hybrid,25490,jdpower
+Toyota,Corolla,2023,Sedan 4D XLE Hybrid,26850,jdpower
+Toyota,Corolla,2023,Sedan 4D XSE I4,26850,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Infrared  AWD Hybrid,27425,jdpower
+Toyota,Corolla,2023,Sedan 4D SE Premium AWD Hybrid,26890,jdpower
+Toyota,Corolla,2023,Sedan 4D SE AWD Hybrid,26890,jdpower
+Toyota,Corolla,2024,Sedan 4D LE I4,22050,jdpower
+Toyota,Corolla,2024,Sedan 4D LE Hybrid,23500,jdpower
+Toyota,Corolla,2024,Sedan 4D SE Premium,24490,jdpower
+Toyota,Corolla,2024,Sedan 4D SE I4,24490,jdpower
+Toyota,Corolla,2024,Sedan 4D LE AWD Hybrid,24900,jdpower
+Toyota,Corolla,2024,Sedan 4D Nightshade,25490,jdpower
+Toyota,Corolla,2024,Sedan 4D Nightshade Hybrid,26940,jdpower
+Toyota,Corolla,2024,Sedan 4D SE Hybrid,25940,jdpower
+Toyota,Corolla,2024,Sedan 4D XSE I4,27150,jdpower
+Toyota,Corolla,2024,Sedan 4D XLE Hybrid,27250,jdpower
+Toyota,Corolla,2024,Sedan 4D Nightshade Hybrid AWD,28340,jdpower
+Toyota,Corolla,2024,Sedan 4D SE AWD Hybrid,27340,jdpower
+Toyota,Corolla,2025,LE CVT ,22325,jdpower
+Toyota,Corolla,2025,Hybrid LE FWD ,23825,jdpower
+Toyota,Corolla,2025,SE CVT ,24765,jdpower
+Toyota,Corolla,2025,Hybrid LE AWD ,25225,jdpower
+Toyota,Corolla,2025,FX CVT ,26650,jdpower
+Toyota,Corolla,2025,Hybrid SE FWD ,26265,jdpower
+Toyota,Corolla,2025,XSE CVT ,28040,jdpower
+Toyota,Corolla,2025,Hybrid SE AWD ,27665,jdpower
+Toyota,Corolla,2025,Hybrid XLE FWD ,28190,jdpower
+Toyota,Corolla,2026,LE CVT ,23125,jdpower
+Toyota,Corolla,2026,SE CVT ,25565,jdpower
+Toyota,Corolla,2026,Hybrid LE FWD ,24975,jdpower
+Toyota,Corolla,2026,Hybrid SE FWD ,27415,jdpower
+Toyota,Corolla,2026,Hybrid LE AWD ,26375,jdpower
+Toyota,Corolla,2026,XSE CVT ,28840,jdpower
+Toyota,Corolla,2026,Hybrid SE AWD ,28815,jdpower
+Toyota,Corolla,2026,Hybrid XLE FWD ,29340,jdpower
+Toyota,RAV4,2008,Utility 4D 2WD,21100,jdpower
+Toyota,RAV4,2008,Utility 4D 4WD,22500,jdpower
+Toyota,RAV4,2008,Utility 4D Sport 2WD,22675,jdpower
+Toyota,RAV4,2008,Utility 4D Limited 2WD,23355,jdpower
+Toyota,RAV4,2008,Utility 4D Sport 4WD,24075,jdpower
+Toyota,RAV4,2008,Utility 4D Limited 4WD,24755,jdpower
+Toyota,RAV4,2009,Utility 4D 2WD,21500,jdpower
+Toyota,RAV4,2009,Utility 4D 4WD,22900,jdpower
+Toyota,RAV4,2009,Utility 4D Sport 2WD,23200,jdpower
+Toyota,RAV4,2009,Utility 4D Limited 2WD,24490,jdpower
+Toyota,RAV4,2009,Utility 4D Sport 4WD,24600,jdpower
+Toyota,RAV4,2009,Utility 4D Limited 4WD,25880,jdpower
+Toyota,RAV4,2010,Utility 4D 4WD,23075,jdpower
+Toyota,RAV4,2010,Utility 4D 2WD,21675,jdpower
+Toyota,RAV4,2010,Utility 4D Sport 2WD,23375,jdpower
+Toyota,RAV4,2010,Utility 4D Sport 4WD,24775,jdpower
+Toyota,RAV4,2010,Utility 4D Limited 2WD,24665,jdpower
+Toyota,RAV4,2010,Utility 4D Limited 4WD,26055,jdpower
+Toyota,RAV4,2011,Utility 4D 2WD,22475,jdpower
+Toyota,RAV4,2011,Utility 4D 4WD,23875,jdpower
+Toyota,RAV4,2011,Utility 4D Sport 2WD,24175,jdpower
+Toyota,RAV4,2011,Utility 4D Sport 4WD,25575,jdpower
+Toyota,RAV4,2011,Utility 4D Limited 2WD,25465,jdpower
+Toyota,RAV4,2011,Utility 4D Limited 4WD,26855,jdpower
+Toyota,RAV4,2012,Utility 4D 2WD,22650,jdpower
+Toyota,RAV4,2012,Utility 4D 4WD,24050,jdpower
+Toyota,RAV4,2012,Utility 4D Sport 2WD,24350,jdpower
+Toyota,RAV4,2012,Utility 4D Limited 2WD,25330,jdpower
+Toyota,RAV4,2012,Utility 4D Sport 4WD,25750,jdpower
+Toyota,RAV4,2012,Utility 4D Limited 4WD,26720,jdpower
+Toyota,RAV4,2013,Utility 4D LE I4,23300,jdpower
+Toyota,RAV4,2013,Utility 4D LE AWD I4,24700,jdpower
+Toyota,RAV4,2013,Utility 4D XLE 2WD I4,24290,jdpower
+Toyota,RAV4,2013,Utility 4D XLE AWD I4,25690,jdpower
+Toyota,RAV4,2013,Utility 4D Limited 2WD I4,27010,jdpower
+Toyota,RAV4,2013,Utility 4D Limited 4WD I4,28410,jdpower
+Toyota,RAV4,2014,Utility 4D LE 2WD I4,23550,jdpower
+Toyota,RAV4,2014,Utility 4D LE AWD I4,24950,jdpower
+Toyota,RAV4,2014,Utility 4D XLE 2WD I4,25000,jdpower
+Toyota,RAV4,2014,Utility 4D XLE AWD I4,26400,jdpower
+Toyota,RAV4,2014,Utility 4D Limited 2WD I4,28320,jdpower
+Toyota,RAV4,2014,Utility 4D Limited 4WD I4,29720,jdpower
+Toyota,RAV4,2015,Utility 4D LE 2WD I4,23680,jdpower
+Toyota,RAV4,2015,Utility 4D LE AWD I4,25080,jdpower
+Toyota,RAV4,2015,Utility 4D XLE 2WD I4,25240,jdpower
+Toyota,RAV4,2015,Utility 4D XLE AWD I4,26640,jdpower
+Toyota,RAV4,2015,Utility 4D Limited 2WD I4,28450,jdpower
+Toyota,RAV4,2015,Utility 4D Limited 4WD I4,29850,jdpower
+Toyota,RAV4,2016,Utility 4D LE 2WD I4,24350,jdpower
+Toyota,RAV4,2016,Utility 4D LE AWD I4,25750,jdpower
+Toyota,RAV4,2016,Utility 4D XLE 2WD I4,26270,jdpower
+Toyota,RAV4,2016,Utility 4D XLE AWD I4,27670,jdpower
+Toyota,RAV4,2016,Utility 4D SE 2WD I4,29265,jdpower
+Toyota,RAV4,2016,Utility 4D SE AWD I4,30665,jdpower
+Toyota,RAV4,2016,Utility 4D Limited 2WD I4,31510,jdpower
+Toyota,RAV4,2016,Utility 4D Limited AWD I4,32910,jdpower
+Toyota,RAV4,2017,Utility 4D LE 2WD I4,24410,jdpower
+Toyota,RAV4,2017,Utility 4D LE AWD I4,25810,jdpower
+Toyota,RAV4,2017,Utility 4D XLE 2WD I4,25500,jdpower
+Toyota,RAV4,2017,Utility 4D XLE AWD I4,26900,jdpower
+Toyota,RAV4,2017,Utility 4D SE 2WD I4,28790,jdpower
+Toyota,RAV4,2017,Utility 4D SE AWD I4,30190,jdpower
+Toyota,RAV4,2017,Utility 4D Limited 2WD I4,30905,jdpower
+Toyota,RAV4,2017,Utility 4D Limited AWD I4,32305,jdpower
+Toyota,RAV4,2017,Utility 4D Platinum 2WD,34750,jdpower
+Toyota,RAV4,2017,Utility 4D Platinum AWD,36150,jdpower
+Toyota,RAV4,2018,Utility 4D LE 2WD I4,24660,jdpower
+Toyota,RAV4,2018,Utility 4D LE AWD I4,26060,jdpower
+Toyota,RAV4,2018,Utility 4D XLE 2WD I4,25750,jdpower
+Toyota,RAV4,2018,Utility 4D LE AWD Hybrid,27385,jdpower
+Toyota,RAV4,2018,Utility 4D Adventure 2WD,27950,jdpower
+Toyota,RAV4,2018,Utility 4D LE Plus AWD I4 Hybrid,28160,jdpower
+Toyota,RAV4,2018,Utility 4D XLE AWD I4,27150,jdpower
+Toyota,RAV4,2018,Utility 4D SE 2WD I4,29040,jdpower
+Toyota,RAV4,2018,Utility 4D Adventure AWD,28650,jdpower
+Toyota,RAV4,2018,Utility 4D XLE AWD I4 Hybrid,29280,jdpower
+Toyota,RAV4,2018,Utility 4D SE AWD I4,30440,jdpower
+Toyota,RAV4,2018,Utility 4D Limited 2WD I4,31155,jdpower
+Toyota,RAV4,2018,Utility 4D Limited AWD I4,32555,jdpower
+Toyota,RAV4,2018,Utility 4D SE AWD I4 Hybrid,32435,jdpower
+Toyota,RAV4,2018,Utility 4D Limited AWD I4 Hybrid,34280,jdpower
+Toyota,RAV4,2018,Utility 4D Platinum 2WD,35000,jdpower
+Toyota,RAV4,2018,Utility 4D Platinum AWD,36400,jdpower
+Toyota,RAV4,2019,Utility 4D LE 2WD I4,25650,jdpower
+Toyota,RAV4,2019,Utility 4D XLE 2WD I4,27450,jdpower
+Toyota,RAV4,2019,Utility 4D LE AWD I4,27050,jdpower
+Toyota,RAV4,2019,Utility 4D LE AWD Hybrid,27850,jdpower
+Toyota,RAV4,2019,Utility 4D XLE AWD I4,28850,jdpower
+Toyota,RAV4,2019,Utility 4D XLE AWD I4 Hybrid,29650,jdpower
+Toyota,RAV4,2019,Utility 4D XLE Premium 2WD I4,29650,jdpower
+Toyota,RAV4,2019,Utility 4D XLE Premium AWD,31050,jdpower
+Toyota,RAV4,2019,Utility 4D Limited 2WD I4,33650,jdpower
+Toyota,RAV4,2019,Utility 4D Adventure AWD,33050,jdpower
+Toyota,RAV4,2019,Utility 4D Limited AWD I4,35050,jdpower
+Toyota,RAV4,2019,Utility 4D XSE AWD Hybrid,33850,jdpower
+Toyota,RAV4,2019,Utility 4D Limited AWD I4 Hybrid,35850,jdpower
+Toyota,RAV4,2020,Utility 4D LE 2WD I4,25950,jdpower
+Toyota,RAV4,2020,Utility 4D LE AWD I4,27350,jdpower
+Toyota,RAV4,2020,Utility 4D XLE 2WD I4,27245,jdpower
+Toyota,RAV4,2020,Utility 4D LE AWD Hybrid,28350,jdpower
+Toyota,RAV4,2020,Utility 4D XLE AWD I4,28645,jdpower
+Toyota,RAV4,2020,Utility 4D XLE Premium 2WD I4,29950,jdpower
+Toyota,RAV4,2020,Utility 4D XLE AWD I4 Hybrid,29645,jdpower
+Toyota,RAV4,2020,Utility 4D Limited 2WD I4,34480,jdpower
+Toyota,RAV4,2020,Utility 4D XLE Premium AWD,31350,jdpower
+Toyota,RAV4,2020,Utility 4D Adventure AWD,33055,jdpower
+Toyota,RAV4,2020,Utility 4D XSE AWD Hybrid,34300,jdpower
+Toyota,RAV4,2020,Utility 4D Limited AWD I4,35880,jdpower
+Toyota,RAV4,2020,Utility 4D Limited AWD I4 Hybrid,36880,jdpower
+Toyota,RAV4,2020,Utility 4D TRD Off-Road AWD,35280,jdpower
+Toyota,RAV4,2021,Utility 4D LE 2WD I4,26350,jdpower
+Toyota,RAV4,2021,Utility 4D LE AWD I4,27750,jdpower
+Toyota,RAV4,2021,Utility 4D XLE 2WD I4,27645,jdpower
+Toyota,RAV4,2021,Utility 4D XLE AWD I4,29045,jdpower
+Toyota,RAV4,2021,Utility 4D XLE Premium 2WD I4,30350,jdpower
+Toyota,RAV4,2021,Utility 4D LE AWD Hybrid,28500,jdpower
+Toyota,RAV4,2021,Utility 4D XLE Premium AWD,31750,jdpower
+Toyota,RAV4,2021,Utility 4D Limited 2WD I4,34880,jdpower
+Toyota,RAV4,2021,Utility 4D Adventure AWD,33455,jdpower
+Toyota,RAV4,2021,Utility 4D XLE AWD I4 Hybrid,29795,jdpower
+Toyota,RAV4,2021,Utility 4D XLE Premium AWD Hybrid,32900,jdpower
+Toyota,RAV4,2021,Utility 4D Limited AWD I4,36280,jdpower
+Toyota,RAV4,2021,Utility 4D XSE AWD Hybrid,34850,jdpower
+Toyota,RAV4,2021,Utility 4D TRD Off-Road AWD,36080,jdpower
+Toyota,RAV4,2021,Utility 4D Limited AWD I4 Hybrid,37430,jdpower
+Toyota,RAV4,2022,Utility 4D LE 2WD I4,26975,jdpower
+Toyota,RAV4,2022,Utility 4D LE AWD I4,28375,jdpower
+Toyota,RAV4,2022,Utility 4D XLE 2WD I4,28445,jdpower
+Toyota,RAV4,2022,Utility 4D LE AWD Hybrid,29575,jdpower
+Toyota,RAV4,2022,Utility 4D XLE AWD I4,29845,jdpower
+Toyota,RAV4,2022,Utility 4D XLE AWD I4 Hybrid,31045,jdpower
+Toyota,RAV4,2022,Utility 4D XLE Premium 2WD I4,31335,jdpower
+Toyota,RAV4,2022,Utility 4D SE AWD I4 Hybrid,32230,jdpower
+Toyota,RAV4,2022,Utility 4D Adventure AWD,33230,jdpower
+Toyota,RAV4,2022,Utility 4D XLE Premium AWD,32735,jdpower
+Toyota,RAV4,2022,Utility 4D Limited AWD I4,36875,jdpower
+Toyota,RAV4,2022,Utility 4D Limited 2WD I4,35475,jdpower
+Toyota,RAV4,2022,Utility 4D XLE Premium AWD Hybrid,33935,jdpower
+Toyota,RAV4,2022,Utility 4D XSE AWD Hybrid,35555,jdpower
+Toyota,RAV4,2022,Utility 4D TRD Off-Road AWD,36915,jdpower
+Toyota,RAV4,2022,Utility 4D Limited AWD I4 Hybrid,38075,jdpower
+Toyota,RAV4,2023,Utility 4D LE 2WD I4,28275,jdpower
+Toyota,RAV4,2023,Utility 4D LE AWD I4,29675,jdpower
+Toyota,RAV4,2023,Utility 4D XLE 2WD I4,29785,jdpower
+Toyota,RAV4,2023,Utility 4D LE AWD Hybrid,31225,jdpower
+Toyota,RAV4,2023,Utility 4D XLE AWD I4,31185,jdpower
+Toyota,RAV4,2023,Utility 4D Adventure AWD,34470,jdpower
+Toyota,RAV4,2023,Utility 4D XLE Premium 2WD,32675,jdpower
+Toyota,RAV4,2023,Utility 4D XLE AWD I4 Hybrid,32735,jdpower
+Toyota,RAV4,2023,Utility 4D Woodland Ed AWD Hybrid,34025,jdpower
+Toyota,RAV4,2023,Utility 4D SE AWD I4 Hybrid,33920,jdpower
+Toyota,RAV4,2023,Utility 4D Limited AWD I4,37980,jdpower
+Toyota,RAV4,2023,Utility 4D XLE Premium AWD,34075,jdpower
+Toyota,RAV4,2023,Utility 4D Limited 2WD I4,36580,jdpower
+Toyota,RAV4,2023,Utility 4D XLE Premium AWD Hybrid,35625,jdpower
+Toyota,RAV4,2023,Utility 4D XSE AWD Hybrid,36885,jdpower
+Toyota,RAV4,2023,Utility 4D Limited AWD I4 Hybrid,39530,jdpower
+Toyota,RAV4,2023,Utility 4D TRD Off-Road AWD,37895,jdpower
+Toyota,RAV4,2024,Utility 4D LE 2WD I4,28675,jdpower
+Toyota,RAV4,2024,Utility 4D LE AWD I4,30075,jdpower
+Toyota,RAV4,2024,Utility 4D XLE 2WD I4,30185,jdpower
+Toyota,RAV4,2024,Utility 4D LE AWD Hybrid,31725,jdpower
+Toyota,RAV4,2024,Utility 4D XLE AWD I4,31585,jdpower
+Toyota,RAV4,2024,Utility 4D Adventure AWD,34870,jdpower
+Toyota,RAV4,2024,Utility 4D XLE Premium 2WD,33075,jdpower
+Toyota,RAV4,2024,Utility 4D XLE AWD I4 Hybrid,33235,jdpower
+Toyota,RAV4,2024,Utility 4D SE AWD I4 Hybrid,34420,jdpower
+Toyota,RAV4,2024,Utility 4D Woodland Ed AWD Hybrid,34945,jdpower
+Toyota,RAV4,2024,Utility 4D Limited 2WD I4,36980,jdpower
+Toyota,RAV4,2024,Utility 4D Limited AWD I4,38380,jdpower
+Toyota,RAV4,2024,Utility 4D XLE Premium AWD,34475,jdpower
+Toyota,RAV4,2024,Utility 4D XLE Premium AWD Hybrid,36125,jdpower
+Toyota,RAV4,2024,Utility 4D XSE AWD Hybrid,37385,jdpower
+Toyota,RAV4,2024,Utility 4D Limited AWD I4 Hybrid,40030,jdpower
+Toyota,RAV4,2024,Utility 4D TRD Off-Road AWD,38295,jdpower
+Toyota,RAV4,2025,LE AWD ,31200,jdpower
+Toyota,RAV4,2025,XLE FWD ,31310,jdpower
+Toyota,RAV4,2025,XLE AWD ,32710,jdpower
+Toyota,RAV4,2025,XLE Premium FWD ,34200,jdpower
+Toyota,RAV4,2025,Hybrid LE AWD ,32850,jdpower
+Toyota,RAV4,2025,XLE Premium AWD ,35600,jdpower
+Toyota,RAV4,2025,Limited FWD ,38105,jdpower
+Toyota,RAV4,2025,Hybrid XLE AWD ,34360,jdpower
+Toyota,RAV4,2025,Limited AWD ,39505,jdpower
+Toyota,RAV4,2025,Hybrid Woodland AWD ,36070,jdpower
+Toyota,RAV4,2025,Hybrid SE AWD ,35545,jdpower
+Toyota,RAV4,2025,Hybrid XLE Premium AWD ,37250,jdpower
+Toyota,RAV4,2025,Hybrid XSE AWD ,38510,jdpower
+Toyota,RAV4,2025,Hybrid Limited AWD ,41155,jdpower
+Toyota,RAV4,2025,LE FWD ,29800,jdpower
+Toyota,RAV4,2026,LE FWD ,31900,jdpower
+Toyota,RAV4,2026,LE AWD ,33300,jdpower
+Toyota,RAV4,2026,SE FWD ,34700,jdpower
+Toyota,RAV4,2026,XLE Premium FWD ,36100,jdpower
+Toyota,RAV4,2026,SE AWD ,36100,jdpower
+Toyota,RAV4,2026,XLE Premium AWD ,37500,jdpower
+Toyota,RAV4,2026,Woodland AWD ,39900,jdpower
+Toyota,RAV4,2026,XSE AWD ,41300,jdpower
+Toyota,RAV4,2026,Limited AWD ,43300,jdpower
+Honda,Civic,2008,Coupe 2D DX,14810,jdpower
+Honda,Civic,2008,Coupe 2D LX,16760,jdpower
+Honda,Civic,2008,Coupe 2D EX,19510,jdpower
+Honda,Civic,2008,Coupe 2D Si,21110,jdpower
+Honda,Civic,2009,Coupe 2D DX,15705,jdpower
+Honda,Civic,2009,Coupe 2D LX,17655,jdpower
+Honda,Civic,2009,Coupe 2D EX,20480,jdpower
+Honda,Civic,2009,Coupe 2D Si,21905,jdpower
+Honda,Civic,2010,Coupe 2D DX,15855,jdpower
+Honda,Civic,2010,Coupe 2D LX,17805,jdpower
+Honda,Civic,2010,Coupe 2D EX,20630,jdpower
+Honda,Civic,2010,Coupe 2D Si,22055,jdpower
+Honda,Civic,2011,Coupe 2D DX,16005,jdpower
+Honda,Civic,2011,Coupe 2D LX,17955,jdpower
+Honda,Civic,2011,Coupe 2D EX,21665,jdpower
+Honda,Civic,2011,Coupe 2D Si,23205,jdpower
+Honda,Civic,2012,Coupe 2D DX,16155,jdpower
+Honda,Civic,2012,Coupe 2D LX,18205,jdpower
+Honda,Civic,2012,Coupe 2D EX,21675,jdpower
+Honda,Civic,2012,Coupe 2D Si,23105,jdpower
+Honda,Civic,2015,Coupe 2D LX I4,18690,jdpower
+Honda,Civic,2015,Coupe 2D EX I4,20790,jdpower
+Honda,Civic,2015,Coupe 2D EX-L I4,23390,jdpower
+Honda,Civic,2015,Coupe 2D Si I4,22890,jdpower
+Honda,Civic,2016,Sedan 4D LX Sense I4,20440,jdpower
+Honda,Civic,2016,Sedan 4D LX I4,19040,jdpower
+Honda,Civic,2016,Sedan 4D EX I4,21040,jdpower
+Honda,Civic,2016,Sedan 4D EX Sense I4,22040,jdpower
+Honda,Civic,2016,Sedan 4D EX-T I4 Turbo,22200,jdpower
+Honda,Civic,2016,Sedan 4D EX-T Sense I4 Turbo,23200,jdpower
+Honda,Civic,2016,Sedan 4D EX-L I4,23700,jdpower
+Honda,Civic,2016,Sedan 4D EX-L Sense I4 Turbo,24700,jdpower
+Honda,Civic,2016,Sedan 4D EX-L Nav I4,24700,jdpower
+Honda,Civic,2016,Sedan 4D Touring I4 Turbo,26500,jdpower
+Honda,Civic,2017,Sedan 4D LX I4,19140,jdpower
+Honda,Civic,2017,Sedan 4D LX Sense I4,20540,jdpower
+Honda,Civic,2017,Sedan 4D EX-T I4 Turbo,21900,jdpower
+Honda,Civic,2017,Sedan 4D EX I4,21140,jdpower
+Honda,Civic,2017,Sedan 4D EX Sense I4,22140,jdpower
+Honda,Civic,2017,Sedan 4D EX-T Sense I4 Turbo,23300,jdpower
+Honda,Civic,2017,Sedan 4D EX-L I4 Turbo,23800,jdpower
+Honda,Civic,2017,Sedan 4D EX-L Nav I4 Turbo,24800,jdpower
+Honda,Civic,2017,Sedan 4D EX-L Sense I4 Turbo,24800,jdpower
+Honda,Civic,2017,Sedan 4D Touring I4 Turbo,26600,jdpower
+Honda,Civic,2017,Sedan 4D Si I4,23900,jdpower
+Honda,Civic,2018,Sedan 4D LX I4,19340,jdpower
+Honda,Civic,2018,Sedan 4D LX Sense I4,20740,jdpower
+Honda,Civic,2018,Sedan 4D EX-T I4 Turbo,22100,jdpower
+Honda,Civic,2018,Sedan 4D EX I4,21340,jdpower
+Honda,Civic,2018,Sedan 4D EX Sense I4,22340,jdpower
+Honda,Civic,2018,Sedan 4D EX-T Sense I4 Turbo,23500,jdpower
+Honda,Civic,2018,Sedan 4D EX-L I4 Turbo,24000,jdpower
+Honda,Civic,2018,Sedan 4D EX-L Sense I4 Turbo,25000,jdpower
+Honda,Civic,2018,Sedan 4D EX-L Nav I4 Turbo,25000,jdpower
+Honda,Civic,2018,Sedan 4D Touring I4 Turbo,26800,jdpower
+Honda,Civic,2019,Sedan 4D LX I4,19950,jdpower
+Honda,Civic,2019,Sedan 4D Sport,21650,jdpower
+Honda,Civic,2019,Sedan 4D EX Turbo,23500,jdpower
+Honda,Civic,2019,Sedan 4D EX-L I4 Turbo,24700,jdpower
+Honda,Civic,2019,Sedan 4D Touring I4 Turbo,27400,jdpower
+Honda,Civic,2020,Sedan 4D LX I4,20400,jdpower
+Honda,Civic,2020,Sedan 4D Sport,22200,jdpower
+Honda,Civic,2020,Sedan 4D EX Turbo,23950,jdpower
+Honda,Civic,2020,Sedan 4D EX-L I4 Turbo,25150,jdpower
+Honda,Civic,2020,Sedan 4D Touring I4 Turbo,27850,jdpower
+Honda,Civic,2021,Sedan 4D LX I4,21250,jdpower
+Honda,Civic,2021,Sedan 4D Sport,23050,jdpower
+Honda,Civic,2021,Sedan 4D EX Turbo,24400,jdpower
+Honda,Civic,2021,Sedan 4D EX-L I4 Turbo,25600,jdpower
+Honda,Civic,2021,Sedan 4D Touring I4 Turbo,28300,jdpower
+Honda,Civic,2022,Sedan 4D LX I4,22550,jdpower
+Honda,Civic,2022,Sedan 4D Sport,23950,jdpower
+Honda,Civic,2022,Sedan 4D EX Turbo,25550,jdpower
+Honda,Civic,2022,Sedan 4D Touring I4 Turbo,29150,jdpower
+Honda,Civic,2023,Sedan 4D LX,23750,jdpower
+Honda,Civic,2023,Sedan 4D Sport,25350,jdpower
+Honda,Civic,2023,Sedan 4D EX,26475,jdpower
+Honda,Civic,2023,Sedan 4D Touring,30350,jdpower
+Honda,Civic,2024,Sedan 4D LX,23950,jdpower
+Honda,Civic,2024,Sedan 4D EX,26950,jdpower
+Honda,Civic,2024,Sedan 4D Sport,25550,jdpower
+Honda,Civic,2024,Sedan 4D Touring,30550,jdpower
+Honda,Civic,2025,LX CVT,24250,jdpower
+Honda,Civic,2025,Sport CVT,26250,jdpower
+Honda,Civic,2026,LX CVT,24695,jdpower
+Honda,Civic,2026,Sport CVT,26695,jdpower
+Honda,Accord,2008,Sedan 4D LX,21060,jdpower
+Honda,Accord,2008,Sedan 4D EX,24260,jdpower
+Honda,Accord,2009,Sedan 4D LX,21805,jdpower
+Honda,Accord,2009,Sedan 4D EX,25005,jdpower
+Honda,Accord,2010,Sedan 4D LX,21955,jdpower
+Honda,Accord,2010,Sedan 4D EX,25330,jdpower
+Honda,Accord,2011,Sedan 4D LX,22247,jdpower
+Honda,Accord,2011,Sedan 4D SE,23930,jdpower
+Honda,Accord,2011,Sedan 4D EX,26680,jdpower
+Honda,Accord,2012,Sedan 4D LX,22347,jdpower
+Honda,Accord,2012,Sedan 4D SE,24030,jdpower
+Honda,Accord,2012,Sedan 4D EX,26780,jdpower
+Honda,Accord,2013,Sedan 4D LX I4,22080,jdpower
+Honda,Accord,2013,Sedan 4D Sport I4,23790,jdpower
+Honda,Accord,2013,Sedan 4D EX I4,25005,jdpower
+Honda,Accord,2013,Sedan 4D EX-L I4,28995,jdpower
+Honda,Accord,2013,Sedan 4D EX-L V6,31070,jdpower
+Honda,Accord,2013,Sedan 4D Touring V6,33430,jdpower
+Honda,Accord,2014,Sedan 4D LX I4,22355,jdpower
+Honda,Accord,2014,Sedan 4D Sport I4,24115,jdpower
+Honda,Accord,2014,Sedan 4D EX I4,25280,jdpower
+Honda,Accord,2014,Sedan 4D EX-L I4,29158,jdpower
+Honda,Accord,2014,Sedan 4D EX-L V6,31233,jdpower
+Honda,Accord,2014,Sedan 4D Touring V6,33480,jdpower
+Honda,Accord,2015,Sedan 4D LX I4,22505,jdpower
+Honda,Accord,2015,Sedan 4D Sport I4,24265,jdpower
+Honda,Accord,2015,Sedan 4D EX I4,25430,jdpower
+Honda,Accord,2015,Sedan 4D EX-L I4,29308,jdpower
+Honda,Accord,2015,Sedan 4D EX-L V6,31383,jdpower
+Honda,Accord,2015,Sedan 4D Touring V6,33630,jdpower
+Honda,Accord,2016,Sedan 4D LX I4,22605,jdpower
+Honda,Accord,2016,Sedan 4D LX Sense I4,24005,jdpower
+Honda,Accord,2016,Sedan 4D Sport I4,24665,jdpower
+Honda,Accord,2016,Sedan 4D Sport Sense I4,26065,jdpower
+Honda,Accord,2016,Sedan 4D EX I4,25980,jdpower
+Honda,Accord,2016,Sedan 4D EX Sense I4,27380,jdpower
+Honda,Accord,2016,Sedan 4D EX-L I4,28670,jdpower
+Honda,Accord,2016,Sedan 4D EX-L Nav I4,30670,jdpower
+Honda,Accord,2016,Sedan 4D EX-L V6,30745,jdpower
+Honda,Accord,2016,Sedan 4D EX-L Navigation V6,32745,jdpower
+Honda,Accord,2016,Sedan 4D Touring V6,34680,jdpower
+Honda,Accord,2017,Sedan 4D LX I4,22855,jdpower
+Honda,Accord,2017,Sedan 4D LX Sense I4,24255,jdpower
+Honda,Accord,2017,Sedan 4D EX I4,26230,jdpower
+Honda,Accord,2017,Sedan 4D Sport I4,24915,jdpower
+Honda,Accord,2017,Sedan 4D EX Sense I4,27630,jdpower
+Honda,Accord,2017,Sedan 4D Sport Special Edition I4,25915,jdpower
+Honda,Accord,2017,Sedan 4D Sport Sense I4,26315,jdpower
+Honda,Accord,2017,Sedan 4D EX-L I4,28920,jdpower
+Honda,Accord,2017,Sedan 4D EX-L Nav I4,30920,jdpower
+Honda,Accord,2017,Sedan 4D EX-L V6,30995,jdpower
+Honda,Accord,2017,Sedan 4D EX-L Navigation V6,32995,jdpower
+Honda,Accord,2017,Sedan 4D Touring V6,34930,jdpower
+Honda,Accord,2018,Sedan 4D LX I4,23570,jdpower
+Honda,Accord,2018,Sedan 4D Sport 1.5,25780,jdpower
+Honda,Accord,2018,Sedan 4D EX I4,27470,jdpower
+Honda,Accord,2018,Sedan 4D EX-L I4,29970,jdpower
+Honda,Accord,2018,Sedan 4D Sport 2.0,30310,jdpower
+Honda,Accord,2018,Sedan 4D EX-L Navigation 1.5,30970,jdpower
+Honda,Accord,2018,Sedan 4D EX-L 2.0,31970,jdpower
+Honda,Accord,2018,Sedan 4D EX-L Navigation 2.0,32970,jdpower
+Honda,Accord,2018,Sedan 4D Touring 1.5,33800,jdpower
+Honda,Accord,2018,Sedan 4D Touring 2.0,35800,jdpower
+Honda,Accord,2019,Sedan 4D LX I4,23720,jdpower
+Honda,Accord,2019,Sedan 4D Sport 1.5,26180,jdpower
+Honda,Accord,2019,Sedan 4D EX I4,27620,jdpower
+Honda,Accord,2019,Sedan 4D EX-L I4,30120,jdpower
+Honda,Accord,2019,Sedan 4D Sport 2.0,30710,jdpower
+Honda,Accord,2019,Sedan 4D EX-L 2.0,32120,jdpower
+Honda,Accord,2019,Sedan 4D Touring 2.0,35950,jdpower
+Honda,Accord,2020,Sedan 4D LX I4,24270,jdpower
+Honda,Accord,2020,Sedan 4D Sport 1.5,26980,jdpower
+Honda,Accord,2020,Sedan 4D EX I4,28070,jdpower
+Honda,Accord,2020,Sedan 4D Sport 2.0,31510,jdpower
+Honda,Accord,2020,Sedan 4D EX-L I4,30570,jdpower
+Honda,Accord,2020,Sedan 4D EX-L 2.0,32570,jdpower
+Honda,Accord,2020,Sedan 4D Touring 2.0,36400,jdpower
+Honda,Accord,2021,Sedan 4D LX I4,24970,jdpower
+Honda,Accord,2021,Sedan 4D Sport 1.5,27430,jdpower
+Honda,Accord,2021,Sedan 4D Sport Special Edition I4,28920,jdpower
+Honda,Accord,2021,Sedan 4D EX-L I4,31290,jdpower
+Honda,Accord,2021,Sedan 4D Sport 2.0,32110,jdpower
+Honda,Accord,2021,Sedan 4D Touring 2.0,36900,jdpower
+Honda,Accord,2022,Sedan 4D LX,26520,jdpower
+Honda,Accord,2022,Sedan 4D Sport Special Edition,30470,jdpower
+Honda,Accord,2022,Sedan 4D Sport 1.5,28980,jdpower
+Honda,Accord,2022,Sedan 4D EX-L,32840,jdpower
+Honda,Accord,2022,Sedan 4D Sport 2.0,33660,jdpower
+Honda,Accord,2022,Sedan 4D Touring,38450,jdpower
+Honda,Accord,2023,Sedan 4D LX,27295,jdpower
+Honda,Accord,2023,Sedan 4D EX,29610,jdpower
+Honda,Accord,2024,Sedan 4D LX,27895,jdpower
+Honda,Accord,2024,Sedan 4D EX,29910,jdpower
+Honda,Accord,2025,LX CVT,28295,jdpower
+Honda,Accord,2025,SE CVT,30560,jdpower
+Honda,Accord,2026,LX CVT,28395,jdpower
+Honda,Accord,2026,SE CVT,30695,jdpower
+Honda,CR-V,2008,Utility 4D LX 2WD,20700,jdpower
+Honda,CR-V,2008,Utility 4D LX 4WD,21900,jdpower
+Honda,CR-V,2008,Utility 4D EX 2WD,22950,jdpower
+Honda,CR-V,2008,Utility 4D EX 4WD,24150,jdpower
+Honda,CR-V,2008,Utility 4D EX-L 2WD,25500,jdpower
+Honda,CR-V,2008,Utility 4D EX-L 4WD,26700,jdpower
+Honda,CR-V,2009,Utility 4D LX 2WD,21245,jdpower
+Honda,CR-V,2009,Utility 4D LX 4WD,22445,jdpower
+Honda,CR-V,2009,Utility 4D EX 2WD,23495,jdpower
+Honda,CR-V,2009,Utility 4D EX 4WD,24695,jdpower
+Honda,CR-V,2009,Utility 4D EX-L 2WD,26045,jdpower
+Honda,CR-V,2009,Utility 4D EX-L 4WD,27245,jdpower
+Honda,CR-V,2010,Utility 4D LX 2WD,21545,jdpower
+Honda,CR-V,2010,Utility 4D LX 4WD,22795,jdpower
+Honda,CR-V,2010,Utility 4D EX 2WD,23845,jdpower
+Honda,CR-V,2010,Utility 4D EX 4WD,25095,jdpower
+Honda,CR-V,2010,Utility 4D EX-L 2WD,26495,jdpower
+Honda,CR-V,2010,Utility 4D EX-L 4WD,27745,jdpower
+Honda,CR-V,2011,Utility 4D LX 2WD,21895,jdpower
+Honda,CR-V,2011,Utility 4D SE 2WD,22595,jdpower
+Honda,CR-V,2011,Utility 4D LX 4WD,23145,jdpower
+Honda,CR-V,2011,Utility 4D SE 4WD,23845,jdpower
+Honda,CR-V,2011,Utility 4D EX 2WD,24195,jdpower
+Honda,CR-V,2011,Utility 4D EX 4WD,25445,jdpower
+Honda,CR-V,2011,Utility 4D EX-L 2WD,26845,jdpower
+Honda,CR-V,2011,Utility 4D EX-L 4WD,28095,jdpower
+Honda,CR-V,2012,Utility 4D LX 2WD,22495,jdpower
+Honda,CR-V,2012,Utility 4D LX 4WD,23745,jdpower
+Honda,CR-V,2012,Utility 4D EX 2WD,24595,jdpower
+Honda,CR-V,2012,Utility 4D EX 4WD,25845,jdpower
+Honda,CR-V,2012,Utility 4D EX-L 2WD,27245,jdpower
+Honda,CR-V,2012,Utility 4D EX-L 4WD,28495,jdpower
+Honda,CR-V,2013,Utility 4D LX 2WD I4,22795,jdpower
+Honda,CR-V,2013,Utility 4D LX 4WD I4,24045,jdpower
+Honda,CR-V,2013,Utility 4D EX 2WD I4,24895,jdpower
+Honda,CR-V,2013,Utility 4D EX 4WD I4,26145,jdpower
+Honda,CR-V,2013,Utility 4D EX-L 2WD I4,27545,jdpower
+Honda,CR-V,2013,Utility 4D EX-L 4WD I4,28795,jdpower
+Honda,CR-V,2014,Utility 4D LX 2WD I4,23120,jdpower
+Honda,CR-V,2014,Utility 4D LX 4WD I4,24370,jdpower
+Honda,CR-V,2014,Utility 4D EX 2WD I4,25220,jdpower
+Honda,CR-V,2014,Utility 4D EX 4WD I4,26470,jdpower
+Honda,CR-V,2014,Utility 4D EX-L 2WD I4,27870,jdpower
+Honda,CR-V,2014,Utility 4D EX-L 4WD I4,29120,jdpower
+Honda,CR-V,2015,Utility 4D LX 2WD I4,23445,jdpower
+Honda,CR-V,2015,Utility 4D LX AWD I4,24695,jdpower
+Honda,CR-V,2015,Utility 4D EX 2WD I4,25545,jdpower
+Honda,CR-V,2015,Utility 4D EX AWD I4,26795,jdpower
+Honda,CR-V,2015,Utility 4D EX-L 2WD I4,28145,jdpower
+Honda,CR-V,2015,Utility 4D EX-L AWD I4,29395,jdpower
+Honda,CR-V,2015,Utility 4D Touring 2WD I4,31645,jdpower
+Honda,CR-V,2015,Utility 4D Touring AWD I4,32895,jdpower
+Honda,CR-V,2016,Utility 4D LX 2WD I4,23845,jdpower
+Honda,CR-V,2016,Utility 4D SE 2WD I4,24645,jdpower
+Honda,CR-V,2016,Utility 4D LX AWD I4,25145,jdpower
+Honda,CR-V,2016,Utility 4D EX 2WD I4,26095,jdpower
+Honda,CR-V,2016,Utility 4D SE AWD I4,25945,jdpower
+Honda,CR-V,2016,Utility 4D EX AWD I4,27395,jdpower
+Honda,CR-V,2016,Utility 4D EX-L 2WD I4,28545,jdpower
+Honda,CR-V,2016,Utility 4D EX-L AWD I4,29845,jdpower
+Honda,CR-V,2016,Utility 4D Touring 2WD I4,32195,jdpower
+Honda,CR-V,2016,Utility 4D Touring AWD I4,33495,jdpower
+Honda,CR-V,2017,Utility 4D LX 2WD I4,24045,jdpower
+Honda,CR-V,2017,Utility 4D LX AWD I4,25345,jdpower
+Honda,CR-V,2017,Utility 4D EX 2WD I4,26795,jdpower
+Honda,CR-V,2017,Utility 4D EX AWD I4,28095,jdpower
+Honda,CR-V,2017,Utility 4D EX-L 2WD I4,29295,jdpower
+Honda,CR-V,2017,Utility 4D EX-L AWD I4,30595,jdpower
+Honda,CR-V,2017,Utility 4D EX-L Navigation 2WD I4,30295,jdpower
+Honda,CR-V,2017,Utility 4D Touring 2WD I4,32495,jdpower
+Honda,CR-V,2017,Utility 4D EX-L Navigation AWD I4,31595,jdpower
+Honda,CR-V,2017,Utility 4D Touring AWD I4,33795,jdpower
+Honda,CR-V,2018,Utility 4D LX 2WD I4,24250,jdpower
+Honda,CR-V,2018,Utility 4D LX AWD I4,25650,jdpower
+Honda,CR-V,2018,Utility 4D EX 2WD I4 Turbo,27050,jdpower
+Honda,CR-V,2018,Utility 4D EX-L 2WD I4 Turbo,29550,jdpower
+Honda,CR-V,2018,Utility 4D EX AWD I4 Turbo,28450,jdpower
+Honda,CR-V,2018,Utility 4D EX-L Nav 2WD I4 Turbo,30550,jdpower
+Honda,CR-V,2018,Utility 4D EX-L AWD I4 Turbo,30950,jdpower
+Honda,CR-V,2018,Utility 4D Touring 2WD I4 Turbo,32750,jdpower
+Honda,CR-V,2018,Utility 4D EX-L Nav AWD I4 Turbo,31950,jdpower
+Honda,CR-V,2018,Utility 4D Touring AWD I4 Turbo,34150,jdpower
+Honda,CR-V,2019,Utility 4D LX 2WD I4,24450,jdpower
+Honda,CR-V,2019,Utility 4D LX AWD I4,25850,jdpower
+Honda,CR-V,2019,Utility 4D EX 2WD I4 Turbo,27350,jdpower
+Honda,CR-V,2019,Utility 4D EX AWD I4 Turbo,28750,jdpower
+Honda,CR-V,2019,Utility 4D EX-L 2WD I4 Turbo,29850,jdpower
+Honda,CR-V,2019,Utility 4D EX-L AWD I4 Turbo,31250,jdpower
+Honda,CR-V,2019,Utility 4D Touring 2WD I4 Turbo,32850,jdpower
+Honda,CR-V,2019,Utility 4D Touring AWD I4 Turbo,34250,jdpower
+Honda,CR-V,2020,Utility 4D LX 2WD I4,25150,jdpower
+Honda,CR-V,2020,Utility 4D LX AWD I4,26650,jdpower
+Honda,CR-V,2020,Utility 4D EX 2WD I4 Turbo,27660,jdpower
+Honda,CR-V,2020,Utility 4D EX AWD I4 Turbo,29160,jdpower
+Honda,CR-V,2020,Utility 4D EX-L 2WD I4 Turbo,30150,jdpower
+Honda,CR-V,2020,Utility 4D EX-L AWD I4 Turbo,31650,jdpower
+Honda,CR-V,2020,Utility 4D Touring 2WD I4 Turbo,33350,jdpower
+Honda,CR-V,2020,Utility 4D Touring AWD I4 Turbo,34850,jdpower
+Honda,CR-V,2021,Utility 4D LX 2WD I4,25350,jdpower
+Honda,CR-V,2021,Utility 4D SE 2WD,26550,jdpower
+Honda,CR-V,2021,Utility 4D LX AWD I4,26850,jdpower
+Honda,CR-V,2021,Utility 4D SE AWD,28050,jdpower
+Honda,CR-V,2021,Utility 4D EX 2WD I4 Turbo,27860,jdpower
+Honda,CR-V,2021,Utility 4D EX-L 2WD I4 Turbo,30450,jdpower
+Honda,CR-V,2021,Utility 4D EX AWD I4 Turbo,29360,jdpower
+Honda,CR-V,2021,Utility 4D EX-L AWD I4 Turbo,31950,jdpower
+Honda,CR-V,2021,Utility 4D Touring 2WD I4 Turbo,33650,jdpower
+Honda,CR-V,2021,Utility 4D Touring AWD I4 Turbo,35150,jdpower
+Honda,CR-V,2022,Utility 4D LX 2WD,26800,jdpower
+Honda,CR-V,2022,Utility 4D SE 2WD,28000,jdpower
+Honda,CR-V,2022,Utility 4D LX AWD,28300,jdpower
+Honda,CR-V,2022,Utility 4D SE AWD,29500,jdpower
+Honda,CR-V,2022,Utility 4D EX 2WD,29310,jdpower
+Honda,CR-V,2022,Utility 4D EX AWD,30810,jdpower
+Honda,CR-V,2022,Utility 4D EX-L 2WD,31900,jdpower
+Honda,CR-V,2022,Utility 4D EX-L AWD,33400,jdpower
+Honda,CR-V,2022,Utility 4D Touring AWD,36600,jdpower
+Honda,CR-V,2023,Utility 4D LX 2WD,28410,jdpower
+Honda,CR-V,2023,Utility 4D LX AWD,29910,jdpower
+Honda,CR-V,2023,Utility 4D EX 2WD,31610,jdpower
+Honda,CR-V,2023,Utility 4D EX AWD,33110,jdpower
+Honda,CR-V,2023,Utility 4D EX-L 2WD,34260,jdpower
+Honda,CR-V,2023,Utility 4D EX-L AWD,35760,jdpower
+Honda,CR-V,2024,Utility 4D LX 2WD,29500,jdpower
+Honda,CR-V,2024,Utility 4D LX AWD,31000,jdpower
+Honda,CR-V,2024,Utility 4D EX 2WD,32010,jdpower
+Honda,CR-V,2024,Utility 4D EX AWD,33510,jdpower
+Honda,CR-V,2024,Utility 4D EX-L 2WD,34660,jdpower
+Honda,CR-V,2024,Utility 4D EX-L AWD,36160,jdpower
+Honda,CR-V,2025,LX 2WD,30100,jdpower
+Honda,CR-V,2025,LX AWD,31600,jdpower
+Honda,CR-V,2025,EX 2WD,32350,jdpower
+Honda,CR-V,2025,EX AWD,33850,jdpower
+Honda,CR-V,2025,EX-L 2WD,35000,jdpower
+Honda,CR-V,2025,EX-L AWD,36500,jdpower
+Honda,CR-V,2026,LX 2WD,30920,jdpower
+Honda,CR-V,2026,EX 2WD,33150,jdpower
+Honda,CR-V,2026,LX AWD,32420,jdpower
+Honda,CR-V,2026,EX AWD,34650,jdpower
+Honda,CR-V,2026,EX-L 2WD,35400,jdpower
+Honda,CR-V,2026,EX-L AWD,36900,jdpower
+Ford,F-150,2008,Regular Cab XL 2WD,17345,jdpower
+Ford,F-150,2008,Regular Cab STX 2WD,22932,jdpower
+Ford,F-150,2008,Regular Cab XLT 2WD,24852,jdpower
+Ford,F-150,2008,Regular Cab XL 4WD,23190,jdpower
+Ford,F-150,2008,Supercab XL 2WD,23440,jdpower
+Ford,F-150,2008,Regular Cab FX2 2WD,26120,jdpower
+Ford,F-150,2008,Regular Cab STX 4WD,26463,jdpower
+Ford,F-150,2008,Supercab STX 2WD,26945,jdpower
+Ford,F-150,2008,Supercab XL 4WD,26440,jdpower
+Ford,F-150,2008,Regular Cab XLT 4WD,29046,jdpower
+Ford,F-150,2008,Supercab XLT 2WD,29082,jdpower
+Ford,F-150,2008,Supercab STX 4WD,28713,jdpower
+Ford,F-150,2008,Regular Cab FX4 4WD,30523,jdpower
+Ford,F-150,2008,SuperCrew XLT 4WD,34145,jdpower
+Ford,F-150,2008,SuperCrew XL 2WD,26895,jdpower
+Ford,F-150,2008,SuperCrew XL 4WD,29895,jdpower
+Ford,F-150,2008,Supercab Lariat 2WD,29895,jdpower
+Ford,F-150,2008,Supercab FX2 2WD,29629,jdpower
+Ford,F-150,2008,Supercab XLT 4WD,32178,jdpower
+Ford,F-150,2008,SuperCrew XLT 2WD,31382,jdpower
+Ford,F-150,2008,SuperCrew FX2 2WD,32029,jdpower
+Ford,F-150,2008,SuperCrew Lariat 2WD,32295,jdpower
+Ford,F-150,2008,SuperCrew Lariat 4WD,35295,jdpower
+Ford,F-150,2008,Supercab FX4 4WD,32773,jdpower
+Ford,F-150,2008,SuperCrew FX4 4WD,35173,jdpower
+Ford,F-150,2008,Supercab Lariat 4WD,32895,jdpower
+Ford,F-150,2008,SuperCrew King Ranch 2WD,35495,jdpower
+Ford,F-150,2008,SuperCrew King Ranch 4WD,38495,jdpower
+Ford,F-150,2008,SuperCrew Limited 2WD,35160,jdpower
+Ford,F-150,2008,SuperCrew Limited 4WD,38160,jdpower
+Ford,F-150,2008,SuperCrew Harley-Davidson 2WD,36500,jdpower
+Ford,F-150,2008,SuperCrew Harley-Davidson AWD,39500,jdpower
+Ford,F-150,2009,Regular Cab XL 2WD,21765,jdpower
+Ford,F-150,2009,Regular Cab XLT 2WD,25873,jdpower
+Ford,F-150,2009,Regular Cab STX 2WD,24740,jdpower
+Ford,F-150,2009,Regular Cab XL 4WD,25710,jdpower
+Ford,F-150,2009,Supercab XL 2WD,25165,jdpower
+Ford,F-150,2009,Regular Cab STX 4WD,27760,jdpower
+Ford,F-150,2009,Supercab STX 2WD,27190,jdpower
+Ford,F-150,2009,Supercab XL 4WD,28310,jdpower
+Ford,F-150,2009,Supercab XLT 2WD,29180,jdpower
+Ford,F-150,2009,SuperCrew XLT 2WD,29180,jdpower
+Ford,F-150,2009,Regular Cab XLT 4WD,28980,jdpower
+Ford,F-150,2009,Supercab XLT 4WD,32325,jdpower
+Ford,F-150,2009,SuperCrew XL 2WD,28575,jdpower
+Ford,F-150,2009,Supercab STX 4WD,30160,jdpower
+Ford,F-150,2009,SuperCrew XL 4WD,32535,jdpower
+Ford,F-150,2009,SuperCrew XLT 4WD,34985,jdpower
+Ford,F-150,2009,Supercab FX4 4WD,34100,jdpower
+Ford,F-150,2009,Supercab Lariat 2WD,32655,jdpower
+Ford,F-150,2009,SuperCrew FX4 4WD,36760,jdpower
+Ford,F-150,2009,SuperCrew Lariat 2WD,35315,jdpower
+Ford,F-150,2009,Supercab Lariat 4WD,35800,jdpower
+Ford,F-150,2009,SuperCrew Lariat 4WD,38460,jdpower
+Ford,F-150,2009,SuperCrew King Ranch 2WD,39310,jdpower
+Ford,F-150,2009,SuperCrew Platinum 2WD,40910,jdpower
+Ford,F-150,2009,SuperCrew King Ranch 4WD,42455,jdpower
+Ford,F-150,2009,SuperCrew Platinum 4WD,44055,jdpower
+Ford,F-150,2010,Regular Cab XL 2WD,22260,jdpower
+Ford,F-150,2010,Regular Cab STX 2WD,25085,jdpower
+Ford,F-150,2010,Regular Cab XLT 2WD,26455,jdpower
+Ford,F-150,2010,Regular Cab STX 4WD,28230,jdpower
+Ford,F-150,2010,Regular Cab XL 4WD,26430,jdpower
+Ford,F-150,2010,Supercab XL 2WD,25885,jdpower
+Ford,F-150,2010,Regular Cab XLT 4WD,29400,jdpower
+Ford,F-150,2010,SuperCab STX 2WD,27685,jdpower
+Ford,F-150,2010,Supercab XLT 2WD,29795,jdpower
+Ford,F-150,2010,Supercab XL 4WD,29030,jdpower
+Ford,F-150,2010,SuperCrew XL 2WD,29295,jdpower
+Ford,F-150,2010,SuperCab STX 4WD,30830,jdpower
+Ford,F-150,2010,SuperCrew XL 4WD,33255,jdpower
+Ford,F-150,2010,Supercab XLT 4WD,32940,jdpower
+Ford,F-150,2010,SuperCrew XLT 4WD,35405,jdpower
+Ford,F-150,2010,SuperCrew XLT 2WD,32260,jdpower
+Ford,F-150,2010,Supercab FX2 2WD,31680,jdpower
+Ford,F-150,2010,SuperCrew FX2 2WD,34145,jdpower
+Ford,F-150,2010,SuperCab FX4 4WD,35890,jdpower
+Ford,F-150,2010,SuperCab Lariat 2WD,34005,jdpower
+Ford,F-150,2010,SuperCrew Lariat 2WD,36470,jdpower
+Ford,F-150,2010,SuperCab Lariat 4WD,37150,jdpower
+Ford,F-150,2010,SuperCrew FX4 4WD,38355,jdpower
+Ford,F-150,2010,SuperCrew Lariat 4WD,39615,jdpower
+Ford,F-150,2010,SuperCrew Platinum 2WD,43125,jdpower
+Ford,F-150,2010,SuperCrew King Ranch 2WD,41105,jdpower
+Ford,F-150,2010,SuperCrew Platinum 4WD,46270,jdpower
+Ford,F-150,2010,SuperCrew King Ranch 4WD,44250,jdpower
+Ford,F-150,2010,SuperCab Raptor 4WD,38260,jdpower
+Ford,F-150,2010,SuperCrew Harley-Davidson 4WD,46740,jdpower
+Ford,F-150,2010,SuperCrew Harley-Davidson 2WD,43595,jdpower
+Ford,F-150,2011,Regular Cab STX 2WD,26630,jdpower
+Ford,F-150,2011,Regular Cab XL 2WD,22892,jdpower
+Ford,F-150,2011,Regular Cab XL 4WD,27383,jdpower
+Ford,F-150,2011,Regular Cab XLT 2WD,27352,jdpower
+Ford,F-150,2011,Regular Cab STX 4WD,29900,jdpower
+Ford,F-150,2011,Supercab STX 2WD,29415,jdpower
+Ford,F-150,2011,Supercab XL 2WD,26615,jdpower
+Ford,F-150,2011,Regular Cab XLT 4WD,30620,jdpower
+Ford,F-150,2011,Supercab XLT 2WD,29840,jdpower
+Ford,F-150,2011,SuperCrew XL 2WD,30275,jdpower
+Ford,F-150,2011,Supercab XL 4WD,29880,jdpower
+Ford,F-150,2011,Supercab STX 4WD,32685,jdpower
+Ford,F-150,2011,Supercab XLT 4WD,33110,jdpower
+Ford,F-150,2011,SuperCrew XLT 2WD,32320,jdpower
+Ford,F-150,2011,SuperCrew XL 4WD,34450,jdpower
+Ford,F-150,2011,Supercab FX2 2WD,33460,jdpower
+Ford,F-150,2011,SuperCrew XLT 4WD,36525,jdpower
+Ford,F-150,2011,SuperCrew FX2 2WD,35945,jdpower
+Ford,F-150,2011,Supercab Lariat 2WD,34495,jdpower
+Ford,F-150,2011,Supercab FX4 4WD,37135,jdpower
+Ford,F-150,2011,SuperCrew Lariat 2WD,36980,jdpower
+Ford,F-150,2011,Supercab Lariat 4WD,37765,jdpower
+Ford,F-150,2011,SuperCrew FX4 4WD,39615,jdpower
+Ford,F-150,2011,SuperCrew Lariat 4WD,40245,jdpower
+Ford,F-150,2011,SuperCrew King Ranch 2WD,42300,jdpower
+Ford,F-150,2011,SuperCrew King Ranch 4WD,45565,jdpower
+Ford,F-150,2011,SuperCrew Platinum 2WD,44110,jdpower
+Ford,F-150,2011,Supercab Raptor 4WD,42060,jdpower
+Ford,F-150,2011,SuperCrew Platinum 4WD,47375,jdpower
+Ford,F-150,2011,SuperCrew Lariat Limited 2WD,47705,jdpower
+Ford,F-150,2011,SuperCrew Harley-Davidson AWD,51770,jdpower
+Ford,F-150,2011,SuperCrew Harley-Davidson 2WD,48505,jdpower
+Ford,F-150,2011,SuperCrew Lariat Limited AWD,50970,jdpower
+Ford,F-150,2011,SuperCrew Raptor 4WD,44945,jdpower
+Ford,F-150,2012,Regular Cab XL 2WD,23600,jdpower
+Ford,F-150,2012,Regular Cab STX 2WD,27010,jdpower
+Ford,F-150,2012,Regular Cab STX 4WD,30435,jdpower
+Ford,F-150,2012,Regular Cab XLT 2WD,28317,jdpower
+Ford,F-150,2012,Supercab STX 2WD,29795,jdpower
+Ford,F-150,2012,Regular Cab XL 4WD,28240,jdpower
+Ford,F-150,2012,Supercab XL 2WD,27325,jdpower
+Ford,F-150,2012,Supercab STX 4WD,33220,jdpower
+Ford,F-150,2012,Supercab XLT 2WD,30805,jdpower
+Ford,F-150,2012,SuperCrew XL 2WD,30980,jdpower
+Ford,F-150,2012,Regular Cab XLT 4WD,31740,jdpower
+Ford,F-150,2012,Supercab XL 4WD,30740,jdpower
+Ford,F-150,2012,SuperCrew XLT 2WD,33285,jdpower
+Ford,F-150,2012,Supercab XLT 4WD,34225,jdpower
+Ford,F-150,2012,Supercab FX2 2WD,34425,jdpower
+Ford,F-150,2012,SuperCrew XL 4WD,35165,jdpower
+Ford,F-150,2012,SuperCrew XLT 4WD,37495,jdpower
+Ford,F-150,2012,SuperCrew FX2 2WD,36910,jdpower
+Ford,F-150,2012,Supercab Lariat 2WD,35320,jdpower
+Ford,F-150,2012,Supercab FX4 4WD,38005,jdpower
+Ford,F-150,2012,SuperCrew Lariat 2WD,37805,jdpower
+Ford,F-150,2012,SuperCrew FX4 4WD,40485,jdpower
+Ford,F-150,2012,SuperCrew Lariat 4WD,41075,jdpower
+Ford,F-150,2012,Supercab Lariat 4WD,38595,jdpower
+Ford,F-150,2012,SuperCrew King Ranch 2WD,42825,jdpower
+Ford,F-150,2012,SuperCrew King Ranch 4WD,46100,jdpower
+Ford,F-150,2012,SuperCrew Platinum 2WD,44635,jdpower
+Ford,F-150,2012,SuperCrew Platinum 4WD,47910,jdpower
+Ford,F-150,2012,Supercab Raptor 4WD,42975,jdpower
+Ford,F-150,2012,SuperCrew Harley-Davidson AWD,52305,jdpower
+Ford,F-150,2012,SuperCrew Harley-Davidson 2WD,49030,jdpower
+Ford,F-150,2012,SuperCrew Raptor 4WD,45875,jdpower
+Ford,F-150,2013,Regular Cab XL 2WD,24170,jdpower
+Ford,F-150,2013,Regular Cab STX 2WD,27595,jdpower
+Ford,F-150,2013,Regular Cab XLT 2WD,29560,jdpower
+Ford,F-150,2013,Supercab STX 2WD,30380,jdpower
+Ford,F-150,2013,Regular Cab XL 4WD,28810,jdpower
+Ford,F-150,2013,Supercab XL 2WD,27895,jdpower
+Ford,F-150,2013,Regular Cab STX 4WD,31020,jdpower
+Ford,F-150,2013,SuperCrew XL 2WD,31555,jdpower
+Ford,F-150,2013,Supercab XLT 2WD,32045,jdpower
+Ford,F-150,2013,Supercab STX 4WD,33805,jdpower
+Ford,F-150,2013,Supercab XL 4WD,31310,jdpower
+Ford,F-150,2013,Regular Cab XLT 4WD,32980,jdpower
+Ford,F-150,2013,SuperCrew XLT 2WD,34525,jdpower
+Ford,F-150,2013,Supercab FX2 2WD,36030,jdpower
+Ford,F-150,2013,SuperCrew XL 4WD,35735,jdpower
+Ford,F-150,2013,Supercab XLT 4WD,35470,jdpower
+Ford,F-150,2013,SuperCrew XLT 4WD,38735,jdpower
+Ford,F-150,2013,SuperCrew FX2 2WD,38515,jdpower
+Ford,F-150,2013,Supercab Lariat 2WD,36680,jdpower
+Ford,F-150,2013,SuperCrew Lariat 2WD,39160,jdpower
+Ford,F-150,2013,Supercab FX4 4WD,39610,jdpower
+Ford,F-150,2013,Supercab Lariat 4WD,39955,jdpower
+Ford,F-150,2013,SuperCrew FX4 4WD,42100,jdpower
+Ford,F-150,2013,SuperCrew Lariat 4WD,42440,jdpower
+Ford,F-150,2013,SuperCrew King Ranch 2WD,43920,jdpower
+Ford,F-150,2013,SuperCrew King Ranch 4WD,47195,jdpower
+Ford,F-150,2013,SuperCrew Platinum 2WD,46945,jdpower
+Ford,F-150,2013,SuperCrew Limited EcoBoost,50025,jdpower
+Ford,F-150,2013,SuperCrew Limited EcoBoost 4WD,53300,jdpower
+Ford,F-150,2013,SuperCrew Platinum 4WD,50225,jdpower
+Ford,F-150,2013,Supercab Raptor 4WD,44035,jdpower
+Ford,F-150,2013,SuperCrew Raptor 4WD,46935,jdpower
+Ford,F-150,2014,Regular Cab XL 2WD,25125,jdpower
+Ford,F-150,2014,Regular Cab STX 2WD,28760,jdpower
+Ford,F-150,2014,Regular Cab XLT 2WD,30435,jdpower
+Ford,F-150,2014,Supercab XL 2WD,28940,jdpower
+Ford,F-150,2014,Regular Cab XL 4WD,29765,jdpower
+Ford,F-150,2014,Supercab STX 2WD,31460,jdpower
+Ford,F-150,2014,Regular Cab STX 4WD,32185,jdpower
+Ford,F-150,2014,SuperCrew XL 2WD,32590,jdpower
+Ford,F-150,2014,Supercab XL 4WD,32365,jdpower
+Ford,F-150,2014,Supercab STX 4WD,34885,jdpower
+Ford,F-150,2014,Regular Cab XLT 4WD,33860,jdpower
+Ford,F-150,2014,Supercab XLT 2WD,33035,jdpower
+Ford,F-150,2014,SuperCrew STX 2WD,33960,jdpower
+Ford,F-150,2014,Supercab XLT 4WD,36460,jdpower
+Ford,F-150,2014,Regular Cab Tremor EcoBoost 2WD Turb,34850,jdpower
+Ford,F-150,2014,SuperCrew XL 4WD,37015,jdpower
+Ford,F-150,2014,SuperCrew XLT 2WD,35535,jdpower
+Ford,F-150,2014,SuperCrew STX 4WD,38385,jdpower
+Ford,F-150,2014,Supercab FX2 2WD,36455,jdpower
+Ford,F-150,2014,SuperCrew XLT 4WD,39960,jdpower
+Ford,F-150,2014,Regular Cab Tremor EcoBoost 4WD Turb,38965,jdpower
+Ford,F-150,2014,SuperCrew FX2 2WD,38955,jdpower
+Ford,F-150,2014,Supercab Lariat 2WD,37640,jdpower
+Ford,F-150,2014,SuperCrew Lariat 2WD,40140,jdpower
+Ford,F-150,2014,Supercab FX4 4WD,40570,jdpower
+Ford,F-150,2014,SuperCrew FX4 4WD,43075,jdpower
+Ford,F-150,2014,Supercab Lariat 4WD,41065,jdpower
+Ford,F-150,2014,SuperCrew Lariat 4WD,43570,jdpower
+Ford,F-150,2014,SuperCrew King Ranch 2WD,44880,jdpower
+Ford,F-150,2014,SuperCrew King Ranch 4WD,48305,jdpower
+Ford,F-150,2014,SuperCrew Platinum 2WD,47905,jdpower
+Ford,F-150,2014,SuperCrew Limited EcoBoost 4WD Turbo,54410,jdpower
+Ford,F-150,2014,SuperCrew Platinum 4WD,51330,jdpower
+Ford,F-150,2014,SuperCrew Limited EcoBoost 2WD Turbo,50985,jdpower
+Ford,F-150,2014,Supercab Raptor 4WD,44995,jdpower
+Ford,F-150,2014,SuperCrew Raptor 4WD,47895,jdpower
+Ford,F-150,2015,Regular Cab XL 2WD,26105,jdpower
+Ford,F-150,2015,Regular Cab XLT 2WD,31396,jdpower
+Ford,F-150,2015,Supercab XL 2WD,30090,jdpower
+Ford,F-150,2015,Regular Cab XL 4WD,30750,jdpower
+Ford,F-150,2015,Supercab XL 4WD,33515,jdpower
+Ford,F-150,2015,Crew Cab XL 2WD,32545,jdpower
+Ford,F-150,2015,Regular Cab XLT 4WD,34820,jdpower
+Ford,F-150,2015,Supercab XLT 2WD,34205,jdpower
+Ford,F-150,2015,Crew Cab XLT 2WD,36555,jdpower
+Ford,F-150,2015,Crew Cab XL 4WD,36055,jdpower
+Ford,F-150,2015,Supercab XLT 4WD,37630,jdpower
+Ford,F-150,2015,Crew Cab XLT 4WD,40050,jdpower
+Ford,F-150,2015,Supercab Lariat 2WD,39310,jdpower
+Ford,F-150,2015,Crew Cab Lariat 2WD,41670,jdpower
+Ford,F-150,2015,Supercab Lariat 4WD,42735,jdpower
+Ford,F-150,2015,Crew Cab Lariat 4WD,45090,jdpower
+Ford,F-150,2015,Crew Cab King Ranch 2WD,49120,jdpower
+Ford,F-150,2015,Crew Cab King Ranch 4WD,52545,jdpower
+Ford,F-150,2015,Crew Cab Platinum 2WD,51585,jdpower
+Ford,F-150,2015,Crew Cab Platinum 4WD,55010,jdpower
+Ford,F-150,2016,Regular Cab XL 2WD,26615,jdpower
+Ford,F-150,2016,Regular Cab XLT 2WD,31981,jdpower
+Ford,F-150,2016,Supercab XL 2WD,30600,jdpower
+Ford,F-150,2016,Regular Cab XL 4WD,31260,jdpower
+Ford,F-150,2016,Crew Cab XL 2WD,33055,jdpower
+Ford,F-150,2016,Supercab XL 4WD,34025,jdpower
+Ford,F-150,2016,Regular Cab XLT 4WD,35405,jdpower
+Ford,F-150,2016,Crew Cab XL 4WD,36565,jdpower
+Ford,F-150,2016,Crew Cab XLT 2WD,37140,jdpower
+Ford,F-150,2016,Supercab XLT 4WD,38215,jdpower
+Ford,F-150,2016,Supercab XLT 2WD,38215,jdpower
+Ford,F-150,2016,Crew Cab XLT 4WD,40635,jdpower
+Ford,F-150,2016,Supercab Lariat 2WD,40065,jdpower
+Ford,F-150,2016,Crew Cab Lariat 2WD,42425,jdpower
+Ford,F-150,2016,Supercab Lariat 4WD,43490,jdpower
+Ford,F-150,2016,Crew Cab Lariat 4WD,45845,jdpower
+Ford,F-150,2016,Crew Cab King Ranch 2WD,50050,jdpower
+Ford,F-150,2016,Crew Cab Platinum 2WD,52515,jdpower
+Ford,F-150,2016,Crew Cab King Ranch 4WD,53475,jdpower
+Ford,F-150,2016,Crew Cab Limited EcoBoost 2WD,58885,jdpower
+Ford,F-150,2016,Crew Cab Platinum 4WD,55940,jdpower
+Ford,F-150,2016,Crew Cab Limited EcoBoost 4WD,62310,jdpower
+Ford,F-150,2017,Regular Cab XL 2WD,27185,jdpower
+Ford,F-150,2017,Regular Cab XLT 2WD,32556,jdpower
+Ford,F-150,2017,Supercab XL 2WD,31195,jdpower
+Ford,F-150,2017,Regular Cab XL 4WD,31830,jdpower
+Ford,F-150,2017,Crew Cab XL 2WD,33650,jdpower
+Ford,F-150,2017,Supercab XL 4WD,34625,jdpower
+Ford,F-150,2017,Regular Cab XLT 4WD,35980,jdpower
+Ford,F-150,2017,Supercab XLT 2WD,35390,jdpower
+Ford,F-150,2017,Crew Cab XL 4WD,37160,jdpower
+Ford,F-150,2017,Crew Cab XLT 2WD,37740,jdpower
+Ford,F-150,2017,Supercab XLT 4WD,38815,jdpower
+Ford,F-150,2017,Crew Cab XLT 4WD,41235,jdpower
+Ford,F-150,2017,Supercab Lariat 2WD,40865,jdpower
+Ford,F-150,2017,Crew Cab Lariat 2WD,43225,jdpower
+Ford,F-150,2017,Supercab Lariat 4WD,44290,jdpower
+Ford,F-150,2017,Crew Cab Lariat 4WD,46645,jdpower
+Ford,F-150,2017,Crew Cab King Ranch 2WD,51080,jdpower
+Ford,F-150,2017,Crew Cab Platinum 2WD,53635,jdpower
+Ford,F-150,2017,Crew Cab Limited EcoBoost 2WD,60200,jdpower
+Ford,F-150,2017,Crew Cab King Ranch 4WD,54505,jdpower
+Ford,F-150,2017,Crew Cab Platinum 4WD,57060,jdpower
+Ford,F-150,2017,Crew Cab Limited EcoBoost 4WD,63625,jdpower
+Ford,F-150,2017,SuperCab Raptor 4WD,49265,jdpower
+Ford,F-150,2017,Crew Cab Raptor 4WD,52250,jdpower
+Ford,F-150,2018,Regular Cab XL 2WD,27780,jdpower
+Ford,F-150,2018,Regular Cab XLT 2WD,33375,jdpower
+Ford,F-150,2018,Supercab XL 2WD,31790,jdpower
+Ford,F-150,2018,Regular Cab XL 4WD,32425,jdpower
+Ford,F-150,2018,Regular Cab XLT 4WD,36800,jdpower
+Ford,F-150,2018,Crew Cab XL 2WD,34245,jdpower
+Ford,F-150,2018,Supercab XLT 2WD,36210,jdpower
+Ford,F-150,2018,Supercab XL 4WD,35220,jdpower
+Ford,F-150,2018,Crew Cab XLT 2WD,38560,jdpower
+Ford,F-150,2018,Crew Cab XL 4WD,37755,jdpower
+Ford,F-150,2018,Supercab XLT 4WD,39635,jdpower
+Ford,F-150,2018,Crew Cab XLT 4WD,42055,jdpower
+Ford,F-150,2018,Supercab Lariat 2WD,41515,jdpower
+Ford,F-150,2018,Crew Cab Lariat 2WD,43875,jdpower
+Ford,F-150,2018,Supercab Lariat 4WD,44940,jdpower
+Ford,F-150,2018,Crew Cab Lariat 4WD,51930,jdpower
+Ford,F-150,2018,Crew Cab King Ranch 2WD,51930,jdpower
+Ford,F-150,2018,Crew Cab King Ranch 4WD,55355,jdpower
+Ford,F-150,2018,Crew Cab Platinum 2WD,54485,jdpower
+Ford,F-150,2018,Crew Cab Limited EcoBoost 2WD,61360,jdpower
+Ford,F-150,2018,Crew Cab Platinum 4WD,57910,jdpower
+Ford,F-150,2018,Crew Cab Limited EcoBoost 4WD,64785,jdpower
+Ford,F-150,2018,SuperCab Raptor 4WD,50675,jdpower
+Ford,F-150,2018,Crew Cab Raptor 4WD,53660,jdpower
+Ford,F-150,2019,Regular Cab XL 2WD,28230,jdpower
+Ford,F-150,2019,Regular Cab XLT 2WD,34235,jdpower
+Ford,F-150,2019,Supercab XL 2WD,32240,jdpower
+Ford,F-150,2019,Regular Cab XL 4WD,32875,jdpower
+Ford,F-150,2019,Regular Cab XLT 4WD,37660,jdpower
+Ford,F-150,2019,Crew Cab XL 2WD,34695,jdpower
+Ford,F-150,2019,Supercab XL 4WD,35670,jdpower
+Ford,F-150,2019,Supercab XLT 2WD,37070,jdpower
+Ford,F-150,2019,Crew Cab XLT 2WD,39420,jdpower
+Ford,F-150,2019,Supercab XLT 4WD,40495,jdpower
+Ford,F-150,2019,Crew Cab XL 4WD,38205,jdpower
+Ford,F-150,2019,Crew Cab XLT 4WD,42915,jdpower
+Ford,F-150,2019,Supercab Lariat 2WD,42200,jdpower
+Ford,F-150,2019,Crew Cab Lariat 2WD,44560,jdpower
+Ford,F-150,2019,Supercab Lariat 4WD,45625,jdpower
+Ford,F-150,2019,Crew Cab Lariat 4WD,47985,jdpower
+Ford,F-150,2019,Crew Cab King Ranch 2WD,52390,jdpower
+Ford,F-150,2019,Crew Cab Platinum 2WD,54920,jdpower
+Ford,F-150,2019,Crew Cab King Ranch 4WD,55815,jdpower
+Ford,F-150,2019,Crew Cab Platinum 4WD,58345,jdpower
+Ford,F-150,2019,Crew Cab Limited EcoBoost 4WD,70560,jdpower
+Ford,F-150,2019,Crew Cab Limited EcoBoost 2WD,67135,jdpower
+Ford,F-150,2019,SuperCab Raptor 4WD,52855,jdpower
+Ford,F-150,2019,Crew Cab Raptor 4WD,55840,jdpower
+Ford,F-150,2020,Regular Cab XL 2WD,28820,jdpower
+Ford,F-150,2020,Regular Cab XLT 2WD,34835,jdpower
+Ford,F-150,2020,Supercab XL 2WD,32830,jdpower
+Ford,F-150,2020,Regular Cab XL 4WD,33465,jdpower
+Ford,F-150,2020,Crew Cab XL 2WD,35285,jdpower
+Ford,F-150,2020,Supercab XL 4WD,36260,jdpower
+Ford,F-150,2020,Supercab XLT 2WD,37670,jdpower
+Ford,F-150,2020,Regular Cab XLT 4WD,38260,jdpower
+Ford,F-150,2020,Crew Cab XLT 2WD,40281,jdpower
+Ford,F-150,2020,Supercab XLT 4WD,41095,jdpower
+Ford,F-150,2020,Crew Cab XL 4WD,38795,jdpower
+Ford,F-150,2020,Crew Cab XLT 4WD,43966,jdpower
+Ford,F-150,2020,Supercab Lariat 2WD,43250,jdpower
+Ford,F-150,2020,Crew Cab Lariat 2WD,45610,jdpower
+Ford,F-150,2020,Supercab Lariat 4WD,46675,jdpower
+Ford,F-150,2020,Crew Cab Lariat 4WD,49035,jdpower
+Ford,F-150,2020,Crew Cab King Ranch 2WD,52990,jdpower
+Ford,F-150,2020,Crew Cab Platinum 2WD,55520,jdpower
+Ford,F-150,2020,Crew Cab King Ranch 4WD,56415,jdpower
+Ford,F-150,2020,Crew Cab Platinum 4WD,58945,jdpower
+Ford,F-150,2020,Crew Cab Limited EcoBoost 2WD,67735,jdpower
+Ford,F-150,2020,Crew Cab Limited EcoBoost 4WD,71160,jdpower
+Ford,F-150,2020,SuperCab Raptor 4WD,53455,jdpower
+Ford,F-150,2020,Crew Cab Raptor 4WD,56440,jdpower
+Ford,F-150,2021,Regular Cab XL 2WD,29365,jdpower
+Ford,F-150,2021,Regular Cab XL 4WD,34010,jdpower
+Ford,F-150,2021,Supercab XL 2WD,33375,jdpower
+Ford,F-150,2021,Regular Cab XLT 2WD,35475,jdpower
+Ford,F-150,2021,Regular Cab XLT 4WD,38900,jdpower
+Ford,F-150,2021,Supercab XL 4WD,36805,jdpower
+Ford,F-150,2021,Crew Cab XL 2WD,37000,jdpower
+Ford,F-150,2021,Supercab XLT 2WD,38310,jdpower
+Ford,F-150,2021,Crew Cab XL 4WD,40510,jdpower
+Ford,F-150,2021,Supercab XLT 4WD,41735,jdpower
+Ford,F-150,2021,Crew Cab XLT 2WD,40660,jdpower
+Ford,F-150,2021,Supercab Lariat 2WD,45545,jdpower
+Ford,F-150,2021,Crew Cab XLT 4WD,44155,jdpower
+Ford,F-150,2021,Crew Cab Lariat 2WD,47905,jdpower
+Ford,F-150,2021,Supercab Lariat 4WD,48970,jdpower
+Ford,F-150,2021,Crew Cab King Ranch 2WD,56680,jdpower
+Ford,F-150,2021,Crew Cab King Ranch 4WD,56680,jdpower
+Ford,F-150,2021,Crew Cab Lariat 4WD,51330,jdpower
+Ford,F-150,2021,Crew Cab Tremor 4WD,49505,jdpower
+Ford,F-150,2021,Crew Cab Platinum 2WD,59460,jdpower
+Ford,F-150,2021,Crew Cab Platinum 4WD,62885,jdpower
+Ford,F-150,2021,Crew Cab Limited 2WD,73105,jdpower
+Ford,F-150,2021,Crew Cab Limited Hybrid 2WD,73105,jdpower
+Ford,F-150,2021,Crew Cab Limited 4WD,76530,jdpower
+Ford,F-150,2021,Crew Cab Limited Hybrid 4WD,76530,jdpower
+Ford,F-150,2021,Crew Cab Raptor 4WD,64145,jdpower
+Ford,F-150,2022,Regular Cab XL 2WD,31595,jdpower
+Ford,F-150,2022,Regular Cab XL 4WD,36610,jdpower
+Ford,F-150,2022,Supercab XL 2WD,35940,jdpower
+Ford,F-150,2022,Supercab XL 4WD,39740,jdpower
+Ford,F-150,2022,Regular Cab XLT 2WD,39239,jdpower
+Ford,F-150,2022,Crew Cab XL 2WD,39570,jdpower
+Ford,F-150,2022,Supercab XLT 2WD,42405,jdpower
+Ford,F-150,2022,Regular Cab XLT 4WD,43031,jdpower
+Ford,F-150,2022,Crew Cab XL 4WD,43450,jdpower
+Ford,F-150,2022,Supercab XLT 4WD,46205,jdpower
+Ford,F-150,2022,Crew Cab XLT 2WD,44765,jdpower
+Ford,F-150,2022,Supercab Lariat 2WD,49600,jdpower
+Ford,F-150,2022,Crew Cab XLT 4WD,48625,jdpower
+Ford,F-150,2022,Supercab Lariat 4WD,53390,jdpower
+Ford,F-150,2022,Crew Cab Lariat 2WD,51965,jdpower
+Ford,F-150,2022,Crew Cab Lariat 4WD,55755,jdpower
+Ford,F-150,2022,Crew Cab Tremor 4WD,54120,jdpower
+Ford,F-150,2022,Crew Cab King Ranch 2WD,60320,jdpower
+Ford,F-150,2022,Crew Cab King Ranch 4WD,64120,jdpower
+Ford,F-150,2022,Crew Cab Platinum 2WD,63100,jdpower
+Ford,F-150,2022,Crew Cab Platinum 4WD,66895,jdpower
+Ford,F-150,2022,Crew Cab Limited Hybrid 2WD,77625,jdpower
+Ford,F-150,2022,Crew Cab Limited 2WD,77625,jdpower
+Ford,F-150,2022,Crew Cab Limited Hybrid 4WD,81085,jdpower
+Ford,F-150,2022,Crew Cab Limited 4WD,81085,jdpower
+Ford,F-150,2022,Crew Cab Raptor 4WD,70555,jdpower
+Ford,F-150,2023,Regular Cab XL 2WD,34660,jdpower
+Ford,F-150,2023,Supercab XL 2WD,39195,jdpower
+Ford,F-150,2023,Regular Cab XLT 2WD,40834,jdpower
+Ford,F-150,2023,Regular Cab XL 4WD,39675,jdpower
+Ford,F-150,2023,Crew Cab XL 2WD,41530,jdpower
+Ford,F-150,2023,Supercab XL 4WD,42995,jdpower
+Ford,F-150,2023,Supercab XLT 2WD,44000,jdpower
+Ford,F-150,2023,Regular Cab XLT 4WD,44626,jdpower
+Ford,F-150,2023,Crew Cab XLT 2WD,47194,jdpower
+Ford,F-150,2023,Crew Cab XL 4WD,45410,jdpower
+Ford,F-150,2023,Supercab XLT 4WD,47800,jdpower
+Ford,F-150,2023,Crew Cab XLT 4WD,50220,jdpower
+Ford,F-150,2023,Crew Cab Lariat 2WD,57480,jdpower
+Ford,F-150,2023,Crew Cab Lariat 4WD,61270,jdpower
+Ford,F-150,2023,Crew Cab King Ranch 2WD,63225,jdpower
+Ford,F-150,2023,Crew Cab King Ranch 4WD,67025,jdpower
+Ford,F-150,2023,Crew Cab Platinum 2WD,64915,jdpower
+Ford,F-150,2023,Crew Cab Tremor 4WD,61330,jdpower
+Ford,F-150,2023,Crew Cab Platinum 4WD,68710,jdpower
+Ford,F-150,2023,Crew Cab Limited Hybrid 4WD,84910,jdpower
+Ford,F-150,2023,Crew Cab Raptor R 4WD,76775,jdpower
+Ford,F-150,2023,Crew Cab Raptor 4WD,76775,jdpower
+Ford,F-150,2024,Regular Cab XL 2WD,37072,jdpower
+Ford,F-150,2024,Supercab STX 2WD,46100,jdpower
+Ford,F-150,2024,Supercab XL 2WD,41385,jdpower
+Ford,F-150,2024,Crew Cab XL 2WD,43720,jdpower
+Ford,F-150,2024,Supercab STX 4WD,49900,jdpower
+Ford,F-150,2024,Regular Cab XL 4WD,42087,jdpower
+Ford,F-150,2024,Supercab XL 4WD,45185,jdpower
+Ford,F-150,2024,Crew Cab STX 2WD,48435,jdpower
+Ford,F-150,2024,Supercab XLT 2WD,47830,jdpower
+Ford,F-150,2024,Crew Cab XL 4WD,47600,jdpower
+Ford,F-150,2024,Crew Cab XLT 2WD,50190,jdpower
+Ford,F-150,2024,Supercab XLT 4WD,51630,jdpower
+Ford,F-150,2024,Crew Cab STX 4WD,52315,jdpower
+Ford,F-150,2024,Crew Cab XLT 4WD,54050,jdpower
+Ford,F-150,2024,Crew Cab Lariat 4WD,65495,jdpower
+Ford,F-150,2024,Crew Cab Tremor 4WD,64450,jdpower
+Ford,F-150,2024,Crew Cab King Ranch 4WD,73945,jdpower
+Ford,F-150,2024,Crew Cab Platinum 4WD,73945,jdpower
+Ford,F-150,2024,Crew Cab Raptor 4WD,78540,jdpower
+Ford,F-150,2024,Crew Cab Raptor R 4WD,78540,jdpower
+Ford,F-150,2025,XL 2WD Reg Cab 6.5' Box,37450,jdpower
+Ford,F-150,2025,XL 2WD Reg Cab 8' Box,37450,jdpower
+Ford,F-150,2025,XL 2WD SuperCab 6.5' Box,41760,jdpower
+Ford,F-150,2025,XL 4WD Reg Cab 6.5' Box,42465,jdpower
+Ford,F-150,2025,XL 4WD Reg Cab 8' Box,42465,jdpower
+Ford,F-150,2025,STX 2WD SuperCab 6.5' Box,45015,jdpower
+Ford,F-150,2025,XL 2WD SuperCrew 5.5' Box,44095,jdpower
+Ford,F-150,2025,XL 4WD SuperCab 6.5' Box,45560,jdpower
+Ford,F-150,2025,STX 2WD SuperCrew 5.5' Box,47350,jdpower
+Ford,F-150,2025,STX 4WD SuperCab 6.5' Box,48815,jdpower
+Ford,F-150,2025,XLT 2WD SuperCab 6.5' Box,45695,jdpower
+Ford,F-150,2025,XL 4WD SuperCrew 5.5' Box,47980,jdpower
+Ford,F-150,2025,XL Hybrid 4WD SuperCrew 5.5' Box,47980,jdpower
+Ford,F-150,2025,XL 4WD SuperCrew 6.5' Box,47980,jdpower
+Ford,F-150,2025,XL Hybrid 4WD SuperCrew 6.5' Box,47980,jdpower
+Ford,F-150,2025,XLT 4WD SuperCab 6.5' Box,49495,jdpower
+Ford,F-150,2025,STX 4WD SuperCrew 5.5' Box,51230,jdpower
+Ford,F-150,2025,XLT 2WD SuperCrew 5.5' Box,48055,jdpower
+Ford,F-150,2025,XLT 4WD SuperCrew 5.5' Box,53475,jdpower
+Ford,F-150,2025,XLT 4WD SuperCrew 6.5' Box,53475,jdpower
+Ford,F-150,2025,Tremor 4WD SuperCrew 5.5' Box,64915,jdpower
+Ford,F-150,2025,LARIAT 4WD SuperCrew 5.5' Box,63360,jdpower
+Ford,F-150,2025,LARIAT 4WD SuperCrew 6.5' Box,63360,jdpower
+Ford,F-150,2025,King Ranch 4WD SuperCrew 5.5' Box,74905,jdpower
+Ford,F-150,2025,King Ranch 4WD SuperCrew 6.5' Box,74905,jdpower
+Ford,F-150,2025,Platinum 4WD SuperCrew 5.5' Box,74905,jdpower
+Ford,F-150,2025,Platinum 4WD SuperCrew 6.5' Box,74905,jdpower
+Ford,F-150,2025,Raptor 4WD SuperCrew 5.5' Box,79005,jdpower
+Ford,F-150,2025,LARIAT 2WD SuperCrew 5.5' Box,59560,jdpower
+Ford,F-150,2025,King Ranch 2WD SuperCrew 5.5' Box,71105,jdpower
+Ford,F-150,2025,Platinum 2WD SuperCrew 5.5' Box,71105,jdpower
+Ford,F-150,2026,XL 2WD Reg Cab 6.5' Box,38055,jdpower
+Ford,F-150,2026,XL 2WD Reg Cab 8' Box,38055,jdpower
+Ford,F-150,2026,XL 2WD SuperCab 6.5' Box,41600,jdpower
+Ford,F-150,2026,STX 2WD SuperCab 6.5' Box,44855,jdpower
+Ford,F-150,2026,XL 4WD Reg Cab 6.5' Box,43070,jdpower
+Ford,F-150,2026,XL 4WD Reg Cab 8' Box,43070,jdpower
+Ford,F-150,2026,XL 2WD SuperCrew 5.5' Box,43935,jdpower
+Ford,F-150,2026,STX 2WD SuperCrew 5.5' Box,47190,jdpower
+Ford,F-150,2026,XLT 2WD SuperCab 6.5' Box,45695,jdpower
+Ford,F-150,2026,XL 4WD SuperCab 6.5' Box,45400,jdpower
+Ford,F-150,2026,XLT 2WD SuperCrew 5.5' Box,48055,jdpower
+Ford,F-150,2026,XL 4WD SuperCrew 5.5' Box,47820,jdpower
+Ford,F-150,2026,XL Hybrid 4WD SuperCrew 5.5' Box,47820,jdpower
+Ford,F-150,2026,XL 4WD SuperCrew 6.5' Box,47820,jdpower
+Ford,F-150,2026,XL Hybrid 4WD SuperCrew 6.5' Box,47820,jdpower
+Ford,F-150,2026,STX 4WD SuperCrew 5.5' Box,51070,jdpower
+Ford,F-150,2026,STX 4WD SuperCab 6.5' Box,48655,jdpower
+Ford,F-150,2026,XLT 4WD SuperCab 6.5' Box,49495,jdpower
+Ford,F-150,2026,XLT 4WD SuperCrew 5.5' Box,51915,jdpower
+Ford,F-150,2026,XLT 4WD SuperCrew 6.5' Box,51915,jdpower
+Ford,F-150,2026,LARIAT 2WD SuperCrew 5.5' Box,59560,jdpower
+Ford,F-150,2026,King Ranch 2WD SuperCrew 5.5' Box,65825,jdpower
+Ford,F-150,2026,LARIAT 4WD SuperCrew 5.5' Box,63360,jdpower
+Ford,F-150,2026,LARIAT 4WD SuperCrew 6.5' Box,63360,jdpower
+Ford,F-150,2026,Platinum 2WD SuperCrew 5.5' Box,68800,jdpower
+Ford,F-150,2026,King Ranch 4WD SuperCrew 5.5' Box,69625,jdpower
+Ford,F-150,2026,King Ranch 4WD SuperCrew 6.5' Box,69625,jdpower
+Ford,F-150,2026,Tremor 4WD SuperCrew 5.5' Box,64915,jdpower
+Ford,F-150,2026,Platinum 4WD SuperCrew 5.5' Box,72600,jdpower
+Ford,F-150,2026,Platinum 4WD SuperCrew 6.5' Box,72600,jdpower
+Ford,F-150,2026,Raptor 4WD SuperCrew 5.5' Box,79005,jdpower
+Ford,Escape,2008,Utility 4D XLS 2WD (4 Cyl),18580,jdpower
+Ford,Escape,2008,Utility 4D XLS 4WD (4 Cyl),21320,jdpower
+Ford,Escape,2008,Utility 4D XLT 2WD (V6),20880,jdpower
+Ford,Escape,2008,Utility 4D XLT 4WD (V6),22630,jdpower
+Ford,Escape,2008,Utility 4D Hybrid 2WD (4 Cyl),25075,jdpower
+Ford,Escape,2008,Utility 4D Hybrid 4WD (4 Cyl),26825,jdpower
+Ford,Escape,2008,Utility 4D Limited 2WD (V6),23580,jdpower
+Ford,Escape,2008,Utility 4D Limited 4WD (V6),25330,jdpower
+Ford,Escape,2009,Utility 4D XLS 2WD (4 Cyl),21645,jdpower
+Ford,Escape,2009,Utility 4D XLT 2WD (V6),23960,jdpower
+Ford,Escape,2009,Utility 4D XLS 4WD (4 Cyl),23395,jdpower
+Ford,Escape,2009,Utility 4D XLT 4WD (V6),25710,jdpower
+Ford,Escape,2009,Utility 4D Limited 2WD (V6),25420,jdpower
+Ford,Escape,2009,Utility 4D Limited 4WD (V6),27170,jdpower
+Ford,Escape,2009,Utility 4D Hybrid 2WD (4 Cyl),29645,jdpower
+Ford,Escape,2009,Utility 4D Hybrid 4WD (4 Cyl),31395,jdpower
+Ford,Escape,2009,Uti 4D Hybrid Limited 2WD (4 Cyl),31975,jdpower
+Ford,Escape,2009,Uti 4D Hybrid Limited 4WD (4 Cyl),33725,jdpower
+Ford,Escape,2010,Utility 4D XLS 2WD (4 Cyl),21020,jdpower
+Ford,Escape,2010,Utility 4D XLS 4WD (4 Cyl),22770,jdpower
+Ford,Escape,2010,Utility 4D XLT 2WD (V6),24045,jdpower
+Ford,Escape,2010,Utility 4D XLT 4WD (V6),25795,jdpower
+Ford,Escape,2010,Utility 4D Limited 2WD (V6),25625,jdpower
+Ford,Escape,2010,Utility 4D Limited 4WD (V6),27375,jdpower
+Ford,Escape,2010,Utility 4D Hybrid 2WD (4 Cyl),29860,jdpower
+Ford,Escape,2010,Utility 4D Hybrid 4WD (4 Cyl),31610,jdpower
+Ford,Escape,2010,Util 4D Hybrid Limited 2WD (4 Cyl),32370,jdpower
+Ford,Escape,2010,Util 4D Hybrid Limited 4WD (4 Cyl),34120,jdpower
+Ford,Escape,2011,Utility 4D XLS 2WD (4 Cyl),21240,jdpower
+Ford,Escape,2011,Utility 4D XLS 4WD (4 Cyl),22990,jdpower
+Ford,Escape,2011,Utility 4D XLT 2WD (V6),24670,jdpower
+Ford,Escape,2011,Utility 4D XLT 4WD (V6),26420,jdpower
+Ford,Escape,2011,Utility 4D Limited 2WD (V6),26170,jdpower
+Ford,Escape,2011,Utility 4D Limited 4WD (V6),27920,jdpower
+Ford,Escape,2011,Utility 4D Hybrid 2WD (4 Cyl),30570,jdpower
+Ford,Escape,2011,Utility 4D Hybrid 4WD (4 Cyl),32320,jdpower
+Ford,Escape,2011,Util 4D Hybrid Limited 2WD (4 Cyl),33080,jdpower
+Ford,Escape,2011,Util 4D Hybrid Limited 4WD (4 Cyl),34830,jdpower
+Ford,Escape,2012,Utility 4D XLS 2WD (4 Cyl),21440,jdpower
+Ford,Escape,2012,Utility 4D XLS 4WD (4 Cyl),23190,jdpower
+Ford,Escape,2012,Utility 4D XLT 2WD (V6),24870,jdpower
+Ford,Escape,2012,Utility 4D XLT 4WD (V6),26620,jdpower
+Ford,Escape,2012,Utility 4D Limited 2WD (V6),26370,jdpower
+Ford,Escape,2012,Utility 4D Limited 4WD (V6),28120,jdpower
+Ford,Escape,2012,Utility 4D Hybrid 2WD (4 Cyl),30570,jdpower
+Ford,Escape,2012,Utility 4D Hybrid 4WD (4 Cyl),32320,jdpower
+Ford,Escape,2012,Util 4D Hybrid Limited 2WD (4 Cyl),33080,jdpower
+Ford,Escape,2012,Util 4D Hybrid Limited 4WD (4 Cyl),34830,jdpower
+Ford,Escape,2013,Utility 4D S 2WD,22470,jdpower
+Ford,Escape,2013,Utility 4D SE 2WD,25070,jdpower
+Ford,Escape,2013,Utility 4D SE 4WD,26820,jdpower
+Ford,Escape,2013,Utility 4D SEL 2WD,28170,jdpower
+Ford,Escape,2013,Utility 4D SEL 4WD,29920,jdpower
+Ford,Escape,2013,Utility 4D Titanium 2WD,30370,jdpower
+Ford,Escape,2013,Utility 4D Titanium 4WD,32120,jdpower
+Ford,Escape,2014,Utility 4D S 2WD,23100,jdpower
+Ford,Escape,2014,Utility 4D SE 2WD,25550,jdpower
+Ford,Escape,2014,Utility 4D SE 4WD,27300,jdpower
+Ford,Escape,2014,Utility 4D Titanium 2WD,29100,jdpower
+Ford,Escape,2014,Utility 4D Titanium 4WD,30850,jdpower
+Ford,Escape,2015,Utility 4D S 2WD,23450,jdpower
+Ford,Escape,2015,Utility 4D SE 2WD,25650,jdpower
+Ford,Escape,2015,Utility 4D SE 4WD,27400,jdpower
+Ford,Escape,2015,Utility 4D Titanium 2WD,29735,jdpower
+Ford,Escape,2015,Utility 4D Titanium 4WD,31485,jdpower
+Ford,Escape,2016,Utility 4D S 2WD I4,23590,jdpower
+Ford,Escape,2016,Utility 4D SE 2WD I4 Turbo,25790,jdpower
+Ford,Escape,2016,Utility 4D SE EcoBoost 4WD I4 Turbo,27540,jdpower
+Ford,Escape,2016,Utility 4D Titanium 2WD I4 Turbo,29995,jdpower
+Ford,Escape,2016,Utility 4D Titanium 4WD I4 Turbo,31745,jdpower
+Ford,Escape,2017,Utility 4D S 2WD I4,23750,jdpower
+Ford,Escape,2017,Utility 4D SE EcoBoost 2WD I4 Turbo,25250,jdpower
+Ford,Escape,2017,Utility 4D SE EcoBoost 4WD I4 Turbo,27000,jdpower
+Ford,Escape,2017,Utility 4D Titanium 2WD I4 Turbo,29250,jdpower
+Ford,Escape,2017,Utility 4D Titanium 4WD I4 Turbo,31000,jdpower
+Ford,Escape,2018,Utility 4D S 2WD I4,23940,jdpower
+Ford,Escape,2018,Utility 4D SE EcoBoost 2WD I4 Turbo,25700,jdpower
+Ford,Escape,2018,Utility 4D SEL EcoBoost 2WD,28100,jdpower
+Ford,Escape,2018,Utility 4D SEL EcoBoost 4WD,29450,jdpower
+Ford,Escape,2018,Utility 4D SE EcoBoost 4WD I4 Turbo,27050,jdpower
+Ford,Escape,2018,Utility 4D Titanium EcoBoost 2WD 2.0,32140,jdpower
+Ford,Escape,2018,Utility 4D Titanium EcoBoost 4WD 2.0,33490,jdpower
+Ford,Escape,2019,Utility 4D S 2WD,24105,jdpower
+Ford,Escape,2019,Utility 4D SE EcoBoost 2WD,26500,jdpower
+Ford,Escape,2019,Utility 4D SE EcoBoost 4WD,28000,jdpower
+Ford,Escape,2019,Utility 4D SEL EcoBoost 2WD,28445,jdpower
+Ford,Escape,2019,Utility 4D SEL EcoBoost 4WD,29945,jdpower
+Ford,Escape,2019,Utility 4D Titanium EcoBoost 2WD,32620,jdpower
+Ford,Escape,2019,Utility 4D Titanium EcoBoost 4WD,34120,jdpower
+Ford,Escape,2020,Utility 4D S 2WD,24885,jdpower
+Ford,Escape,2020,Utility 4D SE 2WD,27105,jdpower
+Ford,Escape,2020,Utility 4D S AWD,26385,jdpower
+Ford,Escape,2020,Utility 4D SE Sport 2WD Hybrid,28265,jdpower
+Ford,Escape,2020,Utility 4D SE AWD,28605,jdpower
+Ford,Escape,2020,Utility 4D SEL 2WD,29265,jdpower
+Ford,Escape,2020,Utility 4D SEL AWD 2.0L I4 Turbo,30765,jdpower
+Ford,Escape,2020,Utility 4D SEL AWD 1.5L I4 Turbo,30765,jdpower
+Ford,Escape,2020,Utility 4D SE Sport AWD Hybrid,29765,jdpower
+Ford,Escape,2020,Utility 4D Titanium 2WD Hybrid,33550,jdpower
+Ford,Escape,2020,Utility 4D Titanium AWD,36835,jdpower
+Ford,Escape,2020,Utility 4D SE Plug-In Hybrid,33040,jdpower
+Ford,Escape,2020,Utility 4D SEL Plug-In Hybrid,35620,jdpower
+Ford,Escape,2020,Utility 4D Titanium AWD Hybrid,35050,jdpower
+Ford,Escape,2020,Utility 4D Titanium Plug-In Hybrid,38835,jdpower
+Ford,Escape,2021,Utility 4D S 2WD,25555,jdpower
+Ford,Escape,2021,Utility 4D S AWD,27055,jdpower
+Ford,Escape,2021,Utility 4D SE 2WD,27035,jdpower
+Ford,Escape,2021,Utility 4D SEL 2WD,29505,jdpower
+Ford,Escape,2021,Utility 4D SE AWD,28535,jdpower
+Ford,Escape,2021,Utility 4D SE AWD Hybrid,29530,jdpower
+Ford,Escape,2021,Utility 4D SE 2WD Hybrid,28030,jdpower
+Ford,Escape,2021,Utility 4D SEL AWD 2.0L I4 Turbo,33205,jdpower
+Ford,Escape,2021,Utility 4D SEL AWD,33205,jdpower
+Ford,Escape,2021,Utility 4D SE Plug-In Hybrid,33075,jdpower
+Ford,Escape,2021,Utility 4D SEL AWD Hybrid,32000,jdpower
+Ford,Escape,2021,Utility 4D SEL 2WD Hybrid,30500,jdpower
+Ford,Escape,2021,Utility 4D SEL Plug-In Hybrid,35815,jdpower
+Ford,Escape,2021,Utility 4D Titanium 2WD Hybrid,33600,jdpower
+Ford,Escape,2021,Utility 4D Titanium AWD,36455,jdpower
+Ford,Escape,2021,Utility 4D Titanium AWD Hybrid,35100,jdpower
+Ford,Escape,2021,Utility 4D Titanium Plug-In Hybrid,38885,jdpower
+Ford,Escape,2022,Utility 4D S 2WD,27185,jdpower
+Ford,Escape,2022,Utility 4D S AWD,28685,jdpower
+Ford,Escape,2022,Utility 4D SE 2WD,28520,jdpower
+Ford,Escape,2022,Utility 4D SE AWD,30020,jdpower
+Ford,Escape,2022,Utility 4D SEL 2WD,30895,jdpower
+Ford,Escape,2022,Utility 4D SE Plug-In Hybrid,35455,jdpower
+Ford,Escape,2022,Utility 4D SE 2WD Hybrid,30185,jdpower
+Ford,Escape,2022,Utility 4D SE AWD Hybrid,31685,jdpower
+Ford,Escape,2022,Utility 4D SEL 2WD Hybrid,32550,jdpower
+Ford,Escape,2022,Utility 4D SEL AWD 2.0L I4 Turbo,34765,jdpower
+Ford,Escape,2022,Utility 4D SEL AWD,34765,jdpower
+Ford,Escape,2022,Utility 4D SEL Plug-In Hybrid,38190,jdpower
+Ford,Escape,2022,Utility 4D SEL AWD Hybrid,34055,jdpower
+Ford,Escape,2022,Utility 4D Titanium 2WD Hybrid,35095,jdpower
+Ford,Escape,2022,Utility 4D Titanium Plug-In Hybrid,40700,jdpower
+Ford,Escape,2022,Utility 4D Titanium AWD,37305,jdpower
+Ford,Escape,2022,Utility 4D Titanium AWD Hybrid,36595,jdpower
+Ford,Escape,2023,Utility 4D 2WD,28000,jdpower
+Ford,Escape,2023,Utility 4D Active 2WD Hybrid,29345,jdpower
+Ford,Escape,2023,Utility 4D Active 2WD,29345,jdpower
+Ford,Escape,2023,Utility 4D AWD,29500,jdpower
+Ford,Escape,2023,Utility 4D ST Line 2WD,30340,jdpower
+Ford,Escape,2023,Utility 4D ST-Line 2WD Hybrid,30340,jdpower
+Ford,Escape,2023,Utility 4D Active AWD Hybrid,31515,jdpower
+Ford,Escape,2023,Utility 4D Active AWD,31515,jdpower
+Ford,Escape,2023,Utility 4D 2WD Plug-In Hybrid,40500,jdpower
+Ford,Escape,2023,Utility 4D ST Line AWD,32510,jdpower
+Ford,Escape,2023,Utility 4D ST-Line Select AWD Hybrid,35040,jdpower
+Ford,Escape,2023,Utility 4D ST-Line Select AWD,35040,jdpower
+Ford,Escape,2023,Utility 4D Platinum 2WD Hybrid,36965,jdpower
+Ford,Escape,2023,Utility 4D Titanium AWD Hybrid,38465,jdpower
+Ford,Escape,2023,Utility 4D Platinum AWD,38465,jdpower
+Ford,Escape,2023,Utility 4D ST-Line Elite AWD Hybrid,39460,jdpower
+Ford,Escape,2023,Utility 4D ST-Line Elite AWD,39460,jdpower
+Ford,Escape,2024,Utility 4D 2WD,28000,jdpower
+Ford,Escape,2024,Utility 4D Active 2WD,29495,jdpower
+Ford,Escape,2024,Utility 4D AWD,29500,jdpower
+Ford,Escape,2024,Utility 4D Active AWD,31665,jdpower
+Ford,Escape,2024,Utility 4D ST-Line 2WD Hybrid,30490,jdpower
+Ford,Escape,2024,Utility 4D ST Line 2WD,30490,jdpower
+Ford,Escape,2024,Utility 4D 2WD Plug-In Hybrid,40500,jdpower
+Ford,Escape,2024,Utility 4D ST Line AWD,32660,jdpower
+Ford,Escape,2024,Utility 4D ST-Line Select AWD Hybrid,35190,jdpower
+Ford,Escape,2024,Utility 4D ST-Line Select AWD,35190,jdpower
+Ford,Escape,2024,Utility 4D Platinum 2WD Hybrid,37115,jdpower
+Ford,Escape,2024,Utility 4D Platinum AWD Hybrid,38615,jdpower
+Ford,Escape,2024,Utility 4D Platinum AWD,38615,jdpower
+Ford,Escape,2024,Utility 4D ST-Line Elite AWD,39610,jdpower
+Ford,Escape,2024,Utility 4D ST-Line Elite AWD Hybrid,39610,jdpower
+Ford,Escape,2025,Active FWD,29515,jdpower
+Ford,Escape,2025,Active AWD,30915,jdpower
+Ford,Escape,2025,ST-Line FWD,30360,jdpower
+Ford,Escape,2025,ST-Line AWD,31760,jdpower
+Ford,Escape,2025,ST-Line Select AWD,34190,jdpower
+Ford,Escape,2025,Platinum FWD,35615,jdpower
+Ford,Escape,2025,Platinum AWD,37115,jdpower
+Ford,Escape,2025,ST-Line Elite AWD,38110,jdpower
+Ford,Escape,2025,PHEV FWD,38400,jdpower
+Ford,Escape,2026,Active FWD,30350,jdpower
+Ford,Escape,2026,ST-Line FWD,31195,jdpower
+Ford,Escape,2026,Active AWD,31750,jdpower
+Ford,Escape,2026,ST-Line AWD,32595,jdpower
+Ford,Escape,2026,ST-Line Select AWD,33890,jdpower
+Ford,Escape,2026,Platinum AWD,36215,jdpower
+Ford,Escape,2026,ST-Line Elite AWD,37210,jdpower
+Ford,Escape,2026,PHEV FWD,35400,jdpower
+Ford,Explorer,2008,Utility 4D XLT 2WD,26623,jdpower
+Ford,Explorer,2008,Utility 4D XLT 4WD,28918,jdpower
+Ford,Explorer,2008,Utility 4D Eddie Bauer 2WD,29155,jdpower
+Ford,Explorer,2008,Utility 4D Eddie Bauer 4WD/AWD,31654,jdpower
+Ford,Explorer,2008,Utility 4D Limited 2WD,32925,jdpower
+Ford,Explorer,2008,Utility 4D Limited 4WD/AWD,35424,jdpower
+Ford,Explorer,2009,Utility 4D XLT 2WD,29125,jdpower
+Ford,Explorer,2009,Utility 4D XLT 4WD/AWD,31445,jdpower
+Ford,Explorer,2009,Utility 4D Eddie Bauer 2WD,32270,jdpower
+Ford,Explorer,2009,Utility 4D Eddie Bauer 4WD/AWD,34590,jdpower
+Ford,Explorer,2009,Utility 4D Limited 2WD,36205,jdpower
+Ford,Explorer,2009,Utility 4D Limited 4WD/AWD,38525,jdpower
+Ford,Explorer,2010,Utility 4D XLT 2WD,29280,jdpower
+Ford,Explorer,2010,Utility 4D XLT 4WD/AWD,31600,jdpower
+Ford,Explorer,2010,Utility 4D Eddie Bauer 2WD,33280,jdpower
+Ford,Explorer,2010,Utility 4D Eddie Bauer 4WD/AWD,35600,jdpower
+Ford,Explorer,2010,Utility 4D Limited 2WD,36280,jdpower
+Ford,Explorer,2010,Utility 4D Limited 4WD/AWD,38600,jdpower
+Ford,Explorer,2011,Utility 4D 2WD,28360,jdpower
+Ford,Explorer,2011,Utility 4D 4WD,30360,jdpower
+Ford,Explorer,2011,Utility 4D XLT 2WD,31520,jdpower
+Ford,Explorer,2011,Utility 4D XLT 4WD,33520,jdpower
+Ford,Explorer,2011,Utility 4D Limited 2WD,37535,jdpower
+Ford,Explorer,2011,Utility 4D Limited 4WD,39535,jdpower
+Ford,Explorer,2012,Utility 4D EcoBoost 2WD (4 Cyl),28280,jdpower
+Ford,Explorer,2012,Utility 4D 2WD,28280,jdpower
+Ford,Explorer,2012,Utility 4D 4WD,30280,jdpower
+Ford,Explorer,2012,Utility 4D XLT EcoBoost 2WD (4 Cyl),32095,jdpower
+Ford,Explorer,2012,Utility 4D XLT 2WD,32095,jdpower
+Ford,Explorer,2012,Utility 4D XLT 4WD,34095,jdpower
+Ford,Explorer,2012,Utility 4D Limited EcoBoost 2WD (4 C,37855,jdpower
+Ford,Explorer,2012,Utility 4D Limited 2WD,37855,jdpower
+Ford,Explorer,2012,Utility 4D Limited 4WD,39855,jdpower
+Ford,Explorer,2013,Utility 4D EcoBoost 2WD (4 Cyl),29100,jdpower
+Ford,Explorer,2013,Utility 4D 2WD,29100,jdpower
+Ford,Explorer,2013,Utility 4D 4WD,31100,jdpower
+Ford,Explorer,2013,Utility 4D XLT EcoBoost 2WD (4 Cyl),32680,jdpower
+Ford,Explorer,2013,Utility 4D XLT 2WD,32680,jdpower
+Ford,Explorer,2013,Utility 4D XLT 4WD,34680,jdpower
+Ford,Explorer,2013,Utility 4D Limited 2WD,38100,jdpower
+Ford,Explorer,2013,Utility 4D Limited EcoBoost 2WD (4 C,38100,jdpower
+Ford,Explorer,2013,Utility 4D Limited 4WD,40100,jdpower
+Ford,Explorer,2013,Utility 4D Sport 4WD,40780,jdpower
+Ford,Explorer,2014,Utility 4D EcoBoost 2WD I4,30015,jdpower
+Ford,Explorer,2014,Utility 4D 2WD,30015,jdpower
+Ford,Explorer,2014,Utility 4D 4WD,32015,jdpower
+Ford,Explorer,2014,Utility 4D XLT EcoBoost 2WD I4,32900,jdpower
+Ford,Explorer,2014,Utility 4D XLT 2WD,32900,jdpower
+Ford,Explorer,2014,Utility 4D XLT 4WD,34900,jdpower
+Ford,Explorer,2014,Utility 4D Limited 2WD,38100,jdpower
+Ford,Explorer,2014,Utility 4D Limited EcoBoost 2WD I4,38100,jdpower
+Ford,Explorer,2014,Utility 4D Sport 4WD,41675,jdpower
+Ford,Explorer,2014,Utility 4D Limited 4WD,40100,jdpower
+Ford,Explorer,2015,Utility 4D EcoBoost 2WD I4 Turbo,30700,jdpower
+Ford,Explorer,2015,Utility 4D 2WD,30700,jdpower
+Ford,Explorer,2015,Utility 4D 4WD,32700,jdpower
+Ford,Explorer,2015,Utility 4D XLT EcoBoost 2WD I4,33000,jdpower
+Ford,Explorer,2015,Utility 4D XLT 2WD,33000,jdpower
+Ford,Explorer,2015,Utility 4D XLT 4WD,35000,jdpower
+Ford,Explorer,2015,Utility 4D Limited EcoBoost 2WD I4,38200,jdpower
+Ford,Explorer,2015,Utility 4D Limited 2WD,38200,jdpower
+Ford,Explorer,2015,Utility 4D Limited 4WD,40200,jdpower
+Ford,Explorer,2015,Utility 4D Sport 4WD,43100,jdpower
+Ford,Explorer,2016,Utility 4D EcoBoost 2WD I4,31050,jdpower
+Ford,Explorer,2016,Utility 4D 2WD V6,31050,jdpower
+Ford,Explorer,2016,Utility 4D EcoBoost 4WD I4,33050,jdpower
+Ford,Explorer,2016,Utility 4D 4WD V6,33050,jdpower
+Ford,Explorer,2016,Utility 4D XLT EcoBoost 2WD I4,33400,jdpower
+Ford,Explorer,2016,Utility 4D XLT 2WD V6,33400,jdpower
+Ford,Explorer,2016,Utility 4D XLT EcoBoost 4WD I4,35400,jdpower
+Ford,Explorer,2016,Utility 4D XLT 4WD V6,35400,jdpower
+Ford,Explorer,2016,Utility 4D Limited EcoBoost 2WD I4,41300,jdpower
+Ford,Explorer,2016,Utility 4D Limited 2WD V6,41300,jdpower
+Ford,Explorer,2016,Utility 4D Limited 4WD V6,43300,jdpower
+Ford,Explorer,2016,Utility 4D Limited EcoBoost 4WD I4,43300,jdpower
+Ford,Explorer,2016,Utility 4D Sport 4WD V6,43500,jdpower
+Ford,Explorer,2016,Utility 4D Platinum 4WD V6,52970,jdpower
+Ford,Explorer,2017,Utility 4D EcoBoost 2WD I4,31660,jdpower
+Ford,Explorer,2017,Utility 4D 2WD V6,31660,jdpower
+Ford,Explorer,2017,Utility 4D EcoBoost 4WD I4,33810,jdpower
+Ford,Explorer,2017,Utility 4D 4WD V6,33810,jdpower
+Ford,Explorer,2017,Utility 4D XLT EcoBoost 2WD I4,33775,jdpower
+Ford,Explorer,2017,Utility 4D XLT 2WD V6,33775,jdpower
+Ford,Explorer,2017,Utility 4D XLT 4WD V6,35925,jdpower
+Ford,Explorer,2017,Utility 4D XLT EcoBoost 4WD I4,35925,jdpower
+Ford,Explorer,2017,Utility 4D Limited EcoBoost 2WD I4,41675,jdpower
+Ford,Explorer,2017,Utility 4D Limited 2WD V6,41675,jdpower
+Ford,Explorer,2017,Utility 4D Limited EcoBoost 4WD I4,43825,jdpower
+Ford,Explorer,2017,Utility 4D Limited 4WD V6,43825,jdpower
+Ford,Explorer,2017,Utility 4D Sport 4WD V6,45355,jdpower
+Ford,Explorer,2017,Utility 4D Platinum 4WD V6,53235,jdpower
+Ford,Explorer,2018,Utility 4D EcoBoost 2WD I4,32140,jdpower
+Ford,Explorer,2018,Utility 4D 2WD V6,32140,jdpower
+Ford,Explorer,2018,Utility 4D 4WD V6,34290,jdpower
+Ford,Explorer,2018,Utility 4D EcoBoost 4WD I4,34290,jdpower
+Ford,Explorer,2018,Utility 4D XLT EcoBoost 2WD I4,34175,jdpower
+Ford,Explorer,2018,Utility 4D XLT 2WD V6,34175,jdpower
+Ford,Explorer,2018,Utility 4D XLT 4WD V6,36325,jdpower
+Ford,Explorer,2018,Utility 4D XLT EcoBoost 4WD I4,36325,jdpower
+Ford,Explorer,2018,Utility 4D Limited EcoBoost 2WD I4,42090,jdpower
+Ford,Explorer,2018,Utility 4D Limited 2WD V6,42090,jdpower
+Ford,Explorer,2018,Utility 4D Limited EcoBoost 4WD I4,44240,jdpower
+Ford,Explorer,2018,Utility 4D Limited 4WD V6,44240,jdpower
+Ford,Explorer,2018,Utility 4D Sport 4WD V6,45950,jdpower
+Ford,Explorer,2018,Utility 4D Platinum 4WD V6,53940,jdpower
+Ford,Explorer,2019,Utility 4D 2WD V6,32365,jdpower
+Ford,Explorer,2019,Utility 4D EcoBoost 2WD I4,32365,jdpower
+Ford,Explorer,2019,Utility 4D 4WD V6,34515,jdpower
+Ford,Explorer,2019,Utility 4D EcoBoost 4WD I4,34515,jdpower
+Ford,Explorer,2019,Utility 4D XLT EcoBoost 2WD I4,34400,jdpower
+Ford,Explorer,2019,Utility 4D XLT 2WD V6,34400,jdpower
+Ford,Explorer,2019,Utility 4D XLT 4WD V6,36550,jdpower
+Ford,Explorer,2019,Utility 4D XLT EcoBoost 4WD I4,36550,jdpower
+Ford,Explorer,2019,Utility 4D Limited EcoBoost 2WD I4,42765,jdpower
+Ford,Explorer,2019,Utility 4D Limited 2WD V6,42765,jdpower
+Ford,Explorer,2019,Utility 4D Limited EcoBoost 4WD I4,44915,jdpower
+Ford,Explorer,2019,Utility 4D Limited 4WD V6,44915,jdpower
+Ford,Explorer,2019,Utility 4D Sport 4WD V6,46625,jdpower
+Ford,Explorer,2019,Utility 4D Platinum 4WD V6,54165,jdpower
+Ford,Explorer,2020,Utility 4D 2WD I4,32765,jdpower
+Ford,Explorer,2020,Utility 4D 4WD I4,34765,jdpower
+Ford,Explorer,2020,Utility 4D 4WD V6,34765,jdpower
+Ford,Explorer,2020,Utility 4D XLT 2WD,36925,jdpower
+Ford,Explorer,2020,Utility 4D XLT 4WD,38925,jdpower
+Ford,Explorer,2020,Utility 4D Limited 2WD I4,48380,jdpower
+Ford,Explorer,2020,Utility 4D Limited 2WD Hybrid,48380,jdpower
+Ford,Explorer,2020,Utility 4D Limited 4WD I4,50380,jdpower
+Ford,Explorer,2020,Utility 4D Limited 4WD Hybrid,50380,jdpower
+Ford,Explorer,2020,Utility 4D Platinum 4WD V6,58250,jdpower
+Ford,Explorer,2020,Utility 4D ST 4WD,54740,jdpower
+Ford,Explorer,2021,Utility 4D 2WD,32925,jdpower
+Ford,Explorer,2021,Utility 4D 4WD V6,34925,jdpower
+Ford,Explorer,2021,Utility 4D 4WD I4,34925,jdpower
+Ford,Explorer,2021,Utility 4D XLT 2WD,35075,jdpower
+Ford,Explorer,2021,Utility 4D XLT 4WD,37075,jdpower
+Ford,Explorer,2021,Utility 4D Limited 2WD Hybrid,45255,jdpower
+Ford,Explorer,2021,Utility 4D Limited 2WD I4,45255,jdpower
+Ford,Explorer,2021,Utility 4D Timberline 4WD,46015,jdpower
+Ford,Explorer,2021,Utility 4D Limited 4WD I4,47255,jdpower
+Ford,Explorer,2021,Utility 4D Limited 4WD Hybrid,47255,jdpower
+Ford,Explorer,2021,Utility 4D Platinum 2WD,52730,jdpower
+Ford,Explorer,2021,Utility 4D King Ranch 2WD,52600,jdpower
+Ford,Explorer,2021,Utility 4D Platinum 4WD,53335,jdpower
+Ford,Explorer,2021,Utility 4D Platinum 4WD Hybrid,53335,jdpower
+Ford,Explorer,2021,Utility 4D King Ranch 4WD,54600,jdpower
+Ford,Explorer,2021,Utility 4D ST 4WD,49000,jdpower
+Ford,Explorer,2022,Utility 4D 2WD,35510,jdpower
+Ford,Explorer,2022,Utility 4D 4WD V6,37510,jdpower
+Ford,Explorer,2022,Utility 4D 4WD I4,37510,jdpower
+Ford,Explorer,2022,Utility 4D XLT 2WD,38570,jdpower
+Ford,Explorer,2022,Utility 4D ST Line 2WD,45760,jdpower
+Ford,Explorer,2022,Utility 4D XLT 4WD,40570,jdpower
+Ford,Explorer,2022,Utility 4D ST Line 4WD,47760,jdpower
+Ford,Explorer,2022,Utility 4D Limited 2WD I4,47070,jdpower
+Ford,Explorer,2022,Utility 4D Limited 2WD Hybrid,47070,jdpower
+Ford,Explorer,2022,Utility 4D Limited 4WD Hybrid,49070,jdpower
+Ford,Explorer,2022,Utility 4D Limited 4WD I4,49070,jdpower
+Ford,Explorer,2022,Utility 4D Platinum 2WD Hybrid,52375,jdpower
+Ford,Explorer,2022,Utility 4D Platinum 2WD,52375,jdpower
+Ford,Explorer,2022,Utility 4D Timberline 4WD,48320,jdpower
+Ford,Explorer,2022,Utility 4D King Ranch 2WD,53630,jdpower
+Ford,Explorer,2022,Utility 4D Platinum 4WD,54375,jdpower
+Ford,Explorer,2022,Utility 4D Platinum 4WD Hybrid,54375,jdpower
+Ford,Explorer,2022,Utility 4D ST 2WD,49260,jdpower
+Ford,Explorer,2022,Utility 4D King Ranch 4WD,55630,jdpower
+Ford,Explorer,2022,Utility 4D ST 4WD,51260,jdpower
+Ford,Explorer,2023,Utility 4D 2WD,36760,jdpower
+Ford,Explorer,2023,Utility 4D 4WD V6,38760,jdpower
+Ford,Explorer,2023,Utility 4D 4WD I4,38760,jdpower
+Ford,Explorer,2023,Utility 4D XLT 2WD,38570,jdpower
+Ford,Explorer,2023,Utility 4D XLT 4WD,40570,jdpower
+Ford,Explorer,2023,Utility 4D ST Line 2WD,46355,jdpower
+Ford,Explorer,2023,Utility 4D Limited 2WD I4,47420,jdpower
+Ford,Explorer,2023,Utility 4D Limited 2WD Hybrid,47420,jdpower
+Ford,Explorer,2023,Utility 4D ST Line 4WD,48355,jdpower
+Ford,Explorer,2023,Utility 4D Limited 4WD I4,49420,jdpower
+Ford,Explorer,2023,Utility 4D Limited 4WD Hybrid,49420,jdpower
+Ford,Explorer,2023,Utility 4D Timberline 4WD,49330,jdpower
+Ford,Explorer,2023,Utility 4D King Ranch 2WD,54525,jdpower
+Ford,Explorer,2023,Utility 4D Platinum 2WD Hybrid,54270,jdpower
+Ford,Explorer,2023,Utility 4D Platinum 2WD,54270,jdpower
+Ford,Explorer,2023,Utility 4D King Ranch 4WD,56525,jdpower
+Ford,Explorer,2023,Utility 4D ST 2WD,50005,jdpower
+Ford,Explorer,2023,Utility 4D Platinum 4WD Hybrid,56270,jdpower
+Ford,Explorer,2023,Utility 4D Platinum 4WD,56270,jdpower
+Ford,Explorer,2023,Utility 4D ST 4WD,52005,jdpower
+Ford,Explorer,2024,Utility 4D 2WD,36860,jdpower
+Ford,Explorer,2024,Utility 4D 4WD I4,38860,jdpower
+Ford,Explorer,2024,Utility 4D 4WD V6,38860,jdpower
+Ford,Explorer,2024,Utility 4D XLT 2WD,38670,jdpower
+Ford,Explorer,2024,Utility 4D Limited 2WD I4,47520,jdpower
+Ford,Explorer,2024,Utility 4D XLT 4WD,40670,jdpower
+Ford,Explorer,2024,Utility 4D ST Line 2WD,46455,jdpower
+Ford,Explorer,2024,Utility 4D Limited 4WD I4,49520,jdpower
+Ford,Explorer,2024,Utility 4D ST Line 4WD,48455,jdpower
+Ford,Explorer,2024,Utility 4D Timberline 4WD,49430,jdpower
+Ford,Explorer,2024,Utility 4D King Ranch 2WD,54625,jdpower
+Ford,Explorer,2024,Utility 4D Platinum 2WD,54770,jdpower
+Ford,Explorer,2024,Utility 4D ST 2WD,50105,jdpower
+Ford,Explorer,2024,Utility 4D King Ranch 4WD,56625,jdpower
+Ford,Explorer,2024,Utility 4D Platinum 4WD,56770,jdpower
+Ford,Explorer,2024,Utility 4D ST 4WD,52105,jdpower
+Ford,Explorer,2025,Active RWD,40050,jdpower
+Ford,Explorer,2025,ST-Line RWD,45020,jdpower
+Ford,Explorer,2025,Active 4WD,42050,jdpower
+Ford,Explorer,2025,ST-Line 4WD,47020,jdpower
+Ford,Explorer,2025,Platinum RWD,52525,jdpower
+Ford,Explorer,2025,Platinum 4WD,54525,jdpower
+Ford,Explorer,2025,ST RWD,54770,jdpower
+Ford,Explorer,2025,ST 4WD,56770,jdpower
+Ford,Explorer,2026,Active w/100A Pkg RWD,38465,jdpower
+Ford,Explorer,2026,Active w/100A Pkg 4WD,40465,jdpower
+Ford,Explorer,2026,ST-Line RWD,45155,jdpower
+Ford,Explorer,2026,ST-Line 4WD,47155,jdpower
+Ford,Explorer,2026,Tremor 4WD,48965,jdpower
+Ford,Explorer,2026,Platinum RWD,50965,jdpower
+Ford,Explorer,2026,Platinum 4WD,52965,jdpower
+Ford,Explorer,2026,ST RWD,54905,jdpower
+Ford,Explorer,2026,ST 4WD,56905,jdpower
+Chevrolet,Silverado 1500,2008,Regular Cab LT 2WD,21883,jdpower
+Chevrolet,Silverado 1500,2008,Regular Cab LT 4WD,26955,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LS 2WD,24990,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LT 2WD,25908,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LS 4WD,28155,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LT 4WD,30092,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LS 2WD,27565,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LT 2WD,29425,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LS 4WD,30665,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LT 4WD,32525,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LTZ 2WD,32535,jdpower
+Chevrolet,Silverado 1500,2008,Extended Cab LTZ 4WD,35660,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LTZ 2WD,35983,jdpower
+Chevrolet,Silverado 1500,2008,Crew Cab LTZ 4WD,39108,jdpower
+Chevrolet,Silverado 1500,2009,Regular Cab Work Truck 2WD,19375,jdpower
+Chevrolet,Silverado 1500,2009,Regular Cab Work Truck 4WD,22615,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab Work Truck 2WD,24790,jdpower
+Chevrolet,Silverado 1500,2009,Regular Cab LT 2WD,26490,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab Work Truck 4WD,29155,jdpower
+Chevrolet,Silverado 1500,2009,Regular Cab LT 4WD,29465,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LS 2WD,27820,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LT 4WD,31955,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LS 4WD,30970,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LS 2WD,30040,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LT 2WD,28805,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab Work Truck 2WD,29055,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab Work Truck 4WD,32205,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LS 4WD,33190,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LT 2WD,31145,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab XFE 2WD,32905,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LT 4WD,34295,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LTZ 2WD,34660,jdpower
+Chevrolet,Silverado 1500,2009,Extended Cab LTZ 4WD,37810,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LTZ 2WD,38205,jdpower
+Chevrolet,Silverado 1500,2009,Crew Cab LTZ 4WD,41355,jdpower
+Chevrolet,Silverado 1500,2010,Regular Cab Work Truck 2WD,20850,jdpower
+Chevrolet,Silverado 1500,2010,Regular Cab Work Truck 4WD,24090,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab Work Truck 2WD,25395,jdpower
+Chevrolet,Silverado 1500,2010,Regular Cab LT 2WD,26810,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LS 2WD,28140,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab Work Truck 4WD,29475,jdpower
+Chevrolet,Silverado 1500,2010,Regular Cab LT 4WD,29785,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LT 2WD,29125,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LS 4WD,31290,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LT 4WD,32275,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab Work Truck 4WD,32525,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LS 2WD,30360,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab Work Truck 2WD,29375,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LT 2WD,31465,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LS 4WD,33510,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LT 4WD,34615,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab XFE 2WD,33225,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LTZ 4WD,38430,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LTZ 2WD,38625,jdpower
+Chevrolet,Silverado 1500,2010,Extended Cab LTZ 2WD,35280,jdpower
+Chevrolet,Silverado 1500,2010,Crew Cab LTZ 4WD,41775,jdpower
+Chevrolet,Silverado 1500,2011,Regular Cab Work Truck 2WD,21235,jdpower
+Chevrolet,Silverado 1500,2011,Regular Cab Work Truck 4WD,24475,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab Work Truck 2WD,25780,jdpower
+Chevrolet,Silverado 1500,2011,Regular Cab LT 2WD,26810,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LS 2WD,28525,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab Work Truck 4WD,29860,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LS 4WD,31675,jdpower
+Chevrolet,Silverado 1500,2011,Regular Cab LT 4WD,30170,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LT 2WD,29510,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LS 2WD,30745,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab Work Truck 2WD,29760,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LT 4WD,32275,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab Work Truck 4WD,32910,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LS 4WD,33895,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LT 2WD,31850,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LT 4WD,35000,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab XFE 2WD,33610,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LTZ 2WD,35665,jdpower
+Chevrolet,Silverado 1500,2011,Extended Cab LTZ 4WD,38815,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LTZ 2WD,39010,jdpower
+Chevrolet,Silverado 1500,2011,Crew Cab LTZ 4WD,42160,jdpower
+Chevrolet,Silverado 1500,2012,Regular Cab Work Truck 2WD,22195,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab Work Truck 2WD,26340,jdpower
+Chevrolet,Silverado 1500,2012,Regular Cab Work Truck 4WD,25635,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LS 2WD,29925,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab Work Truck 4WD,30420,jdpower
+Chevrolet,Silverado 1500,2012,Regular Cab LT 2WD,27550,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab Work Truck 2WD,30320,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LS 4WD,33175,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LS 2WD,31995,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LT 2WD,30405,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LT 4WD,33655,jdpower
+Chevrolet,Silverado 1500,2012,Regular Cab LT 4WD,31110,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab Work Truck 4WD,33470,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LS 4WD,35170,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LT 2WD,32770,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab XFE 2WD,34525,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LTZ 2WD,36055,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LT 4WD,35970,jdpower
+Chevrolet,Silverado 1500,2012,Extended Cab LTZ 4WD,39205,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LTZ 2WD,39290,jdpower
+Chevrolet,Silverado 1500,2012,Crew Cab LTZ 4WD,42440,jdpower
+Chevrolet,Silverado 1500,2013,Regular Cab Work Truck 2WD,23590,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab Work Truck 2WD,27615,jdpower
+Chevrolet,Silverado 1500,2013,Regular Cab Work Truck 4WD,27530,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab Work Truck 4WD,31595,jdpower
+Chevrolet,Silverado 1500,2013,Regular Cab LT 2WD,29145,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LS 2WD,31770,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab Work Truck 2WD,31715,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LT 2WD,31800,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LS 2WD,33540,jdpower
+Chevrolet,Silverado 1500,2013,Regular Cab LT 4WD,32655,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LT 4WD,35250,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LS 4WD,35120,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab Work Truck 4WD,34865,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LT 2WD,34265,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LS 4WD,37015,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab XFE 2WD,36020,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LTZ 2WD,36775,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LT 4WD,37840,jdpower
+Chevrolet,Silverado 1500,2013,Extended Cab LTZ 4WD,40025,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LTZ 2WD,40235,jdpower
+Chevrolet,Silverado 1500,2013,Crew Cab LTZ 4WD,43385,jdpower
+Chevrolet,Silverado 1500,2014,Regular Cab Work Truck 2WD,25575,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab Work Truck 2WD,29600,jdpower
+Chevrolet,Silverado 1500,2014,Regular Cab Work Truck 4WD,29515,jdpower
+Chevrolet,Silverado 1500,2014,Regular Cab LT 2WD,31130,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab Work Truck 4WD,33580,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab Work Truck 2WD,33700,jdpower
+Chevrolet,Silverado 1500,2014,Regular Cab LT 4WD,34640,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab LT 2WD,33785,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab LT 4WD,37235,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab Work Truck 4WD,36850,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab LT 2WD,36250,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab LT 4WD,39825,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab LTZ 2WD,38660,jdpower
+Chevrolet,Silverado 1500,2014,Extended Cab LTZ 4WD,41910,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab LTZ 2WD,41120,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab LTZ 4WD,44270,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab High Country 2WD V8,45605,jdpower
+Chevrolet,Silverado 1500,2014,Crew Cab High Country 4WD V8,48880,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab Work Truck 2WD,26520,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab LS 2WD,28570,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab Work Truck 2WD,30545,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab Work Truck 4WD,30460,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab LS 4WD,32510,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LS 2WD,32005,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab LT 2WD,32365,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab Work Truck 4WD,34525,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab Work Truck 2WD,34970,jdpower
+Chevrolet,Silverado 1500,2015,Regular Cab LT 4WD,35875,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LS 4WD,35985,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LS 2WD,36830,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LT 2WD,35020,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab Work Truck 4WD,38120,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LT 4WD,38470,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LT 2WD,37485,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LS 4WD,39980,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LTZ 2WD,40250,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LT 4WD,41060,jdpower
+Chevrolet,Silverado 1500,2015,Extended Cab LTZ 4WD,43500,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LTZ 2WD,42710,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab LTZ 4WD,45860,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab High Country 2WD,48315,jdpower
+Chevrolet,Silverado 1500,2015,Crew Cab High Country 4WD,51590,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab Work Truck 2WD,27195,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab LS 2WD,29220,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab Work Truck 2WD,31220,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab Work Truck 4WD,31135,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LS 2WD,32970,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab LS 4WD,33160,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab Custom 2WD,33055,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab LT 2WD,33270,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab Work Truck 4WD,35200,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Work Truck SSV 2WD,35645,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Work Truck 2WD,35645,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LT 2WD,35925,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LS 4WD,36950,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab Custom 4WD,37035,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LS SSV 2WD,37445,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LS 2WD,37445,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Custom 2WD,37230,jdpower
+Chevrolet,Silverado 1500,2016,Regular Cab LT 4WD,37735,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Work Truck SSV 4WD,38795,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Work Truck 4WD,38795,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LT 4WD,40330,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LT eAssist 2WD Hybrid,38390,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LT 2WD,38390,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab Custom 4WD,40380,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LS 4WD,40595,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LS SSV 4WD,40595,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LTZ 2WD,41350,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LT 4WD,42920,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LTZ 2WD,43810,jdpower
+Chevrolet,Silverado 1500,2016,Extended Cab LTZ 4WD,45158,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab LTZ 4WD,47618,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab High Country 2WD,49840,jdpower
+Chevrolet,Silverado 1500,2016,Crew Cab High Country 4WD,53115,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab Work Truck 2WD,27785,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab LS 2WD,29810,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab Work Truck 2WD,31810,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab Work Truck 4WD,31725,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LS 2WD,33560,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab LT 2WD,34210,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab Custom 2WD,33645,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab LS 4WD,33750,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab Work Truck 4WD,35790,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LT 2WD,36865,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab Work Truck 2WD,36235,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab Work Truck SSV 2WD,36235,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LS 4WD,37540,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab Custom 4WD,37625,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LS SSV 4WD,38035,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LS SSV 2WD,38035,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LS 2WD,38035,jdpower
+Chevrolet,Silverado 1500,2017,Regular Cab LT 4WD,38675,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab Work Truck SSV 4WD,39385,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab Work Truck 4WD,39385,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LT 2WD,39330,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LT eAssist 2WD Hybrid,39330,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LT 4WD,41370,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LS 4WD,41185,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LTZ 2WD,41940,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LT eAssist 4WD Hybrid,43669,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LT 4WD,43669,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LTZ 2WD,44400,jdpower
+Chevrolet,Silverado 1500,2017,Extended Cab LTZ 4WD,45848,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab LTZ 4WD,48308,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab High Country 2WD,51700,jdpower
+Chevrolet,Silverado 1500,2017,Crew Cab High Country 4WD,54975,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab Work Truck 2WD,28300,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab LS 2WD,30400,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab Work Truck 4WD,32300,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab Work Truck 2WD,32400,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LS 2WD,34100,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab LS 4WD,34300,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab LT 2WD,34600,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab Custom 2WD,34200,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LT 2WD,37200,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab Work Truck 4WD,36300,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Work Truck SSV 2WD,34800,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Work Truck 2WD,34800,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LS 4WD,38100,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LS SSV 2WD,36600,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LS 2WD,36600,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Work Truck 4WD,38000,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Custom 2WD,36700,jdpower
+Chevrolet,Silverado 1500,2018,Regular Cab LT 4WD,39050,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab Custom 4WD,38200,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Work Truck SSV 4WD,38000,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LS 4WD,39800,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab Custom 4WD,39900,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LS SSV 4WD,39800,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LT 4WD,41750,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LT eAssist 2WD Hybrid,39700,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LT 2WD,39700,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LT eAssist 4WD Hybrid,44060,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LT 4WD,44060,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LTZ 2WD,42300,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LTZ 2WD,44700,jdpower
+Chevrolet,Silverado 1500,2018,Extended Cab LTZ 4WD,46200,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LTZ eAssist 4WD,48500,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab LTZ 4WD,48500,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab High Country 2WD,52000,jdpower
+Chevrolet,Silverado 1500,2018,Crew Cab High Country 4WD,55300,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab LT 2WD,36900,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab LTZ 2WD,43000,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab LTZ 2WD,45400,jdpower
+Chevrolet,Silverado 1500,2019,Regular Cab Work Truck 2WD,28300,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab RST 2WD,38800,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab LT 4WD,40200,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab LT 2WD,39300,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab High Country 2WD,53000,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab RST 2WD,41200,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab RST 4WD,42100,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab LT 4WD,42600,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab Work Truck 2WD,32200,jdpower
+Chevrolet,Silverado 1500,2019,Regular Cab Work Truck 4WD,32900,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab RST 4WD,44500,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab Work Truck 2WD,34600,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab LTZ 4WD,46300,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab Work Truck 4WD,35500,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab Custom 2WD,34600,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab Work Truck 4WD,37900,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab LTZ 4WD,48700,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab Custom 4WD,37900,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab Custom 2WD,37000,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab Custom Trail Boss 4WD,39500,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab High Country 4WD,56300,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab Custom 4WD,40300,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab Custom Trail Boss 4WD,41900,jdpower
+Chevrolet,Silverado 1500,2019,Extended Cab LT Trail Boss 4WD,45900,jdpower
+Chevrolet,Silverado 1500,2019,Crew Cab LT Trail Boss 4WD,48300,jdpower
+Chevrolet,Silverado 1500,2020,Regular Cab Work Truck 2WD,28500,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab Work Truck 2WD,32400,jdpower
+Chevrolet,Silverado 1500,2020,Regular Cab Work Truck 4WD,33100,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab Work Truck 2WD,34800,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab Work Truck 4WD,35700,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab Custom 2WD,34600,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab LT 2WD,37200,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab Work Truck 4WD,38100,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab Custom 4WD,37900,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab Custom 2WD,37000,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab LT 4WD,40500,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab Custom Trail Boss 4WD,39700,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab Custom 4WD,40300,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab LT 2WD,39600,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab RST 2WD,39100,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab LTZ 2WD,43300,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab Custom Trail Boss 4WD,42100,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab LT 4WD,42900,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab RST 4WD,42400,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab RST 2WD,41500,jdpower
+Chevrolet,Silverado 1500,2020,Extended Cab LTZ 4WD,46600,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab LTZ 2WD,45700,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab RST 4WD,44800,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab LT Trail Boss 4WD,48800,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab LTZ 4WD,49000,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab High Country 2WD,53300,jdpower
+Chevrolet,Silverado 1500,2020,Crew Cab High Country 4WD,56800,jdpower
+Chevrolet,Silverado 1500,2021,Regular Cab Work Truck 2WD,29300,jdpower
+Chevrolet,Silverado 1500,2021,Regular Cab Work Truck 4WD,33900,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab Work Truck 2WD,33200,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab Custom 2WD,36500,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab Work Truck 4WD,36500,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab Work Truck 2WD,35600,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab Custom 4WD,39800,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab Custom 2WD,38900,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab Work Truck 4WD,38900,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab LT 2WD,40300,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab LT Fleet 4WD,42100,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab Custom 4WD,42200,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab LT 4WD,43600,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LT 2WD,42700,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab Custom Trail Boss 4WD,41700,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LT Fleet 4WD,44500,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LT 4WD,46000,jdpower
+Chevrolet,Silverado 1500,2021,Extended Cab RST 4WD,44600,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab RST 2WD,43900,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab Custom Trail Boss 4WD,44100,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LTZ 2WD,49400,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab RST 4WD,47200,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LT Trail Boss 4WD,51500,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab High Country 2WD,53900,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab LTZ 4WD,52700,jdpower
+Chevrolet,Silverado 1500,2021,Crew Cab High Country 4WD,57400,jdpower
+Chevrolet,Silverado 1500,2022,Regular Cab Work Truck 2WD,34700,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab Work Truck 2WD,37900,jdpower
+Chevrolet,Silverado 1500,2022,Regular Cab Work Truck 4WD,39300,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab Custom 2WD,41600,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab Work Truck 4WD,41200,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab Work Truck 2WD,40300,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab Custom 4WD,44900,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab LT 2WD,45700,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab Work Truck 4WD,43600,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab Custom 2WD,43900,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab LT Fleet 4WD,47800,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab Custom 4WD,47300,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab LT 4WD,49000,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LT 2WD,48100,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LT Fleet 4WD,50200,jdpower
+Chevrolet,Silverado 1500,2022,Extended Cab RST 4WD,49900,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab Custom Trail Boss 4WD,49500,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab RST 2WD,50600,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LT 4WD,51400,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LTZ 2WD,54700,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab High Country 2WD,59800,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab RST 4WD,53900,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LT Trail Boss 4WD,55300,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab LTZ 4WD,58000,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab High Country 4WD,63300,jdpower
+Chevrolet,Silverado 1500,2022,Crew Cab ZR2 4WD,68400,jdpower
+Chevrolet,Silverado 1500,2023,Regular Cab Work Truck 2WD,36400,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab Work Truck 2WD,39600,jdpower
+Chevrolet,Silverado 1500,2023,Regular Cab Work Truck 4WD,41000,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab Work Truck 4WD,42900,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab Custom 2WD,43600,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab Work Truck 2WD,42000,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab LT 2WD,48000,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab Work Truck 4WD,45300,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab Custom 2WD,45900,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab Custom 4WD,46900,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab LT Fleet 4WD,50100,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab Custom 4WD,49300,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LT Fleet 4WD,52500,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LT 2WD,50400,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab LT 4WD,51300,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LT 4WD,53700,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab RST 2WD,51400,jdpower
+Chevrolet,Silverado 1500,2023,Extended Cab RST 4WD,52300,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LTZ 2WD,57200,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab Custom Trail Boss 4WD,51800,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab RST 4WD,54700,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab High Country 2WD,62100,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LTZ 4WD,60500,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab LT Trail Boss 4WD,58000,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab High Country 4WD,65600,jdpower
+Chevrolet,Silverado 1500,2023,Crew Cab ZR2 4WD,71500,jdpower
+Chevrolet,Silverado 1500,2024,Regular Cab Work Truck 2WD,36900,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab Work Truck 2WD,40100,jdpower
+Chevrolet,Silverado 1500,2024,Regular Cab Work Truck 4WD,41500,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab Work Truck 2WD,42500,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab Custom 2WD,43600,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab Work Truck 4WD,43400,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab Work Truck 4WD,45800,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab Custom 2WD,45900,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab Custom 4WD,46900,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab LT 2WD,48000,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab Custom 4WD,49300,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab LT Fleet 4WD,50100,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LT Fleet 4WD,52500,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab LT 4WD,51300,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LT 2WD,50400,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab RST 2WD,51400,jdpower
+Chevrolet,Silverado 1500,2024,Extended Cab RST 4WD,52300,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LT 4WD,53700,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LTZ 2WD,57200,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab Custom Trail Boss 4WD,51800,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab RST 4WD,54700,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LTZ 4WD,60500,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab LT Trail Boss 4WD,58000,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab High Country 2WD,62700,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab High Country 4WD,66200,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab ZR2 4WD,69900,jdpower
+Chevrolet,Silverado 1500,2024,Crew Cab ZR2 4WD T-Diesel,69900,jdpower
+Chevrolet,Silverado 1500,2025,2WD Reg Cab 126\\,37100,jdpower
+Chevrolet,Silverado 1500,2025,2WD Reg Cab 140\\,37100,jdpower
+Chevrolet,Silverado 1500,2025,2WD Double Cab 147\\,40300,jdpower
+Chevrolet,Silverado 1500,2025,4WD Reg Cab 126\\,41700,jdpower
+Chevrolet,Silverado 1500,2025,4WD Reg Cab 140\\,41700,jdpower
+Chevrolet,Silverado 1500,2025,2WD Crew Cab 147\\,42700,jdpower
+Chevrolet,Silverado 1500,2025,2WD Crew Cab 157\\,42700,jdpower
+Chevrolet,Silverado 1500,2025,4WD Double Cab 147\\,43600,jdpower
+Chevrolet,Silverado 1500,2025,4WD Crew Cab 147\\,46000,jdpower
+Chevrolet,Silverado 1500,2025,4WD Crew Cab 157\\,46000,jdpower
+Chevrolet,Silverado 1500,2026,2WD Reg Cab 126\\,37000,jdpower
+Chevrolet,Silverado 1500,2026,2WD Reg Cab 140\\,37000,jdpower
+Chevrolet,Silverado 1500,2026,2WD Double Cab 147\\,40200,jdpower
+Chevrolet,Silverado 1500,2026,2WD Crew Cab 147\\,44800,jdpower
+Chevrolet,Silverado 1500,2026,4WD Reg Cab 126\\,41600,jdpower
+Chevrolet,Silverado 1500,2026,4WD Reg Cab 140\\,41600,jdpower
+Chevrolet,Silverado 1500,2026,2WD Crew Cab 157\\,42700,jdpower
+Chevrolet,Silverado 1500,2026,4WD Double Cab 147\\,43500,jdpower
+Chevrolet,Silverado 1500,2026,4WD Crew Cab 147\\,46000,jdpower
+Chevrolet,Silverado 1500,2026,4WD Crew Cab 157\\,46000,jdpower
+Chevrolet,Equinox,2008,Utility 4D LS 2WD,22380,jdpower
+Chevrolet,Equinox,2008,Utility 4D LS AWD,23980,jdpower
+Chevrolet,Equinox,2008,Utility 4D 2LT 2WD,24088,jdpower
+Chevrolet,Equinox,2008,Utility 4D LT 2WD,24088,jdpower
+Chevrolet,Equinox,2008,Utility 4D LT AWD,25700,jdpower
+Chevrolet,Equinox,2008,Utility 4D 2LT AWD,25700,jdpower
+Chevrolet,Equinox,2008,Utility 4D LTZ 2WD,27080,jdpower
+Chevrolet,Equinox,2008,Utility 4D Sport 2WD,27380,jdpower
+Chevrolet,Equinox,2008,Utility 4D LTZ AWD,28680,jdpower
+Chevrolet,Equinox,2008,Utility 4D Sport AWD,28980,jdpower
+Chevrolet,Equinox,2009,Utility 4D LS 2WD,24315,jdpower
+Chevrolet,Equinox,2009,Utility 4D LS AWD,26310,jdpower
+Chevrolet,Equinox,2009,Utility 4D LT 2WD,25235,jdpower
+Chevrolet,Equinox,2009,Utility 4D LT AWD,27230,jdpower
+Chevrolet,Equinox,2009,Utility 4D 2LT 2WD,25235,jdpower
+Chevrolet,Equinox,2009,Utility 4D 2LT AWD,27230,jdpower
+Chevrolet,Equinox,2009,Utility 4D LTZ 2WD,29140,jdpower
+Chevrolet,Equinox,2009,Utility 4D LTZ AWD,31135,jdpower
+Chevrolet,Equinox,2009,Utility 4D Sport 2WD,29445,jdpower
+Chevrolet,Equinox,2009,Utility 4D Sport AWD,31440,jdpower
+Chevrolet,Equinox,2010,Utility 4D LS 2WD,22615,jdpower
+Chevrolet,Equinox,2010,Utility 4D LS AWD,24365,jdpower
+Chevrolet,Equinox,2010,Utility 4D LT 2WD,23535,jdpower
+Chevrolet,Equinox,2010,Utility 4D LT AWD,25285,jdpower
+Chevrolet,Equinox,2010,Utility 4D 2LT 2WD,25620,jdpower
+Chevrolet,Equinox,2010,Utility 4D 2LT AWD,27370,jdpower
+Chevrolet,Equinox,2010,Utility 4D LTZ 2WD,28220,jdpower
+Chevrolet,Equinox,2010,Utility 4D LTZ AWD,29970,jdpower
+Chevrolet,Equinox,2011,Utility 4D LS 2WD,22995,jdpower
+Chevrolet,Equinox,2011,Utility 4D LS AWD,24745,jdpower
+Chevrolet,Equinox,2011,Utility 4D LT 2WD,24160,jdpower
+Chevrolet,Equinox,2011,Utility 4D LT AWD,25910,jdpower
+Chevrolet,Equinox,2011,Utility 4D 2LT 2WD,26220,jdpower
+Chevrolet,Equinox,2011,Utility 4D 2LT AWD,27970,jdpower
+Chevrolet,Equinox,2011,Utility 4D LTZ 2WD,28570,jdpower
+Chevrolet,Equinox,2011,Utility 4D LTZ AWD,30320,jdpower
+Chevrolet,Equinox,2012,Utility 4D LS 2WD,23530,jdpower
+Chevrolet,Equinox,2012,Utility 4D LS AWD,25280,jdpower
+Chevrolet,Equinox,2012,Utility 4D LT 2WD,25050,jdpower
+Chevrolet,Equinox,2012,Utility 4D LT AWD,26800,jdpower
+Chevrolet,Equinox,2012,Utility 4D 2LT 2WD,26870,jdpower
+Chevrolet,Equinox,2012,Utility 4D 2LT AWD,28620,jdpower
+Chevrolet,Equinox,2012,Utility 4D LTZ 2WD,29220,jdpower
+Chevrolet,Equinox,2012,Utility 4D LTZ AWD,30970,jdpower
+Chevrolet,Equinox,2013,Utility 4D LS 2WD,24225,jdpower
+Chevrolet,Equinox,2013,Utility 4D LS AWD,25975,jdpower
+Chevrolet,Equinox,2013,Utility 4D LT 2WD,25870,jdpower
+Chevrolet,Equinox,2013,Utility 4D LT AWD,27620,jdpower
+Chevrolet,Equinox,2013,Utility 4D 2LT 2WD I4,27740,jdpower
+Chevrolet,Equinox,2013,Utility 4D 2LT AWD I4,29490,jdpower
+Chevrolet,Equinox,2013,Utility 4D LTZ 2WD,30985,jdpower
+Chevrolet,Equinox,2013,Utility 4D LTZ AWD,32735,jdpower
+Chevrolet,Equinox,2014,Utility 4D LS 2WD I4,24440,jdpower
+Chevrolet,Equinox,2014,Utility 4D LS AWD I4,26190,jdpower
+Chevrolet,Equinox,2014,Utility 4D LT 2WD I4,26085,jdpower
+Chevrolet,Equinox,2014,Utility 4D LT AWD I4,27835,jdpower
+Chevrolet,Equinox,2014,Utility 4D 2LT 2WD I4,27955,jdpower
+Chevrolet,Equinox,2014,Utility 4D 2LT AWD I4,29705,jdpower
+Chevrolet,Equinox,2014,Utility 4D LTZ 2WD I4,31650,jdpower
+Chevrolet,Equinox,2014,Utility 4D LTZ AWD I4,33400,jdpower
+Chevrolet,Equinox,2015,Utility 4D L 2WD I4,22120,jdpower
+Chevrolet,Equinox,2015,Utility 4D LS 2WD I4,24520,jdpower
+Chevrolet,Equinox,2015,Utility 4D LS AWD I4,26270,jdpower
+Chevrolet,Equinox,2015,Utility 4D LT 2WD I4,26170,jdpower
+Chevrolet,Equinox,2015,Utility 4D 2LT 2WD I4,28170,jdpower
+Chevrolet,Equinox,2015,Utility 4D LT AWD I4,27920,jdpower
+Chevrolet,Equinox,2015,Utility 4D 2LT AWD I4,29920,jdpower
+Chevrolet,Equinox,2015,Utility 4D LTZ 2WD I4,31920,jdpower
+Chevrolet,Equinox,2015,Utility 4D LTZ AWD I4,33670,jdpower
+Chevrolet,Equinox,2016,Utility 4D L 2WD,22600,jdpower
+Chevrolet,Equinox,2016,Utility 4D LS 2WD,25410,jdpower
+Chevrolet,Equinox,2016,Utility 4D LS AWD,27160,jdpower
+Chevrolet,Equinox,2016,Utility 4D LT 2WD,26650,jdpower
+Chevrolet,Equinox,2016,Utility 4D LT AWD,28400,jdpower
+Chevrolet,Equinox,2016,Utility 4D LTZ 2WD,29940,jdpower
+Chevrolet,Equinox,2016,Utility 4D LTZ AWD,31690,jdpower
+Chevrolet,Equinox,2017,Utility 4D L 2WD,23100,jdpower
+Chevrolet,Equinox,2017,Utility 4D LS 2WD,25510,jdpower
+Chevrolet,Equinox,2017,Utility 4D LT Fleet 2WD,27245,jdpower
+Chevrolet,Equinox,2017,Utility 4D LS AWD,27260,jdpower
+Chevrolet,Equinox,2017,Utility 4D LT Fleet AWD,28995,jdpower
+Chevrolet,Equinox,2017,Utility 4D LT 2WD,26750,jdpower
+Chevrolet,Equinox,2017,Utility 4D LT AWD,28500,jdpower
+Chevrolet,Equinox,2017,Utility 4D Premier 2WD,30040,jdpower
+Chevrolet,Equinox,2017,Utility 4D Premier AWD,31790,jdpower
+Chevrolet,Equinox,2018,Utility 4D L 2WD,23580,jdpower
+Chevrolet,Equinox,2018,Utility 4D LS 2WD,25600,jdpower
+Chevrolet,Equinox,2018,Utility 4D LS AWD,27300,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT 2WD,26800,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT AWD,28500,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT 2WD 2.0L Turbo,29300,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT 2WD T-Diesel,30700,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT AWD 2.0L Turbo,33000,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier 2WD,30800,jdpower
+Chevrolet,Equinox,2018,Utility 4D LT AWD T-Diesel,32400,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier AWD,34500,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier 2WD 2.0L Turbo,33600,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier AWD 2.0L Turbo,37300,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier 2WD T-Diesel,33000,jdpower
+Chevrolet,Equinox,2018,Utility 4D Premier AWD T-Diesel,34800,jdpower
+Chevrolet,Equinox,2019,Utility 4D L 2WD,23800,jdpower
+Chevrolet,Equinox,2019,Utility 4D LS 2WD,25900,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT Fleet 2WD,28315,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT 2WD 1.5L Turbo,27200,jdpower
+Chevrolet,Equinox,2019,Utility 4D LS AWD,27600,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT Fleet AWD,30015,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT AWD 1.5L Turbo,28900,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT 2WD 2.0L Turbo,29700,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT 2WD T-Diesel,29600,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier 2WD 1.5L Turbo,31100,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT AWD 2.0L Turbo,31500,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier 2WD 2.0L Turbo,33900,jdpower
+Chevrolet,Equinox,2019,Utility 4D LT AWD T-Diesel,31300,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier AWD 1.5L Turbo,32900,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier 2WD T-Diesel,33300,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier AWD 2.0L Turbo,35700,jdpower
+Chevrolet,Equinox,2019,Utility 4D Premier AWD T-Diesel,35100,jdpower
+Chevrolet,Equinox,2020,Utility 4D L 2WD,23800,jdpower
+Chevrolet,Equinox,2020,Utility 4D LS Fleet 2WD,26500,jdpower
+Chevrolet,Equinox,2020,Utility 4D LS 2WD,26300,jdpower
+Chevrolet,Equinox,2020,Utility 4D LS Fleet AWD,28100,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT Fleet 2WD,27900,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT 2WD 1.5L Turbo,27500,jdpower
+Chevrolet,Equinox,2020,Utility 4D LS AWD,27900,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT Fleet AWD,29500,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT AWD 1.5L Turbo,29100,jdpower
+Chevrolet,Equinox,2020,Utility 4D Premier 2WD 1.5L Turbo,31400,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT 2WD 2.0L Turbo,30000,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT 2WD T-Diesel,29900,jdpower
+Chevrolet,Equinox,2020,Utility 4D Premier 2WD 2.0L Turbo,34100,jdpower
+Chevrolet,Equinox,2020,Utility 4D LT AWD 2.0L Turbo,31600,jdpower
+Chevrolet,Equinox,2020,Utility 4D Premier 2WD T-Diesel,33500,jdpower
+Chevrolet,Equinox,2020,Utility 4D Premier AWD 1.5L Turbo,33000,jdpower
+Chevrolet,Equinox,2020,Utility 4D Premier AWD 2.0L Turbo,35700,jdpower
+Chevrolet,Equinox,2021,Utility 4D L 2WD,23800,jdpower
+Chevrolet,Equinox,2021,Utility 4D LS Fleet 2WD,26600,jdpower
+Chevrolet,Equinox,2021,Utility 4D LS 2WD,26400,jdpower
+Chevrolet,Equinox,2021,Utility 4D LT Fleet 2WD,28000,jdpower
+Chevrolet,Equinox,2021,Utility 4D LT 2WD 1.5L Turbo,28000,jdpower
+Chevrolet,Equinox,2021,Utility 4D LS Fleet AWD,28200,jdpower
+Chevrolet,Equinox,2021,Utility 4D LS AWD,28000,jdpower
+Chevrolet,Equinox,2021,Utility 4D LT Fleet AWD,29600,jdpower
+Chevrolet,Equinox,2021,Utility 4D LT AWD 1.5L Turbo,29200,jdpower
+Chevrolet,Equinox,2021,Utility 4D Premier 2WD 1.5L Turbo,31500,jdpower
+Chevrolet,Equinox,2021,Utility 4D Premier AWD 1.5L Turbo,33100,jdpower
+Chevrolet,Equinox,2022,Utility 4D LS Fleet 2WD,26500,jdpower
+Chevrolet,Equinox,2022,Utility 4D LS 2WD,26300,jdpower
+Chevrolet,Equinox,2022,Utility 4D LT Fleet 2WD,27800,jdpower
+Chevrolet,Equinox,2022,Utility 4D LT 2WD,27400,jdpower
+Chevrolet,Equinox,2022,Utility 4D LS Fleet AWD,28100,jdpower
+Chevrolet,Equinox,2022,Utility 4D LS AWD,27900,jdpower
+Chevrolet,Equinox,2022,Utility 4D LT Fleet AWD,29400,jdpower
+Chevrolet,Equinox,2022,Utility 4D LT AWD,29000,jdpower
+Chevrolet,Equinox,2022,Utility 4D RS 2WD,30600,jdpower
+Chevrolet,Equinox,2022,Utility 4D Premier 2WD,31500,jdpower
+Chevrolet,Equinox,2022,Utility 4D RS AWD,32200,jdpower
+Chevrolet,Equinox,2022,Utility 4D Premier AWD,33100,jdpower
+Chevrolet,Equinox,2023,Utility 4D LS Fleet 2WD,26600,jdpower
+Chevrolet,Equinox,2023,Utility 4D LS 2WD,26600,jdpower
+Chevrolet,Equinox,2023,Utility 4D LS Fleet AWD,28200,jdpower
+Chevrolet,Equinox,2023,Utility 4D LT Fleet 2WD,27900,jdpower
+Chevrolet,Equinox,2023,Utility 4D LT 2WD,27700,jdpower
+Chevrolet,Equinox,2023,Utility 4D LS AWD,28200,jdpower
+Chevrolet,Equinox,2023,Utility 4D LT Fleet AWD,29500,jdpower
+Chevrolet,Equinox,2023,Utility 4D LT AWD,29300,jdpower
+Chevrolet,Equinox,2023,Utility 4D RS 2WD,30700,jdpower
+Chevrolet,Equinox,2023,Utility 4D Premier 2WD,31800,jdpower
+Chevrolet,Equinox,2023,Utility 4D RS AWD,32300,jdpower
+Chevrolet,Equinox,2023,Utility 4D Premier AWD,33400,jdpower
+Chevrolet,Equinox,2024,Utility 4D LS Fleet 2WD,26850,jdpower
+Chevrolet,Equinox,2024,Utility 4D LS 2WD,26600,jdpower
+Chevrolet,Equinox,2024,Utility 4D LS Fleet AWD,28450,jdpower
+Chevrolet,Equinox,2024,Utility 4D LT Fleet 2WD,28150,jdpower
+Chevrolet,Equinox,2024,Utility 4D LT 2WD,29495,jdpower
+Chevrolet,Equinox,2024,Utility 4D LS AWD,28200,jdpower
+Chevrolet,Equinox,2024,Utility 4D LT Fleet AWD,29750,jdpower
+Chevrolet,Equinox,2024,Utility 4D LT AWD,31095,jdpower
+Chevrolet,Equinox,2024,Utility 4D Premier 2WD,31800,jdpower
+Chevrolet,Equinox,2024,Utility 4D RS 2WD,30950,jdpower
+Chevrolet,Equinox,2024,Utility 4D Premier AWD,33400,jdpower
+Chevrolet,Equinox,2024,Utility 4D RS AWD,32550,jdpower
+Chevrolet,Equinox,2025,FWD 4dr LT w/1LT,28600,jdpower
+Chevrolet,Equinox,2025,AWD 4dr LT w/2LT,30600,jdpower
+Chevrolet,Equinox,2025,FWD 4dr ACTIV w/XDB,33000,jdpower
+Chevrolet,Equinox,2025,FWD 4dr RS w/1RS,33000,jdpower
+Chevrolet,Equinox,2025,AWD 4dr ACTIV w/KDZ,35000,jdpower
+Chevrolet,Equinox,2025,AWD 4dr RS w/2RS,35000,jdpower
+Chevrolet,Equinox,2026,FWD 4dr LT w/1LT,28800,jdpower
+Chevrolet,Equinox,2026,AWD 4dr LT w/2LT,30800,jdpower
+Chevrolet,Equinox,2026,FWD 4dr ACTIV w/XDB,33600,jdpower
+Chevrolet,Equinox,2026,FWD 4dr RS w/1RS,33600,jdpower
+Chevrolet,Equinox,2026,AWD 4dr ACTIV w/KDZ,35600,jdpower
+Chevrolet,Equinox,2026,AWD 4dr RS w/2RS,35600,jdpower
+Chevrolet,Malibu,2008,Sedan 4D LS,19345,jdpower
+Chevrolet,Malibu,2008,Sedan 4D LT,20305,jdpower
+Chevrolet,Malibu,2008,Sedan 4D Hybrid,22140,jdpower
+Chevrolet,Malibu,2008,Sedan 4D 2LT,23892,jdpower
+Chevrolet,Malibu,2008,Sedan 4D LTZ,25970,jdpower
+Chevrolet,Malibu,2009,Sedan 4D LS,21605,jdpower
+Chevrolet,Malibu,2009,Sedan 4D LT,22505,jdpower
+Chevrolet,Malibu,2009,Sedan 4D Hybrid,25555,jdpower
+Chevrolet,Malibu,2009,Sedan 4D 2LT,24705,jdpower
+Chevrolet,Malibu,2009,Sedan 4D LTZ,26880,jdpower
+Chevrolet,Malibu,2010,Sedan 4D LS,21825,jdpower
+Chevrolet,Malibu,2010,Sedan 4D LS Fleet,21905,jdpower
+Chevrolet,Malibu,2010,Sedan 4D LT,22715,jdpower
+Chevrolet,Malibu,2010,Sedan 4D 2LT,25175,jdpower
+Chevrolet,Malibu,2010,Sedan 4D LTZ,26955,jdpower
+Chevrolet,Malibu,2011,Sedan 4D LS,21975,jdpower
+Chevrolet,Malibu,2011,Sedan 4D LS Fleet,22055,jdpower
+Chevrolet,Malibu,2011,Sedan 4D LT,22975,jdpower
+Chevrolet,Malibu,2011,Sedan 4D 2LT,25385,jdpower
+Chevrolet,Malibu,2011,Sedan 4D LTZ,27165,jdpower
+Chevrolet,Malibu,2012,Sedan 4D LS,22110,jdpower
+Chevrolet,Malibu,2012,Sedan 4D LS Fleet,22200,jdpower
+Chevrolet,Malibu,2012,Sedan 4D LT,23470,jdpower
+Chevrolet,Malibu,2012,Sedan 4D 2LT,26300,jdpower
+Chevrolet,Malibu,2012,Sedan 4D LTZ,30200,jdpower
+Chevrolet,Malibu,2013,Sedan 4D Eco,24985,jdpower
+Chevrolet,Malibu,2013,Sedan 4D Eco 2LT I4 Hybrid,26595,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LS,21995,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LS Fleet I4,21760,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LT,23185,jdpower
+Chevrolet,Malibu,2013,Sedan 4D 2LT I4,24890,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LT I4 Turbo,26600,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LTZ,27365,jdpower
+Chevrolet,Malibu,2013,Sedan 4D LTZ I4 Turbo,29700,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LS I4,22340,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LS Fleet I4,22340,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LT I4,23610,jdpower
+Chevrolet,Malibu,2014,Sedan 4D Eco I4 Hybrid,25945,jdpower
+Chevrolet,Malibu,2014,Sedan 4D 2LT I4,25315,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LT I4 Turbo,26850,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LTZ I4,27790,jdpower
+Chevrolet,Malibu,2014,Sedan 4D LTZ I4 Turbo,29950,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LS I4,22465,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LS Fleet I4,22465,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LT I4,23735,jdpower
+Chevrolet,Malibu,2015,Sedan 4D 2LT I4,25595,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LT I4 Turbo,27130,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LTZ I4,28320,jdpower
+Chevrolet,Malibu,2015,Sedan 4D LTZ I4 Turbo,30480,jdpower
+Chevrolet,Malibu,2016,Sedan 4D L I4 Turbo,21625,jdpower
+Chevrolet,Malibu,2016,Sedan 4D LS I4 Turbo,23120,jdpower
+Chevrolet,Malibu,2016,Sedan 4D LS Fleet I4 Turbo,23120,jdpower
+Chevrolet,Malibu,2016,Sedan 4D I4 Hybrid,27770,jdpower
+Chevrolet,Malibu,2016,Sedan 4D 2LT I4 Turbo,28620,jdpower
+Chevrolet,Malibu,2016,Sedan 4D Premier 1.5 I4 Turbo,29120,jdpower
+Chevrolet,Malibu,2016,Sedan 4D Premier I4 Turbo,30920,jdpower
+Chevrolet,Malibu,2016,Sedan 4D LT I4 Turbo,25020,jdpower
+Chevrolet,Malibu,2017,Sedan 4D L I4 Turbo,21680,jdpower
+Chevrolet,Malibu,2017,Sedan 4D LS I4 Turbo,23225,jdpower
+Chevrolet,Malibu,2017,Sedan 4D LS Fleet I4 Turbo,23225,jdpower
+Chevrolet,Malibu,2017,Sedan 4D I4 Hybrid,27875,jdpower
+Chevrolet,Malibu,2017,Sedan 4D LT I4 Turbo,25125,jdpower
+Chevrolet,Malibu,2017,Sedan 4D Premier I4 Turbo,30975,jdpower
+Chevrolet,Malibu,2018,Sedan 4D L I4 Turbo,21680,jdpower
+Chevrolet,Malibu,2018,Sedan 4D LS Fleet I4 Turbo,23225,jdpower
+Chevrolet,Malibu,2018,Sedan 4D LS I4 Turbo,23320,jdpower
+Chevrolet,Malibu,2018,Sedan 4D I4 Hybrid,27920,jdpower
+Chevrolet,Malibu,2018,Sedan 4D LT I4 Turbo,25220,jdpower
+Chevrolet,Malibu,2018,Sedan 4D Premier I4 Turbo,31020,jdpower
+Chevrolet,Malibu,2019,Sedan 4D L,22090,jdpower
+Chevrolet,Malibu,2019,Sedan 4D LS,23220,jdpower
+Chevrolet,Malibu,2019,Sedan 4D LS Fleet,23220,jdpower
+Chevrolet,Malibu,2019,Sedan 4D LT,26620,jdpower
+Chevrolet,Malibu,2019,Sedan 4D RS,24220,jdpower
+Chevrolet,Malibu,2019,Sedan 4D Hybrid,28220,jdpower
+Chevrolet,Malibu,2019,Sedan 4D Premier,31820,jdpower
+Chevrolet,Malibu,2020,Sedan 4D L,22140,jdpower
+Chevrolet,Malibu,2020,Sedan 4D LS,23270,jdpower
+Chevrolet,Malibu,2020,Sedan 4D LS Fleet,23270,jdpower
+Chevrolet,Malibu,2020,Sedan 4D LT,26670,jdpower
+Chevrolet,Malibu,2020,Sedan 4D RS,24270,jdpower
+Chevrolet,Malibu,2020,Sedan 4D Premier,33370,jdpower
+Chevrolet,Malibu,2021,Sedan 4D L,22270,jdpower
+Chevrolet,Malibu,2021,Sedan 4D LS,23400,jdpower
+Chevrolet,Malibu,2021,Sedan 4D LT,26800,jdpower
+Chevrolet,Malibu,2021,Sedan 4D LS Fleet,23400,jdpower
+Chevrolet,Malibu,2021,Sedan 4D RS,24400,jdpower
+Chevrolet,Malibu,2021,Sedan 4D Premier,33500,jdpower
+Chevrolet,Malibu,2022,Sedan 4D LS,23400,jdpower
+Chevrolet,Malibu,2022,Sedan 4D LS Fleet,23400,jdpower
+Chevrolet,Malibu,2022,Sedan 4D LT,26800,jdpower
+Chevrolet,Malibu,2022,Sedan 4D RS,24400,jdpower
+Chevrolet,Malibu,2022,Sedan 4D Premier,33500,jdpower
+Chevrolet,Malibu,2023,Sedan 4D LS,25000,jdpower
+Chevrolet,Malibu,2023,Sedan 4D LS Fleet,24700,jdpower
+Chevrolet,Malibu,2023,Sedan 4D LT,28100,jdpower
+Chevrolet,Malibu,2023,Sedan 4D RS,26000,jdpower
+Chevrolet,Malibu,2023,Sedan 4D 2LT,31500,jdpower
+Chevrolet,Malibu,2024,Sedan 4D LS,25100,jdpower
+Chevrolet,Malibu,2024,Sedan 4D LS Fleet,24700,jdpower
+Chevrolet,Malibu,2024,Sedan 4D RS,26000,jdpower
+Chevrolet,Malibu,2024,Sedan 4D LT,28100,jdpower
+Chevrolet,Malibu,2024,Sedan 4D 2LT,31500,jdpower
+Chevrolet,Malibu,2025,4dr Sdn LS w/1FL,24700,jdpower
+Chevrolet,Malibu,2025,4dr Sdn LS w/1LS,25800,jdpower
+Chevrolet,Malibu,2025,4dr Sdn RS,26800,jdpower
+Chevrolet,Malibu,2025,4dr Sdn 1LT,28100,jdpower
+Chevrolet,Malibu,2025,4dr Sdn 2LT,31500,jdpower
+Honda,Civic,2013,Coupe 2D LX I4,18365,jdpower
+Honda,Civic,2013,Coupe 2D EX I4,21835,jdpower
+Honda,Civic,2013,Coupe 2D Si I4,23265,jdpower
+Honda,Civic,2014,Coupe 2D LX I4,18590,jdpower
+Honda,Civic,2014,Coupe 2D EX I4,21990,jdpower
+Honda,Civic,2014,Coupe 2D Si I4,22790,jdpower

@@ -1,0 +1,196 @@
+============================================================
+DATASET OVERVIEW
+============================================================
+Rows: 1541   Columns: 24
+
+Rows per source:
+source
+autolist      821
+craigslist    720
+
+Numeric columns:
+          price      msrp  value_retention     year    mileage  cylinders
+count   1541.00   1541.00          1541.00  1541.00    1541.00    1377.00
+mean   15622.95  29986.90             0.51  2017.86   99921.24       4.64
+std     9131.60   7677.98             0.24     4.57   54934.48       1.32
+min     1350.00  16750.00             0.06  2008.00     112.00       3.00
+25%     8900.00  24940.00             0.32  2015.00   57611.00       4.00
+50%    14500.00  28170.00             0.51  2018.00   98000.00       4.00
+75%    20349.00  33785.00             0.68  2021.00  136734.00       4.00
+max    69900.00  64915.00             1.43  2026.00  322500.00       8.00
+
+Median by source:
+              price   mileage    year  value_retention
+source                                                
+autolist    17795.0   73232.0  2020.0             0.61
+craigslist   9640.0  121190.5  2016.0             0.35
+
+Missing values (count and percent):
+  vin: 380 (24.7%)
+  trim: 332 (21.5%)
+  body_type: 23 (1.5%)
+  transmission: 2 (0.1%)
+  drivetrain: 168 (10.9%)
+  fuel_type: 3 (0.2%)
+  cylinders: 164 (10.6%)
+  exterior_color: 233 (15.1%)
+  condition: 1065 (69.1%)
+  title_status: 836 (54.3%)
+  description: 821 (53.3%)
+
+make (4 unique values):
+make
+Ford         403
+Toyota       383
+Chevrolet    379
+Honda        376
+
+model (12 unique values):
+model
+Escape            145
+Equinox           138
+Explorer          134
+CR-V              134
+RAV4              132
+Malibu            129
+Camry             127
+Civic             126
+F-150             124
+Corolla           124
+Accord            116
+Silverado 1500    112
+
+body_type (9 unique values):
+body_type
+suv            656
+sedan          565
+pickup         233
+hatchback       26
+coupe           21
+other           13
+offroad          2
+van              1
+convertible      1
+
+transmission (3 unique values):
+transmission
+automatic    1502
+manual         24
+other          13
+
+drivetrain (3 unique values):
+drivetrain
+fwd        782
+awd/4wd    515
+rwd         76
+
+fuel_type (4 unique values):
+fuel_type
+gas       1460
+hybrid      55
+other       14
+diesel       9
+
+exterior_color (13 unique values):
+exterior_color
+white     283
+gray      271
+black     261
+silver    178
+blue      156
+red        94
+brown      23
+other      21
+green      14
+gold        4
+purple      1
+orange      1
+yellow      1
+
+condition (6 unique values):
+condition
+excellent    241
+good         139
+like new      79
+salvage        7
+new            6
+fair           4
+
+title_status (4 unique values):
+title_status
+clean      652
+rebuilt     37
+salvage     15
+lien         1
+
+seller_type (2 unique values):
+seller_type
+dealer    1201
+owner      340
+
+state (49 unique values):
+state
+TX    201
+FL    150
+CA    105
+CO    102
+GA    100
+AZ     96
+IL     95
+NY     94
+PA     89
+WA     79
+NC     30
+WI     27
+VA     26
+MA     22
+OH     22
+TN     20
+NJ     19
+MN     18
+MI     18
+OK     18
+OR     18
+KY     16
+IN     15
+SC     15
+MO     13
+UT     13
+AL     11
+NE     10
+MS      9
+HI      9
+KS      8
+ND      8
+IA      7
+NV      7
+ID      7
+CT      5
+MD      5
+SD      4
+MT      4
+NM      4
+WY      4
+DE      3
+AR      3
+NH      3
+WV      2
+LA      2
+VT      2
+RI      2
+AK      1
+
+Correlation of numeric columns with value_retention:
+price              0.860
+msrp               0.150
+value_retention    1.000
+year               0.678
+mileage           -0.734
+cylinders         -0.072
+
+Median value retention by make:
+make
+Toyota       0.605
+Honda        0.558
+Chevrolet    0.453
+Ford         0.404
